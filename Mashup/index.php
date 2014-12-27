@@ -8,5 +8,6 @@
 
 require_once("./View/echoHTML.php");
 
+
 $view = new echoHTML();
 echo $view->echoHTML();

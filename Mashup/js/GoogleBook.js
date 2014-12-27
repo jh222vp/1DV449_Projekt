@@ -5,14 +5,17 @@
 function getISBN(ISBN)
 {
     readBook(ISBN)
-
 }
 
 function readBook(ISBN)
 {
-    console.log(ISBN);
     var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
-    viewer.load(ISBN);
+    viewer.load('ISBN:'+ISBN, alertNotFound);
+}
+
+function alertNotFound()
+{
+    console.log("Book Not Found!")
 }
 
 var defaultISBN = 'ISBN:0738531367';
