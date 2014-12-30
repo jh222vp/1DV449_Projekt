@@ -1,0 +1,439 @@
+[
+        {
+            "identifier": "http://libris.kb.se/bib/13148680",
+            "title": "From Stimulus to Science [Elektronisk resurs]",
+            "creator": "Quine, W. V.",
+            "isbn": "8478887423",
+            "type": "E-book",
+            "publisher": "Harvard University Press",
+            "date": "1995",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "From Stimulus to Science",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282849", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "Bthd": [
+                    ["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10318488", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hald": [
+                    ["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10318488", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+                ],
+                "HdE": [
+                    ["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10318488", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787186&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Hibd": [
+                    ["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10318488", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787186&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10318488", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787186&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282849", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ],
+                "Odig": [
+                    ["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10318488", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10318488", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787186&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787186&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Udix": [
+                    ["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10318488", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Zdig": [
+                    ["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10318488", ["Online access for Chalmers", "Ebrary"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/13150959",
+            "title": "Mathematical Logic [Elektronisk resurs]",
+            "creator": "Quine, W. V.",
+            "isbn": "9780674042469",
+            "type": "E-book",
+            "publisher": "Harvard University Press",
+            "date": "1940",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "Mathematical Logic",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282692", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "Bthd": [
+                    ["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10331337", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hald": [
+                    ["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10331337", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+                ],
+                "HdE": [
+                    ["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10331337", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805646&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Hibd": [
+                    ["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10331337", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805646&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10331337", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805646&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282692", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ],
+                "Odig": [
+                    ["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10331337", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10331337", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805646&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805646&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Udix": [
+                    ["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10331337", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Zdig": [
+                    ["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10331337", ["Online access for Chalmers", "Ebrary"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/13148642",
+            "title": "Philosophy of Logic [Elektronisk resurs]",
+            "creator": "Quine, W. V.",
+            "isbn": "9780674042445",
+            "type": "E-book",
+            "publisher": "Harvard University Press",
+            "date": "1986",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "Philosophy of Logic",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282715", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "Bthd": [
+                    ["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10314240", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hald": [
+                    ["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10314240", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+                ],
+                "HdE": [
+                    ["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10314240", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787128&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Hibd": [
+                    ["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10314240", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787128&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Kdig": [
+                    ["https://login.bibproxy.kau.se:8443/login?url=http://site.ebrary.com/lib/kaubib/Top?channelName=kaubib&cpage=1&docID=10314240", ["Online access for KaU", "Ebrary Academic Complete"]]
+                ],
+                "LTUd": [
+                    ["http://proxy.lib.ltu.se/login?url=http://site.ebrary.com/lib/lulea/Top?channelName=lulea&cpage=1&docID=10314240", ["Online access for LTU", "Ebrary Academic Complete"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10314240", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787128&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282715", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ],
+                "Odig": [
+                    ["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10314240", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10314240", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787128&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787128&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Udix": [
+                    ["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10314240", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Zdig": [
+                    ["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10314240", ["Online access for Chalmers", "Ebrary"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/13150971",
+            "title": "Quiddities: An Intermittently Philosophical Dictionary [Elektronisk resurs]",
+            "creator": "Quine, W. V.",
+            "isbn": "9780674042438",
+            "type": "E-book",
+            "publisher": "Harvard University Press",
+            "date": "1987",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "Quiddities: An Intermittently Philosophical Dictionary",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282727", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "Bthd": [
+                    ["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10331281", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hald": [
+                    ["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10331281", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+                ],
+                "HdE": [
+                    ["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10331281", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805660&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Hibd": [
+                    ["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10331281", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805660&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10331281", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805660&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282727", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ],
+                "Odig": [
+                    ["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10331281", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10331281", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805660&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000805660&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Udix": [
+                    ["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10331281", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Zdig": [
+                    ["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10331281", ["Online access for Chalmers", "Ebrary"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/14682606",
+            "title": "Set Theory and Its Logic [Elektronisk resurs]",
+            "creator": "Quine, W. V.",
+            "isbn": "9780674042421",
+            "type": "E-book",
+            "publisher": "Harvard University Press",
+            "date": "1969",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "Set Theory and Its Logic",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282745", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "Bthd": [
+                    ["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10314191", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hald": [
+                    ["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10314191", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+                ],
+                "HdE": [
+                    ["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10314191", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787137&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Hibd": [
+                    ["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10314191", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787137&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10314191", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787137&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=282745", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ],
+                "Odig": [
+                    ["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10314191", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10314191", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787137&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000787137&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Udix": [
+                    ["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10314191", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+                ],
+                "Zdig": [
+                    ["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10314191", ["Online access for Chalmers", "Ebrary"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/6131039",
+            "title": "Essays on the philosophy of W.V. Quine",
+            "isbn": "0855270187",
+            "type": "book",
+            "publisher": "Hassocks, Sussex : Harvester P",
+            "date": "cop. 1979",
+            "language": "eng"
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/14566224",
+            "title": "Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work [Elektronisk resurs]",
+            "creator": "Creath, Richard.",
+            "isbn": "9780520909823",
+            "type": "E-book",
+            "publisher": "University of California Press",
+            "date": "1990",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work",
+            "urls": {
+                "AlbE": [
+                    ["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=34582", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+                ],
+                "HigE": [
+                    ["http://webproxy.student.hig.se:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=34582", ["Endast för användare inom Högskolan i Gävle", "EBSCO eBooks"]]
+                ],
+                "Mdhd": [
+                    ["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=34582", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/12262545",
+            "title": "W. V. Quine [Elektronisk resurs]",
+            "creator": "Orenstein",
+            "isbn": "9781844653126",
+            "type": "E-book",
+            "publisher": "Acumen",
+            "date": "2002",
+            "language": "und",
+            "description": [
+                "EBZ",
+                "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+            ],
+            "relation": "W. V. Quine",
+            "urls": {
+                "Hdig": [
+                    ["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Htue": [
+                    ["http://sfx-46htu.hosted.exlibrisgroup.com/46htu?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan Väst/Restricted access", "ebrary e-books:Full Text"]]
+                ],
+                "Jsld": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Kdig": [
+                    ["https://login.bibproxy.kau.se:8443/login?url=http://site.ebrary.com/lib/kaubib/Top?channelName=kaubib&cpage=1&docID=10455493", ["Online access for KaU", "Ebrary Academic Complete"]]
+                ],
+                "LTUd": [
+                    ["http://proxy.lib.ltu.se/login?url=http://site.ebrary.com/lib/lulea/Top?channelName=lulea&cpage=1&docID=10455493", ["Online access for LTU", "Ebrary Academic Complete"]]
+                ],
+                "LiUd": [
+                    ["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10455493", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+                ],
+                "Mahd": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+                ],
+                "Pvd": [
+                    ["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10455493", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+                ],
+                "Qdig": [
+                    ["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+                ],
+                "Rdig": [
+                    ["http://sfx-46riks.hosted.exlibrisgroup.com/46riks?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Riksdagsbiblioteket", "Ebrary: full text:Full Text"]]
+                ],
+                "Tdig": [
+                    ["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000080546&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+                ]
+            }
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/4739804",
+            "title": "The time of my life : an autobiography",
+            "creator": "Quine, Willard Van Orman, 1908-2000",
+            "isbn": "0262170035",
+            "type": "book",
+            "publisher": "Cambridge, Mass. : MIT Press",
+            "date": "cop. 1985",
+            "language": "eng"
+        },
+        {
+            "identifier": "http://libris.kb.se/bib/5735073",
+            "title": "The philosophy of W. V. Quine : an expository essay",
+            "creator": "Gibson, Roger F.",
+            "isbn": "0813007070",
+            "type": "book",
+            "publisher": "Tampa : Univ. Presses of Florida",
+            "date": "cop. 1982",
+            "language": "eng",
+            "description": "U Can $ 30.74"
+        }
+    ]

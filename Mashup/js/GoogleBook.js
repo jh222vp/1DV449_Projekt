@@ -4,7 +4,18 @@
 
 function getISBN(ISBN)
 {
-    readBook(ISBN)
+    previewBook(ISBN)
+}
+
+function previewBook(ISBN)
+{
+    var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
+    viewer.load('ISBN:'+ISBN, alert);
+}
+
+function alert()
+{
+    bootbox.alert("Tyvärr gick det inte att förhandsgranska denna boken på grund av olika anledningar. Bättre Lycka nästa gång!")
 }
 
 function readBook(ISBN)
@@ -15,9 +26,9 @@ function readBook(ISBN)
 
 function alertNotFound()
 {
-    console.log("Book Not Found!")
+    console.log("Schhhhh!!")
+    //bootbox.alert("Den här boken gick inte att förhandsgranska")
 }
 
-var defaultISBN = 'ISBN:0738531367';
 google.setOnLoadCallback(readBook);
 google.load('books', '0');

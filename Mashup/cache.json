@@ -1,8 +1,4 @@
-{"xsearch": {
-"from": 1,
-"to": 10,
-"records": 3349,
-"list": [
+[
 {
 "identifier": "http://libris.kb.se/bib/5054372",
 "title": "Potter on Potter",
@@ -114,4 +110,3 @@
 "language": "eng"
 }
 ]
-}}

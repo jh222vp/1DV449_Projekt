@@ -8,8 +8,7 @@ body
 }
 .alert
 {
-    width:500px;
-    height:100px;
+    width: 100%;
 }
 .container
 {
@@ -20,7 +19,19 @@ body
 {
     margin-bottom: 80px;
 }
-p
+#fbLogin
 {
-    font-size: medium;
+    margin-bottom:5px;
+}
+
+#tableBackground
+{
+    background-color:#FFD716;
+    border-radius: 5px;
+}
+#viewerCanvas
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
 }
