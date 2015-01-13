@@ -1,0 +1,1157 @@
+[
+{
+"identifier": "http://libris.kb.se/bib/12504638",
+"title": "LEGO Harry Potter : bygg den magiska världen",
+"creator": "Dowsett, Elizabeth",
+"isbn": "9789163871696",
+"type": "book",
+"publisher": "Stockholm : Bonnier Carlsen",
+"date": "2012",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/13597417",
+"title": "J. K. Rowling : Harry Potter",
+"isbn": [
+"9780230008496",
+"9780230008502"
+],
+"type": "book",
+"publisher": "New York : Palgrave Macmillan",
+"date": "2012",
+"language": "eng",
+"description": "Indexeringslänk"
+},
+{
+"identifier": "http://libris.kb.se/bib/12080673",
+"title": "Harry Potter [Elektronisk resurs] : the story of a global business phenomenon",
+"creator": "Gunelius, Susan M.",
+"isbn": [
+"023020323X (invalid)",
+"9780230594104",
+"0230594107"
+],
+"type": "E-book",
+"publisher": "New York : Palgrave Macmillan",
+"date": "2008",
+"language": "eng",
+"relation": "Harry Potter",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Palgrave Connect eBooks Business & Management Collections:Full Text"]]
+], 
+"JonE": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxjon/?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan i Jönköping / Restricted access", "Palgrave Connect:Full Text"]]
+], 
+"Ldix": [
+["http://sfxeu05.hosted.exlibrisgroup.com/46LUB?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Lund University", "Palgrave Connect ebooks Complete:Full Text"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230594104", ["Online access for Linneaus University", "DawsonEra eBooks"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11412007",
+"title": "Harry Potter : y la orden del Fénix",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "8478887423",
+"type": "book",
+"publisher": "Salamandra",
+"date": "2004",
+"language": "spa"
+},
+{
+"identifier": "http://libris.kb.se/bib/11938198",
+"title": "The Potter pensieve : trivial delights from the world of Harry Potter",
+"creator": "Farrington, Karen",
+"isbn": [
+"9780825637469",
+"0825637465",
+"9781860746543",
+"1860746543"
+],
+"type": "book",
+"publisher": "London : Arcane",
+"date": "[2010], c2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11938167",
+"title": "The Potter pensieve : trivial delights from the world of Harry Potter",
+"creator": "Farrington, Karen",
+"isbn": [
+"9780825637469",
+"0825637465",
+"9781860746543",
+"1860746543"
+],
+"type": "book",
+"publisher": "London : Arcane",
+"date": "[2010], c2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12418968",
+"title": "Harry Potter : page to screen, the complete filmmaking journey",
+"creator": "McCabe, Bob",
+"isbn": [
+"9780062101891",
+"0062101897"
+],
+"type": "book",
+"publisher": "New York : Harper Design",
+"date": "2011",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8838110",
+"title": "Harry Potter's world : multidisciplinary critical perspectives",
+"isbn": [
+"0415933730",
+"0415933749"
+],
+"type": "book",
+"publisher": "New York: London: RoutledgeFalmer",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9623358",
+"title": "Harry Potter : en modernitetsupplevelse? : en uppsats som belyser J. K. Rowlings fyra första böcker om Harry Potter ur en modernitetsbegreppslig synvinkel",
+"creator": "Höglund, Åsa",
+"type": "book",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8758241",
+"title": "Reading Harry Potter : critical essays",
+"isbn": "0313320675",
+"type": "book",
+"publisher": "Westport, Conn. : Praeger",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11194857",
+"title": "Critical perspectives on Harry Potter",
+"isbn": [
+"9780415964845",
+"0415964849",
+"9780203892817 (invalid)",
+"020389281X (invalid)"
+],
+"type": "book",
+"publisher": "New York : Routledge",
+"date": "2009",
+"language": "eng",
+"description": "Indexeringslänk"
+},
+{
+"identifier": "http://libris.kb.se/bib/11853227",
+"title": "Harry Potter och halvblodsprinsen [Video (Blu-ray)] = Harry Potter and the half-blood prince",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11852496",
+"title": "Harry Potter och halvblodsprinsen [Video (DVD)] = Harry Potter and the half-blood prince",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2009",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9583652",
+"title": "Harry Potter : auf den Spuren eines zauberhaften Bestsellers",
+"creator": "Bak, Sandra",
+"isbn": "3631525699 :",
+"type": "book",
+"publisher": "Frankfurt am Main ; Berlin ; Bern ; Bruxelles ; New York ; Oxford ; Wien : Lang",
+"date": "2004",
+"language": "ger"
+},
+{
+"identifier": "http://libris.kb.se/bib/9534651",
+"title": "Harry Potter : avsløring og tilsløring",
+"creator": "Bjorvand, Einar",
+"type": "article",
+"language": "nor",
+"relation": "Årboka : litteratur for barn og unge"
+},
+{
+"identifier": "http://libris.kb.se/bib/9061912",
+"title": "Harry Potter : Konflikte zwischen Literaturdidaktik und Kommerz",
+"creator": "Knobloch, Jörg",
+"type": "article",
+"language": "ger",
+"relation": "Beiträge Jugendliteratur und Medien"
+},
+{
+"identifier": "http://libris.kb.se/bib/12346536",
+"title": "Harry Potter : agency or addiction?",
+"creator": "Mills, Alice",
+"type": "article",
+"language": "eng",
+"relation": "Children's literature in education",
+"urls": {
+"BULB": [
+["http://dx.doi.org/10.1007/s10583-010-9115-y", ["Tillgänglig för användare inom Sbi 2012"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10516693",
+"title": "Harry Potter : a world of fear",
+"creator": "Sattaur, Jennifer",
+"type": "article",
+"language": "eng",
+"relation": "The journal of children's literature studies"
+},
+{
+"identifier": "http://libris.kb.se/bib/4840092",
+"title": "Hanging in judgment : religion and the death penalty in England from the Bloody Code to Abolition",
+"creator": "Potter, Harry",
+"isbn": "0334025338 ;",
+"type": "book",
+"publisher": "London : SCM Press",
+"date": "cop.1993",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11469307",
+"title": "Harry Potter och de vises sten [Video (DVD)] = Harry Potter and the philosopher's stone",
+"type": "moving image",
+"publisher": "Stockholm : Sandrew Metronome",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11741603",
+"title": "Harry Potter : the story of a global business phenomenon",
+"creator": "Gunelius, Susan.",
+"isbn": [
+"9780230203235",
+"023020323X"
+],
+"type": "book",
+"publisher": "Basingstoke [England] ; New York : Palgrave Macmillan",
+"date": "2008",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11649428",
+"title": "Mugglenet.com's Harry Potter should have died : controversial views from the #1 fan site",
+"creator": "Spartz, Emerson",
+"isbn": [
+"9781569757116",
+"1569757119"
+],
+"type": "book",
+"publisher": "Berkely, Calif. : Ulysees Press",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9000706",
+"title": "Frodo and Harry : understanding visual media och its impact on our lives",
+"creator": "Baehr, Theodore",
+"isbn": "1581345593",
+"type": "book",
+"publisher": "Wheaton, Ill. : Crossway Books",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11852698",
+"title": "Harry Potter och de vises sten [Video (Blu-ray)] = Harry Potter and the philosopher's stone",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11476620",
+"title": "Harry Potter och Fenixorden [Video (DVD)] = Harry Potter and the Order of the Phoenix",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11469794",
+"title": "Harry Potter och hemligheternas kammare [Video (DVD)] = Harry Potter and the chamber of secrets",
+"type": "moving image",
+"publisher": "Stockholm : Warner Home Video : Sandrew Metronome [distributör",
+"date": "2003]",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11852699",
+"title": "Harry Potter och hemligheternas kammare [Video (Blu-ray)] = Harry Potter and the chamber of secrets",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/3311552",
+"title": "Harry Potter",
+"creator": "Kontio, Tomi",
+"type": "article",
+"language": "fin",
+"relation": "Onnimanni"
+},
+{
+"identifier": "http://libris.kb.se/bib/7776173",
+"title": "Harry Potter : dagbok",
+"isbn": "9188877795",
+"type": "book",
+"publisher": "Tiden",
+"date": "2001",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/7776176",
+"title": "Harry Potter : min magiska bok",
+"isbn": "9188877833",
+"type": "book",
+"publisher": "Tiden",
+"date": "2001",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/11786837",
+"title": "Harry Potter and the philosopher's stone [Videoupptagning] = Harry Potter och de vises sten",
+"type": "moving image",
+"publisher": "Stockholm : Warner Home Video",
+"date": "cop. 2004",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8448399",
+"title": "Å oversette et fenomen : Harry Potter",
+"creator": "Høverstad, Torstein Bugge",
+"type": "article",
+"language": "nor",
+"relation": "Årboka : litteratur for barn og unge"
+},
+{
+"identifier": "http://libris.kb.se/bib/10128949",
+"title": "Harry Potter och den flammande bägaren [Videoupptagning] = Harry Potter and the goblet of fire",
+"type": "moving image",
+"publisher": "Solna: Warner Home Video",
+"date": "2006",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8920934",
+"title": "Re-reading Harry Potter",
+"creator": "Gupta, Suman, 1966-",
+"isbn": [
+"1403912653",
+"1403912645"
+],
+"type": "book",
+"publisher": "Basingstoke : Palgrave Macmillan",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11515063",
+"title": "Harry Potter och Fenixorden [Talbok (CD-R)]",
+"creator": "Rowling, J. K., 1965-",
+"type": "sound recording",
+"publisher": "Lund : Btj",
+"date": "2004",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/10213978",
+"title": "Harry Potter and international relations",
+"isbn": [
+"0742539598",
+"9780742530594 (invalid)",
+"9780742530591",
+"074253958X",
+"9780742539587"
+],
+"type": "book",
+"publisher": "Lanham, Md. : Rowman & Littlefield",
+"date": "cop. 2006",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11471527",
+"title": "Harry Potter och fången från Azkaban [Video (DVD)] = Harry Potter and the Prisoner of Azkaban",
+"type": "moving image",
+"publisher": "Stockholm : Sandrew Metronome",
+"date": "2004",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11852701",
+"title": "Harry Potter och den flammande bägaren [Video (Blu-ray)] = Harry Potter and the goblet of fire",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11852700",
+"title": "Harry Potter och fången från Azkaban [Video (Blu-ray)] = Harry Potter and the Prisoner of Azkaban",
+"type": "moving image",
+"publisher": "Solna : Warner Bros. Entertainment Sverige",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/3308293",
+"title": "Beacham's sourcebooks for teaching young adult fiction",
+"isbn": "0091879302",
+"type": "book",
+"publisher": "London : Ebury",
+"date": "2000",
+"language": "eng",
+"relation": "Beacham's sourcebooks for teaching young adult fiction"
+},
+{
+"identifier": "http://libris.kb.se/bib/10415006",
+"title": "Harry Potter och Hemligheternas kammare [Ljudupptagning]",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9789179532116",
+"type": "sound recording",
+"publisher": "Stockholm : Bonnier Audio",
+"date": "p 2004",
+"language": "swe",
+"description": "Läsordning 2"
+},
+{
+"identifier": "http://libris.kb.se/bib/16547046",
+"title": "The ivory tower and Harry Potter : perspectives on a literary phenomenon",
+"isbn": [
+"9780826215499",
+"0826215491"
+],
+"type": "book",
+"publisher": "Columbia : University of Missouri Press",
+"date": "2004",
+"language": "eng",
+"description": "Imported from: gil.westga.edu:7390/Voyager (Do not remove)"
+},
+{
+"identifier": "http://libris.kb.se/bib/14286850",
+"title": "Harry Potter och Fenixorden [Ljudupptagning]",
+"creator": "Rowling, J. K.",
+"isbn": "9789172258686",
+"type": "sound recording",
+"publisher": "Gammafon Barnmedia",
+"date": "2007",
+"language": "swe",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/11798242",
+"title": "Critical perspectives on Harry Potter [Elektronisk resurs]",
+"isbn": [
+"9780203892817",
+"9780415964845 (invalid)"
+],
+"type": "E-book",
+"publisher": "Hoboken : Taylor & Francis",
+"date": "2009",
+"language": "eng",
+"description": "SFX",
+"relation": "Critical Perspectives on Harry Potter",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://www.GU.eblib.com/EBLWeb/patron?target=patron&extendedid=P_355844_0&", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"LTUd": [
+["http://proxy.lib.ltu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780203892817", ["Online access for LTU", "DawsonEra eBooks"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780203892817", ["Online access for Linneaus University", "DawsonEra eBooks"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12452270",
+"title": "Harry Potter und der Feuerkelch",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9783551354044",
+"type": "book",
+"publisher": "Hamburg : Carlsen",
+"date": "2008",
+"language": "ger"
+},
+{
+"identifier": "http://libris.kb.se/bib/11772303",
+"title": "The life, death, and resurrection of Harry Potter",
+"creator": "Killinger, John",
+"isbn": [
+"0881461628",
+"9780881461626"
+],
+"type": "book",
+"publisher": "Macon, Ga. : Mercer University Press",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/3241875",
+"title": "Fenomenet Harry Potter",
+"creator": "Beskow, Per, 1926-",
+"type": "article",
+"language": "swe",
+"relation": "Signum"
+},
+{
+"identifier": "http://libris.kb.se/bib/10722173",
+"title": "Harry Potter and the prisoner of Azkaban [Videoupptagning] = Harry Potter och fången på Azkaban",
+"type": "moving image",
+"publisher": "Stockholm : Warner Bros. Entertainment Sverige",
+"date": "cop. 2004",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9584875",
+"title": "Specters of Potter : inheritance in the Harry Potter series",
+"creator": "Wannamaker, Annette",
+"type": "article",
+"language": "eng",
+"relation": "Elsewhere :  selected essays from the \"20th century fantasy literature: from Beatrix to Harry\" International Literary Conference"
+},
+{
+"identifier": "http://libris.kb.se/bib/7676805",
+"title": "Harry Potter och Hemligheternas kammare [Ljudupptagning]",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9179510566",
+"type": "sound recording",
+"publisher": "Stockholm : Bonnier Audio",
+"date": "p 2001",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8534095",
+"title": "The irresistible rise of Harry Potter",
+"creator": "Blake, Andrew",
+"isbn": "1859846661",
+"type": "book",
+"publisher": "London : Verso",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10415005",
+"title": "Harry Potter och De vises sten [Ljudupptagning]",
+"creator": "Rowling, J. K.",
+"isbn": "9789179532109",
+"type": "sound recording",
+"publisher": "Bonnier Audio",
+"date": "2004",
+"language": "swe",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/11492543",
+"title": "Reading Harry Potter again : new critical essays",
+"isbn": [
+"9780313361975",
+"0313361975"
+],
+"type": "book",
+"publisher": "Santa Barbara, Calif. : Praeger",
+"date": "c2009",
+"language": "eng",
+"description": "Dawson"
+},
+{
+"identifier": "http://libris.kb.se/bib/13614610",
+"title": "Harry Potter and history",
+"isbn": [
+"0470574720",
+"1118003241",
+"111800325X",
+"1118003268",
+"9780470574720",
+"9781118003244",
+"9781118003251",
+"9781118003268"
+],
+"type": "book",
+"publisher": "Hoboken, N.J. : Wiley",
+"date": "c2011",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16556770",
+"title": "Legilimens! [Elektronisk resurs] : perspectives in Harry Potter studies",
+"isbn": [
+"9781443855235",
+"9781443852548 (invalid)"
+],
+"type": "E-book",
+"publisher": "Newcastle upon Tyne : Cambridge Scholars Publishing",
+"date": "2013",
+"language": "eng",
+"relation": "Legilimens! : Perspectives in Harry Potter Studies",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://GU.eblib.com/patron/FullRecord.aspx?p=1595349", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8647136",
+"title": "The ivory tower and Harry Potter : perspectives on a literary phenomenon",
+"isbn": "0826214436",
+"type": "book",
+"publisher": "Columbia : Univ. of Missouri Press",
+"date": "cop. 2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12096669",
+"title": "Baptizing Harry Potter : a Christian reading of J.K. Rowling",
+"creator": "Bell, Luke",
+"isbn": [
+"9781587680588",
+"1587680580"
+],
+"type": "book",
+"publisher": "Mahwah, N.J. : Hidden Spring",
+"date": "c2010",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5684955",
+"title": "Fatigue and fracture testing of weldments",
+"isbn": "0803112777",
+"type": "book",
+"publisher": "Philadelphia, Pa. : ASTM",
+"date": "cop. 1990",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4707387",
+"title": "Networks of power : organizational actors at the national, corporate, and community levels",
+"isbn": [
+"020230342X ;",
+"0202303438"
+],
+"type": "book",
+"publisher": "New York : A. de Gruyter",
+"date": "1989",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/2031474",
+"title": "Evolution of sedimentary basins : Eastern Great Basin",
+"type": "book",
+"publisher": "Washington : United States Government Printing Office",
+"date": "1995-",
+"language": "eng",
+"description": "Huvudpost (flerbandsverk)"
+},
+{
+"identifier": "http://libris.kb.se/bib/2031475",
+"title": "Evolution of sedimentary basins : Eastern Great Basin",
+"type": "book",
+"publisher": "Washington : United States Government Printing Office",
+"date": "1995",
+"language": "eng",
+"relation": "Evolution of sedimentary basins : Eastern Great Basin"
+},
+{
+"identifier": "http://libris.kb.se/bib/2031476",
+"title": "Evolution of sedimentary basins : Eastern Great Basin",
+"type": "book",
+"publisher": "Washington : United States Government Printing Office",
+"date": "1995",
+"language": "eng",
+"relation": "Evolution of sedimentary basins : Eastern Great Basin"
+},
+{
+"identifier": "http://libris.kb.se/bib/16596489",
+"title": "Harry Potter : The Complete Collection",
+"creator": "Rowling, J.K",
+"isbn": "9781408856772",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/9863790",
+"title": "Harry Potter och halvblodsprinsen",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9185243442",
+"type": "book",
+"publisher": "Stockholm : Tiden",
+"date": "2005",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9391861",
+"title": "Harry Potter and the Bible : the menace behind the magick",
+"creator": "Abanes, Richard.",
+"isbn": "0889652015",
+"type": "book",
+"publisher": "Camp Hill, Pa. : Christian Publications",
+"date": "c2001",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10338143",
+"title": "Harry Potter - en filosofisk trollmann",
+"creator": "Gaare, Jørgen",
+"isbn": [
+"8291614466 (invalid)",
+"9788291614465"
+],
+"type": "book",
+"publisher": "Oslo : Arneberg",
+"date": "2006",
+"language": "nor"
+},
+{
+"identifier": "http://libris.kb.se/bib/8699919",
+"title": "Harry Potters magiska värld",
+"creator": "Colbert, David",
+"isbn": "9132144067",
+"type": "book",
+"publisher": "Stockholm : B. Wahlström",
+"date": "2002",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/12322349",
+"title": "Harry Potter and the prisoner of Azkaban",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9780747574491",
+"type": "book",
+"publisher": "London : Bloomsbury",
+"date": "2004",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11812460",
+"title": "Re-reading Harry Potter [Elektronisk resurs]",
+"creator": "Gupta, Suman, 1966-",
+"isbn": [
+"9780230219571 (invalid)",
+"0230219578 (invalid)",
+"9780230219588 (invalid)",
+"0230219586 (invalid)",
+"9780230279711",
+"0230279716"
+],
+"type": "E-book",
+"publisher": "Basingstoke [England] ; New York : Palgrave Macmillan",
+"date": "2009",
+"language": "eng",
+"relation": "Re-reading Harry Potter",
+"urls": {
+"La": [
+["http://proxy.lib.ltu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230279711", ["Endast för användare inom LTU"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230279711", ["Online access for Linneaus University", "DawsonEra eBooks"]]
+], 
+"Uh": [
+["http://ezproxy.its.uu.se/login?url=https://www.dawsonera.com:443/abstract/9780230279711", ["Tillgängliga för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/17229282",
+"title": "Teaching with Harry Potter : essays on classroom wizardry from elementary school to college",
+"isbn": "9780786472017",
+"type": "book",
+"language": "eng",
+"description": "Imported from: z3950cat.bl.uk:9909/BNB03U (Do not remove)"
+},
+{
+"identifier": "http://libris.kb.se/bib/3139424",
+"title": "Harry Potter rules!",
+"creator": "Heikkilä-Halttunen, Päivi",
+"type": "article",
+"language": "fin",
+"relation": "Onnimanni"
+},
+{
+"identifier": "http://libris.kb.se/bib/3070165",
+"title": "Hur man skapar en succé : fenomenet Harry Potter",
+"creator": "Nikolajeva, Maria, 1952-",
+"type": "article",
+"language": "swe",
+"relation": "Opsis kalopsis"
+},
+{
+"identifier": "http://libris.kb.se/bib/11526222",
+"title": "The magical world of Harry Potter [Ljudupptagning]",
+"type": "musical sound recording",
+"publisher": "London : Music Club",
+"date": "p 2004",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/9748680",
+"title": "A muggle's guide to the wizarding world : exploring the Harry Potter universe",
+"creator": "Boyle, Fionna",
+"isbn": "155022655X",
+"type": "book",
+"publisher": "Toronto, Ont. : ECW",
+"date": "2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9773773",
+"title": "The ivory tower and Harry Potter [Elektronisk resurs] perspectives on a literary phenomenon",
+"isbn": "0826214436 (invalid)",
+"type": "E-book",
+"publisher": "Columbia : University of Missouri Press",
+"date": "2002",
+"language": "eng",
+"relation": "The ivory tower and Harry Potter",
+"urls": {
+"AlbE": [
+["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+], 
+"Bthd": [
+["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10048231", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Hald": [
+["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10048231", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+], 
+"HdE": [
+["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10048231", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Hibd": [
+["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10048231", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Htue": [
+["http://sfx-46htu.hosted.exlibrisgroup.com/46htu?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan Väst/Restricted access", "ebrary e-books:Full Text"]]
+], 
+"Jsld": [
+["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Kdig": [
+["https://login.bibproxy.kau.se:8443/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Online access for KaU", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"LTUd": [
+["http://proxy.lib.ltu.se/login?url=http://site.ebrary.com/lib/lulea/Top?channelName=lulea&cpage=1&docID=10048231", ["Online access for LTU", "Ebrary Academic Complete"]]
+], 
+"LiUd": [
+["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10048231", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Online access for Linneaus University", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"Mahd": [
+["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Odig": [
+["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10048231", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+], 
+"Pvd": [
+["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10048231", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+], 
+"Qdig": [
+["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+], 
+"Rdig": [
+["http://sfx-46riks.hosted.exlibrisgroup.com/46riks?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Riksdagsbiblioteket", "Ebrary: full text:Full Text"]]
+], 
+"Tdig": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Udix": [
+["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10048231", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Zdig": [
+["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10048231", ["Online access for Chalmers", "Ebrary"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10938659",
+"title": "Scholarly studies in Harry Potter : applying academic methods to a popular text",
+"isbn": [
+"0773460101",
+"9780773460102",
+"088946927X",
+"9780889469273"
+],
+"type": "book",
+"publisher": "Lewiston, N.Y. : Edwin Mellen Press",
+"date": "cop. 2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11408020",
+"title": "Harry Potter ve felsefe tasi",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9750802942",
+"type": "book",
+"publisher": "Yapi kredi",
+"date": "2001",
+"language": "tur"
+},
+{
+"identifier": "http://libris.kb.se/bib/10016116",
+"title": "\"Harry hade velat skrika\" : skräckelement i Harry Potter-sviten",
+"creator": "Johansson, Annika, 1960-",
+"type": "article",
+"language": "swe",
+"relation": "Barnboken"
+},
+{
+"identifier": "http://libris.kb.se/bib/8649671",
+"title": "A guide to the Harry Potter novels",
+"creator": "Eccleshare, Julia",
+"isbn": [
+"0826453171",
+"0826453163"
+],
+"type": "book",
+"publisher": "London : Continuum",
+"date": "2002",
+"language": "eng",
+"description": "Dawson"
+},
+{
+"identifier": "http://libris.kb.se/bib/13502896",
+"title": "The subversive Harry Potter : adolescent rebellion and containment in the J.K. Rowling novels",
+"creator": "Saxena, Vandana, 1977-",
+"isbn": "9780786466740",
+"type": "book",
+"publisher": "Jefferson, NC : McFarland & Company, Inc",
+"date": "c2012",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16755283",
+"title": "Harry Potter and the chamber of secrets",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9781408855904",
+"type": "book",
+"publisher": "London : Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16784734",
+"title": "Harry Potter and the half-blood prince",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9781408855942",
+"type": "book",
+"publisher": "London : Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16784735",
+"title": "Harry Potter And the Deathly Hallows",
+"creator": "Rowling, J. K.",
+"isbn": "9781408855959",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/11932181",
+"title": "Harry Potter and the philosopher's stone",
+"creator": "Rowling, Joanne K.",
+"isbn": "9780747573609",
+"type": "book",
+"publisher": "Bloomsbury",
+"date": "2004",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16638448",
+"title": "Harry Potter och de vises sten [Ljudupptagning]",
+"creator": "Rowling, J K",
+"isbn": "9789162275587",
+"type": "sound recording",
+"publisher": "Bonnier Utbildning",
+"date": "2005",
+"language": "swe",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16596469",
+"title": "Harry Potter and the Deathly Hallows",
+"creator": "Rowling, J.K",
+"isbn": "9781408855713",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16596466",
+"title": "Harry Potter and the Philosopher's Stone",
+"creator": "Rowling, J.K",
+"isbn": "9781408855652",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/9641549",
+"title": "The politics of terror : rereading 'Harry Potter'",
+"creator": "Strimel, Courtney B.",
+"type": "article",
+"language": "eng",
+"relation": "Children's literature in education"
+},
+{
+"identifier": "http://libris.kb.se/bib/4749160",
+"title": "Glazes for the craft potter",
+"creator": "Fraser, Harry",
+"isbn": "0273009397",
+"type": "book",
+"publisher": "London : Pitman",
+"date": "1976",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11918923",
+"title": "The riddles of Harry Potter : secret passages and interpretive quests",
+"creator": "Wolosky, Shira, 1954-",
+"isbn": [
+"9780230109292",
+"0230109292"
+],
+"type": "book",
+"publisher": "New York : Palgrave Macmillan",
+"date": "2010",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11864827",
+"title": "Creating magical worlds : otherness and othering in Harry Potter",
+"creator": "Rana, Marion.",
+"isbn": [
+"9783631580714",
+"3631580711"
+],
+"type": "book",
+"publisher": "Frankfurt am Main ; New York : Peter Lang",
+"date": "cop. 2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16755284",
+"title": "Harry Potter and the order of the Phoenix",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "9781408855935",
+"type": "book",
+"publisher": "London : Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11785266",
+"title": "The magical worlds of Harry Potter : a treasury of myths, legends, and fascinating facts : updated and complete",
+"creator": "Colbert, David.",
+"isbn": "9780425223185",
+"type": "book",
+"publisher": "New York : Berkley Books",
+"date": "2008",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10603235",
+"title": "If Harry Potter ran General Electric : leadership wisdom from the world of the wizards",
+"creator": "Morris, Tom",
+"isbn": [
+"0385517548",
+"9780385517546"
+],
+"type": "book",
+"publisher": "New York : Doubleday",
+"date": "cop. 2006",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/14011552",
+"title": "Harry Potter and the Deathly Hallows (barn)",
+"creator": "Rowling, J. K.",
+"isbn": "9780747595830",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2008",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16784732",
+"title": "Harry Potter And the Goblet of Fire",
+"creator": "Rowling, J. K.",
+"isbn": "9781408855928",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16755282",
+"title": "Harry Potter And the Prisoner of Azkaban",
+"creator": "Rowling, J. K.",
+"isbn": "9781408855911",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16596476",
+"title": "Harry Potter and the Chamber of Secrets",
+"creator": "Rowling, J.K",
+"isbn": "9781408855669",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16596472",
+"title": "Harry Potter and the Goblet of Fire",
+"creator": "Rowling, J.K",
+"isbn": "9781408855683",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/16596459",
+"title": "Harry Potter and the Half-Blood Prince",
+"creator": "Rowling, J.K",
+"isbn": "9781408855706",
+"type": "book",
+"publisher": "Bloomsbury Publishing Ltd",
+"date": "2014",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+}
+]

@@ -198,19 +198,19 @@
 
     BootstrapTable.LOCALES['en-US'] = {
         formatLoadingMessage: function () {
-            return 'Loading, please wait…';
+            return 'Här visas sökresultat, vänligen gör en sökförfrågan i sökformuläret upp till vänster…';
         },
         formatRecordsPerPage: function (pageNumber) {
-            return sprintf('%s records per page', pageNumber);
+            return sprintf('%s Per Sida', pageNumber);
         },
         formatShowingRows: function (pageFrom, pageTo, totalRows) {
-            return sprintf('Showing %s to %s of %s rows', pageFrom, pageTo, totalRows);
+            return sprintf('Visar %s till %s av %s rader', pageFrom, pageTo, totalRows);
         },
         formatSearch: function () {
-            return 'Search';
+            return 'Sök från listan här';
         },
         formatNoMatches: function () {
-            return 'No matching records found';
+            return 'Tyvärr hittades inga böcker/författare, vänligen försök igen...';
         },
         formatRefresh: function () {
             return 'Refresh';

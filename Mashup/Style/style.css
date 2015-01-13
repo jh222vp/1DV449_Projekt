@@ -1,37 +1,47 @@
 body
 {
-    background-image: url('../bg.png');
+    background-image: url("../img/bg.png")
 }
+
+#searchBackground
+{
+    background-image: url('../img/bi.png');
+    border-radius: 5px;
+}
+
+#viewerCanvas
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
 #map-canvas
 {
     height: 500px;
 }
-.alert
+
+#fbLogin
 {
-    width: 100%;
-}
-.container
-{
-    margin-top: 40px;
+    margin-bottom:5px;
 }
 
 #SelectList
 {
     margin-bottom: 80px;
 }
-#fbLogin
+
+.alert
 {
-    margin-bottom:5px;
+    width: 100%;
 }
 
-#tableBackground
+.container
 {
-    background-color:#FFD716;
-    border-radius: 5px;
+    margin-top: 40px;
 }
-#viewerCanvas
+
+.table
 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 6em
+    background-color: #f9f9f9;
 }

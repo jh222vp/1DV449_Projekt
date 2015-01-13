@@ -1,112 +1,2372 @@
-[
+{"xsearch": {
+"from": 1,
+"to": 200,
+"records": 21752,
+"list": [
 {
-"identifier": "http://libris.kb.se/bib/5054372",
-"title": "Potter on Potter",
-"creator": "Potter, Dennis",
-"isbn": "057116367X ;",
-"type": "book",
-"publisher": "London : Faber and Faber",
-"date": "1993",
-"language": "eng",
-"description": "hum"
-},
-{
-"identifier": "http://libris.kb.se/bib/11311081",
-"title": "Att handskas med ilska : 11 stilar av ilska och hur man kan förändra dem",
-"creator": "Potter-Efron, Ronald T.",
-"isbn": "9789144050232",
-"type": "book",
-"publisher": "Lund : Studentlitteratur",
+"identifier": "http://libris.kb.se/bib/11751070",
+"title": "Jonas : officiell tidning för tv-serien Jonas",
+"issn": "2000-4850",
+"type": "journal",
+"publisher": "Malmö : Egmont Kärnan",
 "date": "2009",
 "language": "swe"
 },
 {
-"identifier": "http://libris.kb.se/bib/5054634",
-"title": "Potter on Potter",
-"creator": "Potter, Dennis",
-"isbn": "0571170463",
+"identifier": "http://libris.kb.se/bib/1722441",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300698",
 "type": "book",
-"publisher": "London : Faber and Faber",
-"date": "1994",
-"language": "eng"
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 9, Törnrosens bok : duodesupplagan, Bd 12-14"
+]
 },
 {
-"identifier": "http://libris.kb.se/bib/5701207",
-"title": "Beatrix Potter",
-"creator": "MacDonald, Ruth K",
-"isbn": "080576917X",
+"identifier": "http://libris.kb.se/bib/1722440",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300655",
 "type": "book",
-"publisher": "Boston : Twayne Publishers",
-"date": "cop. 1986",
-"language": "eng"
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1996",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 8, Törnrosens bok : duodesupplagan, Bd 8-11"
+]
 },
 {
-"identifier": "http://libris.kb.se/bib/4727657",
-"title": "Beatrix Potter",
-"creator": "Buchan, Elizabeth",
-"isbn": "0241120519",
+"identifier": "http://libris.kb.se/bib/1722437",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300493",
 "type": "book",
-"publisher": "London : Hamish Hamilton",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1993",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 21, Det går an ; Hvarför reser du?"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/8867950",
+"title": "Törnrosens bok",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1858",
+"language": "swe",
+"relation": "Törnrosens bok"
+},
+{
+"identifier": "http://libris.kb.se/bib/7642577",
+"title": "Röster i Västmanland : en antologi",
+"isbn": "9174489305",
+"type": "book",
+"publisher": "Stockholm : En bok för alla",
+"date": "1996",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/7652441",
+"title": "Carl Jonas Love Almqvist i Amerika",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9176083438",
+"type": "book",
+"publisher": "Stockholm : Bromberg",
 "date": "1987",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/7677265",
+"title": "Drottningens juvelsmycke ; Det går an ; ur Songes",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9179641148",
+"type": "book",
+"publisher": "Stockholm : Gedin",
+"date": "cop. 1993",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8867873",
+"title": "Törnrosens bok",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Magnus",
+"date": "1849",
+"language": "swe",
+"relation": [
+"Törnrosens bok",
+"Törnrosens bok"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/12544176",
+"title": "Törnrosens bok. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm : Magnus",
+"date": "1849",
+"language": "swe",
+"relation": [
+"Törnrosens bok",
+"Törnrosens bok"
+],
+"free": ["http://urn.kb.se/resolve?urn=urn:nbn:se:umu:eod-32", ["Fritt tillgänglig via Umeå universitetsbibliotek"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916521",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300698 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"relation": "Samlade verk. 9, Törnrosens bok : duodesupplagan, Bd 12-14",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/SamladeVerk9/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916482",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300655 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1996",
+"language": "swe",
+"relation": "Samlade verk. 8, Törnrosens bok : duodesupplagan, Bd 8-11",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk8/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/1695254",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917844215X",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1993",
+"language": "swe",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/2490750",
+"title": "Det går an ; Hvarför reser du?",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "[Stockholm",
+"date": "1838]",
+"language": "swe",
+"relation": "Det går an ; Hvarför reser du?"
+},
+{
+"identifier": "http://libris.kb.se/bib/10908680",
+"title": "Det går an [Elektronisk resurs] ; Hvarför reser du?",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "[Stockholm",
+"date": "1838]",
+"language": "swe",
+"relation": "Det går an ; Hvarför reser du?",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/DetGarAn1838/sida/-8/faksimil", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10910442",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300493 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1993",
+"language": "swe",
+"relation": "Samlade verk. 21, Det går an ; Hvarför reser du?",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/SamladeVerk21/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/13455361",
+"title": "Samlade verk. [Elektronisk resurs] : imperialoktavupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301201 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet : Almqvist & Wiksell International [distributör]",
+"date": "2005",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 14, Törnrosens bok : imperialoktavupplagan. Bd 3:1"
+],
+"free": ["http://litteraturbanken.se/#!forfattare/AlmqvistCJL/titlar/SamladeVerk14/sida/IV/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/9994019",
+"title": "Samlade verk. imperialoktavupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301201",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet : Almqvist & Wiksell International [distributör]",
+"date": "2005",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 14, Törnrosens bok : imperialoktavupplagan. Bd 3:1",
+"Samlade verk. 14, Törnrosens bok : imperialoktavupplagan. Bd 3:1"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916884",
+"title": "Samlade verk. imperialoktavupplagan. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301201 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet : Almqvist & Wiksell International [distributör]",
+"date": "2005",
+"language": "swe",
+"relation": "Samlade verk. 14, Törnrosens bok : imperialoktavupplagan. Bd 3:1",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk14/pdf", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/7668193",
+"title": "Fria fantasier",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178421276 ;",
+"type": "book",
+"publisher": "Stockholm : Fabel",
+"date": "1991",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/12623396",
+"title": "Fyra folklivsberättelser [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2001",
+"language": "swe",
+"description": "Posten ändrad i BURK 20010917",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C12024", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12616595",
+"title": "Så jag målar- [Ljudupptagning] : ett urval",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Johanneshov : TPB",
+"date": "2010",
+"language": "swe",
+"description": "Posten ändrad i BURK 20100830",
+"relation": "Så jag målar-",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C96152", ["Ladda ner. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättslagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/7147594",
+"title": "Så jag målar-",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9100474975",
+"type": "book",
+"publisher": "Stockholm : Bonnier : Natur och kultur [distributör]",
+"date": "1988",
+"language": "swe",
+"description": [
+"Li:S",
+"NB: kartonnerad"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/8866654",
+"title": "Törnrosens bok",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Laseron",
+"date": "1839",
+"language": "swe",
+"relation": "Törnrosens bok"
+},
+{
+"identifier": "http://libris.kb.se/bib/1435560",
+"title": "Folklifsberättelser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1907",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1611359",
+"title": "Palatset : Araminta May ; Arturs jakt",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1906",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8906469",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178442826",
+"type": "book",
+"publisher": "Stockholm : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "2003",
+"language": "swe",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/8867905",
+"title": "Törnrosens bok",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Magnus",
+"date": "1850",
+"language": "swe",
+"relation": "Törnrosens bok"
+},
+{
+"identifier": "http://libris.kb.se/bib/8907749",
+"title": "Samlade verk. duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301112",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2003",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 5, Törnrosens bok : duodesupplagan. Bd 1-3"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/12053434",
+"title": "Samlade verk. duodesupplagan. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301112 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2003",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 5, Törnrosens bok : duodesupplagan. Bd 1-3"
+],
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk5/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/491437",
+"title": "Törnrosens bok",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1903",
+"language": "swe",
+"relation": "Törnrosens bok"
+},
+{
+"identifier": "http://libris.kb.se/bib/1313390",
+"title": "Fria fantasier : Palatset ; Araminta May ; Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1927",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2974374",
+"title": "Fria fantasier : Palatset ; Araminta May ; Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1927",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1722438",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300574",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1995",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 6, C.J.L. Almqvist. Monografi"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/762112",
+"title": "Folklivsberättelser : Kapellet ; Skällnora kvarn ; Grimstahamns nybygge ; Ladugårdsarrendet",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1927",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1869366",
+"title": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1838",
+"language": "swe",
+"relation": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind"
+},
+{
+"identifier": "http://libris.kb.se/bib/14745732",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789172301719 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet",
+"date": "2013",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 17, Ordbok öfver svenska språket i dess närvarande skick /"
+],
+"free": ["http://litteraturbanken.se/#!forfattare/AlmqvistCJL/titlar/SamladeVerk17/info/faksimil", ["Fritt tillgänglig via Göteborgs universitetsbibliotek"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/14705509",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789172301719",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet",
+"date": "2013",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 17, Ordbok öfver svenska språket i dess närvarande skick /"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/7642479",
+"title": "Röster i Värmland : en antologi",
+"isbn": "9174488228",
+"type": "book",
+"publisher": "Stockholm : En bok för alla",
+"date": "1994",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/1869372",
+"title": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1835",
+"language": "swe",
+"relation": [
+"Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind",
+"Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. 6, Baron Julius K* ; Dialog om sättet att sluta stycken"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/10909473",
+"title": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm",
+"date": "1835",
+"language": "swe",
+"relation": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. 6, Baron Julius K* ; Dialog om sättet att sluta stycken",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/TornrosensBokVI/sida/-4/faksimil", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916467",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300574 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällsk. : Almqvist & Wiksell International",
+"date": "1995",
+"language": "swe",
+"relation": "Samlade verk. 6, C.J.L. Almqvist. Monografi",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk26/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/1869368",
+"title": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. romantisk berättelse ur närvarande tid",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1832",
+"language": "swe",
+"relation": [
+"Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind",
+"Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. 1, Jagtslottet"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/10908677",
+"title": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. [Elektronisk resurs] : romantisk berättelse ur närvarande tid",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm",
+"date": "1832",
+"language": "swe",
+"relation": "Fria fantasier, hvilka, betraktade såsom ett helt, af herr Hugo Löwenstjerna stundom kallades Törnrosens bok, stundom En irrande hind. 1, Jagtslottet",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/TornrosensBokI/faksimil", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/1695256",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178442257",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1995",
+"language": "swe",
+"description": "Recensionslänk",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1695255",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178442168 ;",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1995",
+"language": "swe",
+"description": [
+"Recensionslänk",
+"Li:S"
+],
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1695260",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178442672",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1998",
+"language": "swe",
+"description": "Li:S",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1722445",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300809",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1998",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 7, Törnrosens bok : duodesupplagan, Bd 5-7"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/2382484",
+"title": "Carl Jonas Love Almqvists specimen pastorale",
+"creator": "Wikmark, Gunnar, 1903-1990",
+"type": "article",
+"language": "swe",
+"relation": "Carl Johans förbundets handlingar"
+},
+{
+"identifier": "http://libris.kb.se/bib/12443534",
+"title": "Drömbilder : songes och andra dikter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789172472921",
+"type": "book",
+"publisher": "Lund : Ellerström",
+"date": "2012",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7152499",
+"title": "Hermitaget : romaunt i tolv böcker ; Vargens dotter : clair-obscur ur närvarande tid",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9117710820",
+"type": "book",
+"publisher": "Stockholm : Norstedt",
+"date": "1977",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7148186",
+"title": "Jaktslottet ; Ormus och Ariman ; Araminta May ; Det går an ; Grimstahamns nybygge ; Dikter ; Brev i landsflykten ; Uppsatser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9100485055",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1984",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/798608",
+"title": "Sara Videbeck : The chapel",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "New York : Twayne publ",
+"date": "[1972]",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/7397912",
-"title": "Paulus Potter : paintings, drawings and etchings : [exhibition, 8 November 1994-5 February 1995], Mauritshuis, The Hague",
-"creator": "Potter, Paulus",
+"identifier": "http://libris.kb.se/bib/1173234",
+"title": "Arthurs jakt : Araminta May ; Palatset",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1924",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9467466",
+"title": "Frie Phantasier",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Kjøbenhavn",
+"date": "1840",
+"language": "dan"
+},
+{
+"identifier": "http://libris.kb.se/bib/2490793",
+"title": "Kappeli : Skällnoran mylly : kansanelämän kuvauksia",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Hämeenlinna : Karisto",
+"date": "1924",
+"language": "fin"
+},
+{
+"identifier": "http://libris.kb.se/bib/7202053",
+"title": "Novelle",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "8802035997",
+"type": "book",
+"publisher": "Torino : UTET",
+"date": "1981",
+"language": "ita"
+},
+{
+"identifier": "http://libris.kb.se/bib/8627552",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178443512",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "2002",
+"language": "swe",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/8778870",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178443210",
+"type": "book",
+"publisher": "Stockholm : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "2002",
+"language": "swe",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/8601043",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301031",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2002",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 6, Törnrosens bok : duodesupplagan. Bd 4, Drottningens juvelsmycke (1834)"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/12053441",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301031 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2002",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 6, Törnrosens bok : duodesupplagan. Bd 4, Drottningens juvelsmycke (1834)"
+],
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk6/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/12053503",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300809 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1998",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 7, Törnrosens bok : duodesupplagan, Bd 5-7"
+],
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk7/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/797640",
+"title": "Jde to",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Praha : Státní nakladatelství krásné literatury a umění",
+"date": "1965",
+"language": "cze"
+},
+{
+"identifier": "http://libris.kb.se/bib/12605967",
+"title": "Amalia Hillner [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2005",
+"language": "swe",
+"description": "Posten ändrad i BURK 20050131",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C34423", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12628747",
+"title": "Amorina eller Historien om de fyra [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2001",
+"language": "swe",
+"description": "Posten ändrad i BURK 20090217",
+"relation": "Amorina eller Historien om de fyra",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C14365", ["Ladda ner. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättslagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12592004",
+"title": "C. J. L. Almqvist - monografi [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2008",
+"language": "swe",
+"description": "Posten ändrad i BURK 20080214",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C74693", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12622390",
+"title": "Smaragdbruden [Ljudupptagning] : följderna av ett rikt nordiskt arv",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2003",
+"language": "swe",
+"description": "Posten ändrad i BURK 20030624",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C22746", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12605296",
+"title": "Törnrosens bok [Ljudupptagning] : duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20070123",
+"relation": "Törnrosens bok : duodesupplagan",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C26323", ["Ladda ner. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättslagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12580808",
+"title": "Törnrosens bok [Ljudupptagning] : duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20070123",
+"relation": "Törnrosens bok : duodesupplagan",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C33101", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12554816",
+"title": "Törnrosens bok [Ljudupptagning] : duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2003",
+"language": "swe",
+"description": "Posten ändrad i BURK 20070124",
+"relation": "Törnrosens bok : duodesupplagan",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C23405", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12593439",
+"title": "Törnrosens bok [Ljudupptagning] : duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20070123",
+"relation": "Törnrosens bok : duodesupplagan",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C32634", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12630554",
+"title": "Törnrosens bok [Ljudupptagning] : duodesupplagan",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20070123",
+"relation": "Törnrosens bok : duodesupplagan",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C33160", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12622241",
+"title": "Syster och bror [Ljudupptagning] : en af Stockholms hemligheter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20050912",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C29941", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12031",
+"title": "Sveriges litteratur",
+"type": "book",
+"publisher": "Stockholm : Sv. bokförl. : Bonnier",
+"date": "1965",
+"language": "swe",
+"relation": "Sveriges litteratur"
+},
+{
+"identifier": "http://libris.kb.se/bib/2899852",
+"title": "\"Under det jag levat i dessa spiraler\" : C J L Almqvist i brev till vännen J A Hazelius",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "article",
+"language": "swe",
+"relation": "Almqvistiana"
+},
+{
+"identifier": "http://libris.kb.se/bib/8770960",
+"title": "Claesson : om bandy, livet och att komma till skott",
+"creator": "Claesson, Jonas, 1970-",
+"isbn": "9188541517",
+"type": "book",
+"publisher": "Västerås : Sportförl",
+"date": "[2002]",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1704701",
+"title": "Svenska mästare",
+"type": "book",
+"publisher": "Stockholm : Saxon & Lindström",
+"date": "1935",
+"language": "swe",
+"relation": "Svenska mästare"
+},
+{
+"identifier": "http://libris.kb.se/bib/11541400",
+"title": "Minnen från törnrostiden [Musiktryck] : C. J. L. Almqvists sånger och tonfantasier",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "notated music",
+"publisher": "Skara : Bergers bokh",
+"date": "1916",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/8198470",
+"title": "Brev 1803-1866 : ett urval med inledning och kommentarer av Bertil Romberg",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1968",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7175471",
+"title": "Samlede verker",
+"creator": "Bjørneboe, Jens, 1920-1976",
 "isbn": [
-"9040097216",
-"9040097127"
+"8253017642",
+"8205232253"
 ],
 "type": "book",
-"publisher": "Zwolle : Waanders",
+"publisher": "Oslo : Pax",
+"date": "1995",
+"language": "nor",
+"relation": "Samlede verker"
+},
+{
+"identifier": "http://libris.kb.se/bib/573084",
+"title": "Carl Jonas Love Almqvist",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Aldus/Bonnier",
+"date": "1962",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/868673",
+"title": "Carl Jonas Love Almqvist : ett urval av Knut Aspelin",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Arbetarkultur",
+"date": "1954",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2142998",
+"title": "Carl Jonas Love Almqvist",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Arbetarkultur",
+"date": "1954",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7590024",
+"title": "Carl Jonas Love Almqvist",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9170140553 ;",
+"type": "book",
+"publisher": "Stockholm : Arbetarkultur",
+"date": "1977",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7642401",
+"title": "Carl Jonas Love Almqvist",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9174487299 ;",
+"type": "book",
+"publisher": "Stockholm : En bok för alla",
+"date": "1993",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/11535896",
+"title": "Carl Jonas Love Almqvist [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "musical sound recording",
+"publisher": "Bluebell of Sweden",
+"date": "1984",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/12574459",
+"title": "Carl Jonas Love Almqvist [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2005",
+"language": "swe",
+"description": "Posten ändrad i BURK 20050223",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C35170", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/2348968",
+"title": "Galleri Bergman visar Jonas Wängestam",
+"creator": "Wängestam, Jonas, 1959-",
+"type": "book",
+"publisher": "Stockholm : Galleri Bergman",
+"date": "1992",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/10902770",
+"title": "Theses, quas ex præscripto constitutionis regiæ et venia max. ven. consist. eccl. Ups. ... publicæ censuræ modeste subjicit ... Carolus Jonas Almquist ... respondente Erico Jona Nordenson V. D. M. stip. Adlersparr. In audit. eccles. die XIII Dec. MDCCCXXX. H. A. M. S",
+"creator": "Almquist, Karl Jonas, 1804-1844",
+"type": "book",
+"publisher": "Upsaliæ, excudebant regiæ academiæ typographi",
+"date": "[1830]",
+"language": "lat"
+},
+{
+"identifier": "http://libris.kb.se/bib/10081363",
+"title": "Amorina",
+"creator": "Sjöberg, Alf, 1903-1980",
+"isbn": [
+"9188712583",
+"9188712583 (invalid)"
+],
+"type": "book",
+"publisher": "Stockholm : Almlöf",
+"date": "2005",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/14721784",
+"title": "Disputatio septima politica, de summo magistratu, seu de majestate, quam  ... sub præside ... Iona Magni Wex. ... cognoscendam & in academia regia publice ad diem 19 Febr. ventilandam exhibet, Ionas Bothvidi Bergh",
+"creator": "Jonas Magni Wexionensis, 1583-1651",
+"type": "book",
+"publisher": "Upsaliæ, excudebat Eschillus Matthiæ, anno 1625",
+"date": "1625",
+"language": "lat"
+},
+{
+"identifier": "http://libris.kb.se/bib/17120340",
+"title": "Dispvtationvm philosophiæ moralis, tertia, de definitione virtvtis moralis ... quam ... sub præsidio M. Jonæ Magni ... pro ingenij facultate defendet Ionas Halvardi Fergelandus, dalius. Ad diem 6 Maij",
+"creator": "Jonas Magni Wexionensis, 1583-1651",
+"type": "book",
+"publisher": "Ubsaliæ, Excudebat Eschillvs Matthiæ, anno recuperatæ salutis MDCXIV",
+"date": "[1615]",
+"language": "lat"
+},
+{
+"identifier": "http://libris.kb.se/bib/2423345",
+"title": "Sorgbrev",
+"type": "book",
+"publisher": "",
+"date": "1792",
+"language": "swe",
+"relation": "Sorgbrev"
+},
+{
+"identifier": "http://libris.kb.se/bib/5946082",
+"title": "Joan Jonas : Performance, Video, Installation : 1968 - 2000 : [anlässlich der Ausstellung \"Joan Jonas : Performance, Video, Installation\", Galerie der Stadt Stuttgart, 16.11.2000 - 18.2.2001 ; Neue Gesellschaft für Bildende Kunst (NGBK), Berlin, 31.3.2001 - 6.5.2001]",
+"creator": "Jonas, Joan",
+"isbn": "3775709770",
+"type": "book",
+"publisher": "Ostfildern-Ruit : Hatje Cantz",
+"date": "2001",
+"language": "ger"
+},
+{
+"identifier": "http://libris.kb.se/bib/10795635",
+"title": "Ett ufo gör entré [Elektronisk resurs]",
+"creator": "Gardell, Jonas",
+"isbn": "9789173133838",
+"type": "sound recording",
+"publisher": "Norstedts Audio",
+"date": "2008",
+"language": "swe",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/14287394",
+"title": "Ett ufo gör entré [Elektronisk resurs]",
+"creator": "Gardell, Jonas",
+"isbn": "9789173133821",
+"type": "sound recording",
+"publisher": "Norstedts Audio",
+"date": "2007",
+"language": "swe",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/1575172",
+"title": "Möbler : Mathsson, Chambert, Kandell, Bohlin",
+"isbn": "917100453X ;",
+"type": "book",
+"publisher": "Stockholm : Nationalmuseum : Raster",
+"date": "1993",
+"language": "swe",
+"description": "Li:S",
+"relation": "Möbler : Mathsson, Chambert, Kandell, Bohlin : 27 januari-28 mars 1993, Nationalmuseum, Stockholm"
+},
+{
+"identifier": "http://libris.kb.se/bib/815070",
+"title": "Journalistik",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178441269",
+"type": "book",
+"publisher": "Hedemora : Gidlund",
+"date": "1989",
+"language": "swe",
+"description": "Li:S",
+"relation": "Journalistik"
+},
+{
+"identifier": "http://libris.kb.se/bib/815071",
+"title": "Journalistik",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178441277",
+"type": "book",
+"publisher": "Hedemora : Gidlund",
+"date": "1989",
+"language": "swe",
+"description": [
+"Li:S",
+"Li:S"
+],
+"relation": "Journalistik"
+},
+{
+"identifier": "http://libris.kb.se/bib/477018",
+"title": "Hvad är en tourist? : brev och korrespondenser från en utrikes resa",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Göteborg : Akademiförlaget/Gumpert",
+"date": "1961",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1331366",
+"title": "Jonas Erik Björkquist : minnesteckning, huvudsakligen på grundval av hans självbiografiska anteckningar",
+"creator": "Hasselberg, Carl J. E., 1856-1938.",
+"type": "book",
+"publisher": "Härnösand : V. Åström",
+"date": "1929",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/159927",
+"title": "Jonas Hollsten : präst och naturvetare : en Norrbottensbild från 1700-talet",
+"creator": "Hollstén, Jonas, 1717-1789",
+"type": "book",
+"publisher": "Luleå : Luleå bokförl",
+"date": "1976",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/449603",
+"title": "Monografi : samlad och utgifven för att lätta öfversigten och bedömandet af vissa bland tidens frågor",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Jönköping",
+"date": "1845",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7565573",
+"title": "Joan Jonas : works 1968-1994 : [exhibition], Stedelijk Museum Amsterdam, 31.05.94-19.06.94",
+"creator": "Jonas, Joan",
+"isbn": "9050060951",
+"type": "book",
+"publisher": "Amsterdam : Stedelijk Museum",
 "date": "1994",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/10678016",
-"title": "Paul Potter : biographie critique",
-"creator": "Potter, Paul 1625 - ?",
+"identifier": "http://libris.kb.se/bib/2019494",
+"title": "Jonas Lie og hans samtidige : breve i udvalg",
+"creator": "Lie, Jonas 1833-1908",
 "type": "book",
-"publisher": "Paris : Laurens",
-"date": "[s.a.]",
+"publisher": "Kristiania : Gyldendal",
+"date": "1915",
+"language": "nor"
+},
+{
+"identifier": "http://libris.kb.se/bib/16997639",
+"title": "When you make me smile [Ljudupptagning]",
+"creator": "Gustafsson, Rigmor",
+"type": "musical sound recording",
+"publisher": "München : ACT Music",
+"date": "p 2014",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10363055",
+"title": "Joan Jonas : five works",
+"creator": "Jonas, Joan, 1936-",
+"isbn": [
+"1929641036",
+"9781929641031"
+],
+"type": "book",
+"publisher": "New York : Queens Museum of Art",
+"date": "cop. 2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/7151618",
+"title": "\"Det går en åska genom tidevarvet\" : pamfletter och polemik",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9117210615",
+"type": "book",
+"publisher": "Stockholm : PAN/Norstedt",
+"date": "1972",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2423330",
+"title": "Sorgbrev",
+"type": "book",
+"publisher": "",
+"date": "1777",
+"language": "swe",
+"relation": "Sorgbrev"
+},
+{
+"identifier": "http://libris.kb.se/bib/1722439",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300582",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1995",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 23, Amalia Hillner"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/8223722",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300884",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "2000",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Salmade verk. 18, Amorina eller Historien om de fyra"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/1722442",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300701",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 30, Herrarne på Ekolsund, D. 1-2"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/1722443",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917230071X",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 31, Herrarne på Ekolsund, D. 3"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/815069",
+"title": "Journalistik",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Hedemora : Gidlund",
+"date": "1989",
+"language": "swe",
+"description": [
+"Li:S",
+"Huvudpost (flerbandsverk)"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/2808775",
+"title": "Jonas Holmström : målningar 1994-1996",
+"creator": "Holmström, Jonas, 1964-",
+"type": "book",
+"publisher": "Stockholm : Galleri Bergman",
+"date": "1996",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2879975",
+"title": "Jonas : en komparativ analys av två berättarstrukturer",
+"creator": "Palmqvist, Malin",
+"type": "book",
+"publisher": "Stockholm : Teatervetenskapliga institutionen, univ",
+"date": "1997",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/10521262",
+"title": "Det går an [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789185637355",
+"type": "sound recording",
+"publisher": "Stockholm : Adelphi audio",
+"date": "p 2007",
+"language": "swe",
+"description": "Posten ändrad i SMDB 20090611"
+},
+{
+"identifier": "http://libris.kb.se/bib/10146532",
+"title": "3 x Jonas Gardell",
+"creator": "Gardell, Jonas, 1963-",
+"isbn": "973645164X",
+"type": "book",
+"publisher": "Bucureşti : Editura Vremea",
+"date": "2006",
+"language": "rum"
+},
+{
+"identifier": "http://libris.kb.se/bib/12754526",
+"title": "Röjås Jonas",
+"creator": "Bergroth, Jonas, 1977-",
+"type": "article",
+"language": "swe",
+"relation": "Lira (Falun)"
+},
+{
+"identifier": "http://libris.kb.se/bib/12028270",
+"title": "Joan Jonas : timelines: transparencies in a dark room",
+"creator": "Jonas, Joan",
+"isbn": "9788489771444",
+"type": "book",
+"publisher": "Barcelona : Museu d'Art Contemporani",
+"date": "cop. 2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/13452869",
+"title": "Esaias propheta",
+"creator": "Gesenius, Wilhelm.",
+"type": "book",
+"publisher": "Upsaliae : Excudebant Regiae academiae typographi",
+"date": "[1824]",
+"language": "lat"
+},
+{
+"identifier": "http://libris.kb.se/bib/14010881",
+"title": "Scholia selecta in Esai XIII-XXXIX",
+"creator": "Knös, Gustaf, 1773-1828",
+"type": "book",
+"publisher": "Upsaliæ excudebant regiæ academiæ typographi",
+"date": "[1826-28]",
+"language": "lat"
+},
+{
+"identifier": "http://libris.kb.se/bib/7766003",
+"title": "Morden i Norden : nordiska kriminalberättelser före Edgar Allan Poe",
+"isbn": "9187678098",
+"type": "book",
+"publisher": "Göteborg : Bokklubben Norden",
+"date": "1990",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/12619108",
+"title": "Morden i Norden [Ljudupptagning] : nordiska kriminalberättelser före Edgar Allan Poe",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2005",
+"language": "swe",
+"description": "Posten ändrad i BURK 20050613",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C37437", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10654856",
+"title": "Jonas Nobel : the memory of this experience will fade and you will eventually die I'm sorry I'm so very very sorry",
+"creator": "Nobel, Jonas, 1970-",
+"isbn": "9789163310508",
+"type": "book",
+"publisher": "Stockholm : Galleri Charlotte Lund",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12318568",
+"title": "Det går an [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Stockholm : Adelphi Audio",
+"date": "2007",
+"language": "swe",
+"relation": "Det går an"
+},
+{
+"identifier": "http://libris.kb.se/bib/13480359",
+"title": "Det går an [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Stockholm : Svenska ljud classica",
+"date": "2011",
+"language": "swe",
+"relation": "Det går an"
+},
+{
+"identifier": "http://libris.kb.se/bib/11447239",
+"title": "Tintomara i storskogen : berättelsen är inspirerad av Carl Jonas Love Almqvists roman Drottningens juvelsmycke",
+"creator": "Sidenbladh, Cecilia, 1947-",
+"isbn": "9789172993600",
+"type": "book",
+"publisher": "Bromma : Opal",
+"date": "2009",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/5862461",
+"title": "Le joyau de la reine",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "2714305865",
+"type": "book",
+"publisher": "Paris : José Corti",
+"date": "1996",
 "language": "fre"
 },
 {
-"identifier": "http://libris.kb.se/bib/6460900",
-"title": "Dennis Potter",
-"creator": "Stead, Peter",
-"isbn": [
-"1854110713",
-"1854110721"
-],
+"identifier": "http://libris.kb.se/bib/6891384",
+"title": "Why not! : a picture out of life",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "1880755084",
 "type": "book",
-"publisher": "Bridgend : Seren",
-"date": "cop. 1993",
+"publisher": "Seattle : Mermaid Press",
+"date": "1994",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10916471",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300582 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1995",
+"language": "swe",
+"relation": "Samlade verk. 23, Amalia Hillner",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/SamladeVerk23/info", ["Fritt tillgänglig via Litteraturbanken"],
+"http://litteraturbanken.se/txt/epub/AlmqvistCJL/titlar/SamladeVerk23.epub", ["Hämta gratis epub direkt från Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/11194387",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300884 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "2000",
+"language": "swe",
+"relation": "Salmade verk. 18, Amorina eller Historien om de fyra",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk18/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/8223320",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178443040",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "2000",
+"language": "swe",
+"description": "Li:S",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/2219217",
+"title": "Det går an : en tafla ur lifvet",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1839",
+"language": "swe",
+"relation": "Det går an : en tafla ur lifvet"
+},
+{
+"identifier": "http://libris.kb.se/bib/10909477",
+"title": "Det går an [Elektronisk resurs] : en tafla ur lifvet",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm",
+"date": "1839",
+"language": "swe",
+"relation": "Det går an : en tafla ur lifvet",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/DetGarAn1839/sida/-4/faksimil", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916529",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300701 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"relation": "Samlade verk. 30, Herrarne på Ekolsund, D. 1-2",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/SamladeVerk30/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/10916524",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917230071X (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1997",
+"language": "swe",
+"relation": "Samlade verk. 31, Herrarne på Ekolsund, D. 3",
+"free": ["http://litteraturbanken.se/forfattare/AlmqvistCJL/titlar/SamladeVerk31/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/2490770",
+"title": "Ladugårds-arrendet. : En berättelse för folket",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1877",
+"language": "swe",
+"relation": "Ladugårds-arrendet"
+},
+{
+"identifier": "http://libris.kb.se/bib/13931806",
+"title": "Ladugårds-arrendet [Elektronisk resurs] : En berättelse för folket",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm : Bonnier",
+"date": "1877",
+"language": "swe",
+"relation": "Ladugårds-arrendet",
+"free": ["http://urn.kb.se/resolve?urn=urn:nbn:se:umu:eod-62", ["Fritt tillgänglig via Umeå universitetsbibliotek."]]
+},
+{
+"identifier": "http://libris.kb.se/bib/8548815",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301082",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2002",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 19, Menniskoslägtets saga, eller Allmänna werldshistorien förenad med geografi. D. 1, Det stora Asien, eller det inre och egentliga Österlandet, i äldre och nyare tider"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/11194416",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172301082 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "2002",
+"language": "swe",
+"relation": "Samlade verk. 19, Menniskoslägtets saga, eller Allmänna werldshistorien förenad med geografi. D. 1, Det stora Asien, eller det inre och egentliga Österlandet, i äldre och nyare tider",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk19/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/7756434",
+"title": "Om François Rabelais' liv och skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9186270362",
+"type": "book",
+"publisher": "Göteborg : Litteraturvetenskapliga institutionen, Göteborgs universitet",
+"date": "1993",
+"language": "fre"
+},
+{
+"identifier": "http://libris.kb.se/bib/6860970",
+"title": "The queen's diadem",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "1871438217",
+"type": "book",
+"publisher": "London : Skoob",
+"date": "cop. 1992",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/6888609",
+"title": "The queen's diadem",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "1879751003 ;",
+"type": "book",
+"publisher": "Columbia, SC : Camden House",
+"date": "cop. 1992",
 "language": "eng",
 "description": "hum"
 },
 {
-"identifier": "http://libris.kb.se/bib/5054931",
-"title": "Dennis Potter : a biography",
-"creator": "Carpenter, Humphrey, 1946-2005",
-"isbn": "0571176852 ;",
+"identifier": "http://libris.kb.se/bib/10343260",
+"title": "Räknekonst för begynnare eller praktisk aritmetik",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
 "type": "book",
-"publisher": "London : Faber",
-"date": "1998",
-"language": "eng"
+"publisher": "Stockholm : W. Isberg",
+"date": "1837",
+"language": "swe",
+"relation": "Räknekonst för begynnare eller praktisk aritmetik ...",
+"urls": {
+"Q": [
+["http://rara.ub.umu.se/bookview/BookViewServlet/ipac/admin/BookViewLoader.jsp?method=getIpacBook&BookId=592", ["Fritt tillgänglig via Umeå universitetsbibliotek"]]
+]
+}
 },
 {
-"identifier": "http://libris.kb.se/bib/8290690",
-"title": "China's peasants : the anthropology of a revolution",
-"creator": "Potter, Sulamith Heins",
+"identifier": "http://libris.kb.se/bib/12428978",
+"title": "Räknekonst för begynnare eller praktisk aritmetik ... [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm : W. Isberg",
+"date": "1837",
+"language": "swe",
+"relation": "Räknekonst för begynnare eller praktisk aritmetik ...",
+"free": ["http://urn.kb.se/resolve?urn=urn:nbn:se:umu:rara-592", ["Fritt tillgänglig via Umeå universitetsbibliotek. OCR. PDF-fil."],
+"http://rara.ub.umu.se/bookview/BookViewServlet/ipac/admin/BookViewLoader.jsp?method=getIpacBook&BookId=592", ["Fritt tillgänglig via Umeå universitetsbibliotekd. Bookview."]]
+},
+{
+"identifier": "http://libris.kb.se/bib/53606",
+"title": "Samlade skrifter : första fullständiga upplagan, med inledningar, varianter och anmärkningar",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1920",
+"language": "swe",
+"relation": "Samlade skrifter : första fullständiga upplagan, med inledningar, varianter och anmärkningar"
+},
+{
+"identifier": "http://libris.kb.se/bib/8223721",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International [distributör]",
+"date": "1993-",
+"language": "swe",
+"description": "Huvudpost (flerbandsverk)"
+},
+{
+"identifier": "http://libris.kb.se/bib/8223319",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1993-",
+"language": "swe",
+"description": "Huvudpost (flerbandsverk)"
+},
+{
+"identifier": "http://libris.kb.se/bib/1695259",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9178442494",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1997",
+"language": "swe",
+"description": "Li:S",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1695257",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917844232X",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1999",
+"language": "swe",
+"description": "Li:S",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1695258",
+"title": "Skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917844246X",
+"type": "book",
+"publisher": "Hedemora : Gidlund i samarbete med Svenska vitterhetssamf. och Almqvistsällsk",
+"date": "1996",
+"language": "swe",
+"description": "Li:S",
+"relation": "Skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1722446",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300817",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1999",
+"language": "swe",
+"description": "Li:S",
+"relation": [
+"Samlade verk",
+"Samlade verk. 29, Syster och bror : en af Stockholms hemligheter"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/1722444",
+"title": "Samlade verk",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300752",
+"type": "book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1998",
+"language": "swe",
+"relation": [
+"Samlade verk",
+"Samlade verk. 25, Tre fruar i Småland"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/11335358",
+"title": "Samlade verk. [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9172300752 (invalid)",
+"type": "E-book",
+"publisher": "Stockholm : Svenska vitterhetssamfundet i samarbete med Almqvistsällskapet : Almqvist & Wiksell International",
+"date": "1998",
+"language": "swe",
+"relation": "Tre fruar i Småland",
+"free": ["http://litteraturbanken.se/#forfattare/AlmqvistCJL/titlar/SamladeVerk25/info/etext", ["Fritt tillgänglig via Litteraturbanken"]]
+},
+{
+"identifier": "http://libris.kb.se/bib/1607183",
+"title": "Valda skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1874",
+"language": "swe",
+"relation": "Valda skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1607184",
+"title": "Valda skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1874",
+"language": "swe",
+"relation": "Valda skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1607185",
+"title": "Valda skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1875",
+"language": "swe",
+"relation": "Valda skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/1607186",
+"title": "Valda skrifter",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1875",
+"language": "swe",
+"relation": "Valda skrifter"
+},
+{
+"identifier": "http://libris.kb.se/bib/11507028",
+"title": "Jonas Lundh",
+"creator": "Lundh, Jonas, 1965-",
+"isbn": "9789163345005",
+"type": "book",
+"publisher": "[Sölvesborg : Jonas Lundh] ; Ronneby : Ronneby konstförening",
+"date": "2009",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8231096",
+"title": "Allmän språklära ämnad att grundlägga och förbereda undervisningen i de särskildta språken uti den nya elementar-skolan i Stockholm. Reglor för underwisaren./(A.) Stockholm. Tryckt hos Johan Hörberg, 1829",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm",
+"date": "1829",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2079628",
+"title": "Azouras Lazuli Tintomara : La tournerose : opera i 3 akter efter Carl Jonas Love Almqvists roman \"Drottningens juvelsmycke\"",
+"creator": "Werle, Lars Johan, 1926-2001",
+"type": "book",
+"publisher": "Stockholm : Nordiska musikförl",
+"date": "1973",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7775826",
+"title": "Jonas Theselius : [Lunds konsthall 22 aug - 27 sept 1998]",
+"creator": "Theselius, Jonas, 1957-",
+"isbn": "9188846091",
+"type": "book",
+"publisher": "Lund : Lunds konsthall",
+"date": "1998",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7772735",
+"title": "Rekordmannen",
+"creator": "Bergqvist, Jonas, 1962-",
 "isbn": [
-"0521355214",
-"052135787X"
+"9188541029",
+"91885410209 (invalid)"
 ],
 "type": "book",
-"publisher": "Cambridge : Cambridge Univ. Press",
-"date": "1990",
-"language": "eng"
+"publisher": "Malmö : Sportförl",
+"date": "cop. 1999",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9841723",
+"title": "Jonas Mekas : dagboksfilmen = the diary film",
+"creator": "Mekas, Jonas, 1922-",
+"isbn": "9171007237",
+"type": "book",
+"publisher": "Stockholm : Moderna museet",
+"date": "cop. 2005",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/12242412",
+"title": "Det går an [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789185637362",
+"type": "sound recording",
+"publisher": "Stockholm : Adelphi Audio",
+"date": "2007",
+"language": "swe",
+"urls": {
+"Afb": [
+["http://kulturivast.elib.se/Books/Details/1007674", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Areb": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Biv": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Fett": [
+["http://www.forlagett.se"]
+], 
+"Gnos": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Hasb": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]], 
+["http://halmstad.elib.se/Books/Details/1007674", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"KkaD": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Kssb": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Leru": [
+["http://kulturivast.elib.se/Books/Details/1007674", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Less": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Ting": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+], 
+"Tkb": [
+["http://www.elib.se/sample_new/audio/ISBN918563736X.mp3", ["Provlyssna"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9351435",
+"title": "Amalia Hillner [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173010715",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2003]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"relation": "Amalia Hillner",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20031125070001_071-5.pdf", ["Lokalt tillgänglig på KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9362624",
+"title": "Araminta May [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173014273",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040202070001_427-3.pdf", ["Lokalt tillgänglig på KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9362861",
+"title": "Baron Julius K* [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "917301432X",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040205070001_432-X.pdf", ["Lokalt tillgänglig på KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8435953",
+"title": "En dag gick jag till fots från Bysala till Ferna : svensk geografi på rim",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9189519027",
+"type": "book",
+"publisher": "Uppsala : Spirea",
+"date": "2002",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/128258",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "",
+"type": "book",
+"publisher": "Höganäs : Bra böcker",
+"date": "1976",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/804129",
+"title": "Det går an : en tavla ur livet",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Norstedt",
+"date": "1964",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/804142",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Lindblad",
+"date": "1971",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7612283",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9171602267",
+"type": "book",
+"publisher": "Stockholm : Trevi",
+"date": "1976",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7652504",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9176084256",
+"type": "book",
+"publisher": "Stockholm : Bromberg",
+"date": "[1988]",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7773973",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9188680126 ;",
+"type": "book",
+"publisher": "Lund : Klassikerförl. NGM",
+"date": "1994",
+"language": "swe",
+"description": "Li:S"
+},
+{
+"identifier": "http://libris.kb.se/bib/11532357",
+"title": "Det går an [Talbok]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Enskede : TPB: : Btj",
+"date": "[1975]",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/11543741",
+"title": "Det går an [Talbok]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Enskede : Kassettbok",
+"date": "cop. 1990",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/12737105",
+"title": "Det går an [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "E-book",
+"publisher": "Stockholm : Förlagett",
+"date": "2012",
+"language": "swe",
+"urls": {
+"Fett": [
+["http://www.bibliotekett.se/e-bocker/Det gar an Almqvist.epub", ["Ladda ner via länk"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12101081",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789188680211",
+"type": "book",
+"publisher": "Värmdö : Klassikerförlaget Steniq",
+"date": "2011",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/12104678",
+"title": "Det går an [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9179501796",
+"type": "sound recording",
+"publisher": "Enskede : SRF Kassettbok",
+"date": "cop. 1990",
+"language": "swe",
+"description": "Posten ändrad i SMDB 19950412"
+},
+{
+"identifier": "http://libris.kb.se/bib/13962651",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789174231090",
+"type": "book",
+"publisher": "Stockholm : Telegram : Publit [distributör]",
+"date": "2013",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/13325188",
+"title": "Det går an",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789101001666",
+"type": "book",
+"publisher": "Stockholm : Bonnier : www.publit.se [distributör]",
+"date": "2012",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/13480360",
+"title": "Det går an [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9789186023140",
+"type": "sound recording",
+"publisher": "Stockholm : Svenska ljud classica",
+"date": "2011",
+"language": "swe",
+"urls": {
+"Afb": [
+["http://kulturivast.elib.se/Books/Details/1010618", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Areb": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Biv": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Gnos": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Hasb": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]], 
+["http://halmstad.elib.se/Books/Details/1010618", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"KkaD": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Kssb": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Leru": [
+["http://kulturivast.elib.se/Books/Details/1010618", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Less": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Mo": [
+["http://malmo.elib.se/Books/Details/1010618", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Ting": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+], 
+"Tkb": [
+["http://www.elib.se/sample_new/audio/ISBN9186023144.mp3", ["Provlyssna"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12010",
+"title": "Drottningens juvelsmycke",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1955",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/816422",
+"title": "Drottningens juvelsmycke eller Azouras Lazuli Tintomara : berättelse om händelser näst före, under och efter konung Gustaf III:s mord : romaunt i tolv böcker",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Aldus/Bonnier",
+"date": "1966",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/7149127",
+"title": "Drottningens juvelsmycke eller Azouras Lazuli Tintomara : berättelse om händelser näst före, under och efter konung Gustaf III:s mord : romaunt i tolv böcker",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9100557560 ;",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1993",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9470177",
+"title": "Drottningens juvelsmycke eller Azouras Lazuli Tintomara : berättelse om händelser näst före, under och efter konung Gustaf III:s mord : romaunt i tolv böcker",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": [
+"9100104590",
+"9789100104597"
+],
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "2004",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/2086205",
+"title": "Fria fantasier [Ljudupptagning] : Sånger och klaverstycken",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "musical sound recording",
+"publisher": "Stockholm : Musica Sveciae",
+"date": "p 1993",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/11547060",
+"title": "Fria fantasier = Free fantasias : sånger och klaverstycken [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "musical sound recording",
+"publisher": "Stockholm : Musica Sveciae",
+"date": "p 1993",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/9362646",
+"title": "Hermitaget [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173014265",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040201070001_426-5.pdf", ["Lokalt tillgänglig på KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9372831",
+"title": "Hinden [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173014699",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"relation": "Hinden",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040219070001_469-9.pdf", ["Lokalt tillgänglig i KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/879232",
+"title": "Jaktslottet : Ormus och Ariman ; Araminta May ; Det går an ; Grimstahamns nybygge ; Dikter ; Brev i landsflykten ; Uppsatser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "[utg. 1969]",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/8078442",
+"title": "Jaktslottet; Ormus och Ariman; Araminta May; Det går an; Grimstahamns nybygge; Dikter; Brev i landsflykten: Uppsatser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm; Bonnier",
+"date": "1965",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9497352",
+"title": "Jaktslottet [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173014672",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040220070001_467-2.pdf", ["Lokalt tillgänglig i KB"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/7754181",
+"title": "Kapellet",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9186020196 ;",
+"type": "book",
+"publisher": "Örebro : Samspråk",
+"date": "1985",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/474944",
+"title": "Kapellet och andra berättelser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Tiden",
+"date": "1963",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/1846307",
+"title": "Kapellet och andra berättelser",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "book",
+"publisher": "Stockholm : Tiden",
+"date": "1963",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/12552598",
+"title": "Ladugårdsarrendet [Ljudupptagning]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"type": "sound recording",
+"publisher": "Enskede : TPB",
+"date": "2004",
+"language": "swe",
+"description": "Posten ändrad i BURK 20041214",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C33388", ["Ladda ned. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättlagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9402119",
+"title": "Målaren [Elektronisk resurs]",
+"creator": "Almqvist, Carl Jonas Love, 1793-1866",
+"isbn": "9173014729",
+"type": "E-book",
+"publisher": "Tyresö : Eboklagret/Omnibus",
+"date": "[2004]",
+"language": "swe",
+"description": "Tidigare tillgänglig via eBoklagret/Omnibus webbplats, http://www.omnibus.se/eBoklagret",
+"urls": {
+"S": [
+["http://ebok.kb.se/Omnibus.20040225070001_472-9.pdf", ["Lokalt tillgänglig på KB"]]
+]
+}
 }
 ]
+}}

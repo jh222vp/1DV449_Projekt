@@ -15,7 +15,8 @@ function previewBook(ISBN)
 
 function alert()
 {
-    bootbox.alert("Tyvärr gick det inte att förhandsgranska denna boken på grund av olika anledningar. Bättre Lycka nästa gång!")
+    bootbox.alert("Tyvärr gick det inte att förhandsgranska boken på grund av olika anledningar." +
+    " Troligtvis för att den inte finns hos Google Books.  Bättre lycka vid nästa bok!")
 }
 
 function readBook(ISBN)
@@ -26,8 +27,7 @@ function readBook(ISBN)
 
 function alertNotFound()
 {
-    console.log("Schhhhh!!")
-    //bootbox.alert("Den här boken gick inte att förhandsgranska")
+    console.log("Här syns ingen bok!")
 }
 
 google.setOnLoadCallback(readBook);
