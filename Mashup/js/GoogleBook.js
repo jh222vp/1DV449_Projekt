@@ -7,18 +7,21 @@ function getISBN(ISBN)
     previewBook(ISBN)
 }
 
+//Funktion som förhandsgranskar önskad bok.
 function previewBook(ISBN)
 {
     var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
     viewer.load('ISBN:'+ISBN, alert);
 }
 
+//Felmeddelande som visas när användaren inte kan förhandsgranska en bok.
 function alert()
 {
     bootbox.alert("Tyvärr gick det inte att förhandsgranska boken på grund av olika anledningar." +
     " Troligtvis för att den inte finns hos Google Books.  Bättre lycka vid nästa bok!")
 }
 
+//Första funktionen som körs.
 function readBook(ISBN)
 {
     var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
@@ -27,7 +30,7 @@ function readBook(ISBN)
 
 function alertNotFound()
 {
-    console.log("Här syns ingen bok!")
+    //Empty, behöver ingen varning vid första gången sidan körs..
 }
 
 google.setOnLoadCallback(readBook);

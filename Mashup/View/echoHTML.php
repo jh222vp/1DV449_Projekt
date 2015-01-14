@@ -18,7 +18,7 @@ private static $search = 'searchQuery';
         $ret = "<!DOCTYPE html>
 
         <!--Manifest fil som håller i vad som ska cachas, repspektive inte cachas i klienten-->
-        <html manifest='./Cache/CacheManifest.appcache'>
+        <html manifest='CacheManifest.appcache'>
         <head>
             <meta charset='UTF-8'>
             <link href='Style/bootstrap-table-master/src/bootstrap-table.css' rel='stylesheet'>
@@ -29,10 +29,9 @@ private static $search = 'searchQuery';
         <body>
 
         <div class='container container-fluid'>
+        <h1>BookSearch</h1>
 
-            <h1>BookSearch</h1>
-
-        <!--Här nedan är facebookLIKE, Login och SHARE-->
+        <!--Kryssbar ruta som tipsar användaren om att sortering är möjlig i tabellen-->
         <div class='row'>
             <div class='col-md-12'>
                 <div class='alert alert-info'>
@@ -44,15 +43,15 @@ private static $search = 'searchQuery';
             </div>
         </div>
 
-        <!--HÄR ÄR ETT SÖKFORMULÄR-->
+        <!--Nedan är ett sökformulär samt en knapp där vi utför sökning på böcker-->
         <div id='searchBackground'>
             <div class='row'>
                 <div class='col-md-8 messageListDiv'>
                     <form class='navbar-form navbar-left' role='search'>
                         <div class='form-group'>
-                            <input type='text' class='form-control' name='searchQuery' id='searchQuery' placeholder='Sök bokinfo här' >
+                            <input type='text' class='form-control' name='searchQuery' id='searchQuery' placeholder='Sök bokinfo här'>
                         </div>
-                        <button type='submit' class='btn btn-default'>Sök</button>
+                        <button type='submit' id='myBtn' class='btn btn-default'>Sök</button>
                     </form>
                 </div>
             </div>
@@ -68,10 +67,11 @@ private static $search = 'searchQuery';
                         </div>
                 </div>
             </div>
+            <script src='./js/FaceBookOAuth.js'></script>
         </div>
 
         <!--Tabell som läser från cache.json fil och listas ut innehåller till DOMen-->
-        <table class='table' data-toggle='table' data-url='cache.json' data-cache='false' data-height='399'  data-click-to-select='true' data-single-select='true' data-pagination='true' data-show-columns='true' data-search='true'  data-align='left' >
+        <table class='table' data-toggle='table' data-url='./Cache/cache.json' data-cache='false' data-height='399'  data-click-to-select='true' data-single-select='true' data-pagination='true' data-show-columns='true' data-search='true'  data-align='left' >
         <thead>
             <tr>
                 <th data-field='title' data-sortable='true'>Titel</th>
@@ -90,32 +90,23 @@ private static $search = 'searchQuery';
         <div id='viewerCanvas' style='width: 800px; height:500px'>
         </div>
 
-        <!--Här nedan har vi tre bootstrapgfiler och jquery för att bl.a tables ska fungera-->
+        <!--Scriptfiler-->
+        <script src='//code.jquery.com/jquery-2.1.3.min.js'></script>
+        <script src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'></script>
+        <script src='./js/bootstrap-table-master/src/bootstrap-table.js'></script>
+        <script src='//cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js'></script>
+        <script src='./js/isOnline.js'></script>
         <script src='./js/read.js'></script>
-        <script src='./js/FaceBookOAuth.js'></script>
-        <script src='./js/fb.js'></script>
-
         <script type='text/javascript' src='https://www.google.com/jsapi'></script>
         <script src='./js/GoogleBook.js'></script>
-
-        <script onload='init()' src='./js/isOnline.js'></script>
-        <script src='//code.jquery.com/jquery-2.1.3.min.js'></script>
-        <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'></script>
-        <script src='Style/bootstrap-table-master/src/bootstrap-table.js'></script>
-        <script src='Style/bootbox.min.js'></script>
-
-
         </body>
-
         </html>";
         $this->getSearch();
-
         return $ret;
     }
 
     public function getSearch()
     {
-
         if(isset($_GET[self::$search]))
         {
             /*Hämtar indatan från användaren, tvättar inputet från farliga tecken.
@@ -132,12 +123,7 @@ private static $search = 'searchQuery';
 
             $whatIWant = substr($data, strpos($data, "["));
             $whatIWant = substr($whatIWant, 0, -2);
-            file_put_contents("cache.json", $whatIWant);
-        }
-        else{
-            Requests::register_autoloader();
-            $defaultRequest = Requests::get("http://libris.kb.se/xsearch?query=Jonas&format=json&n=200");
-            file_put_contents("cache.json", $defaultRequest->body);
+            file_put_contents("./Cache/cache.json", $whatIWant);
         }
     }
 }

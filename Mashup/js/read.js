@@ -2,7 +2,12 @@
  * Created by Jonas on 2014-12-28.
  */
 
-function operateFormatter() {
+/*Hantering av ikonknapparna till höger i tabellen
+* klickar användaren på kundvagnen så skickas man till Adlibris
+* där en sökning görs automatiskt av ISBN från boken.*/
+
+ function operateFormatter()
+{
     return [
         '<a class="buy" href="javascript:void(0)" title="Buy">',
         '<i class="glyphicon glyphicon-shopping-cart"></i>',
@@ -13,13 +18,12 @@ function operateFormatter() {
     ].join('');
 }
 
-window.operateEvents = {
+window.operateEvents =
+{
     'click .buy': function (e, value, row) {
         window.location = "http://www.adlibris.com/se/sok?q="+JSON.stringify(parseInt(row.isbn));
     },
     'click .preview': function (e, value, row, index) {
-        console.log("nu klickade du på förhandsvisning");
-
         var isbn = JSON.stringify(parseInt(row.isbn));
         getISBN(isbn);
     }

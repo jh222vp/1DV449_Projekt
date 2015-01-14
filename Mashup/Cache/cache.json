@@ -1,5 +1,340 @@
 [
 {
+"identifier": "http://libris.kb.se/bib/5054372",
+"title": "Potter on Potter",
+"creator": "Potter, Dennis",
+"isbn": "057116367X ;",
+"type": "book",
+"publisher": "London : Faber and Faber",
+"date": "1993",
+"language": "eng",
+"description": "hum"
+},
+{
+"identifier": "http://libris.kb.se/bib/11311081",
+"title": "Att handskas med ilska : 11 stilar av ilska och hur man kan förändra dem",
+"creator": "Potter-Efron, Ronald T.",
+"isbn": "9789144050232",
+"type": "book",
+"publisher": "Lund : Studentlitteratur",
+"date": "2009",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/5054634",
+"title": "Potter on Potter",
+"creator": "Potter, Dennis",
+"isbn": "0571170463",
+"type": "book",
+"publisher": "London : Faber and Faber",
+"date": "1994",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5701207",
+"title": "Beatrix Potter",
+"creator": "MacDonald, Ruth K",
+"isbn": "080576917X",
+"type": "book",
+"publisher": "Boston : Twayne Publishers",
+"date": "cop. 1986",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4727657",
+"title": "Beatrix Potter",
+"creator": "Buchan, Elizabeth",
+"isbn": "0241120519",
+"type": "book",
+"publisher": "London : Hamish Hamilton",
+"date": "1987",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/7397912",
+"title": "Paulus Potter : paintings, drawings and etchings : [exhibition, 8 November 1994-5 February 1995], Mauritshuis, The Hague",
+"creator": "Potter, Paulus",
+"isbn": [
+"9040097216",
+"9040097127"
+],
+"type": "book",
+"publisher": "Zwolle : Waanders",
+"date": "1994",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10678016",
+"title": "Paul Potter : biographie critique",
+"creator": "Potter, Paul 1625 - ?",
+"type": "book",
+"publisher": "Paris : Laurens",
+"date": "[s.a.]",
+"language": "fre"
+},
+{
+"identifier": "http://libris.kb.se/bib/6460900",
+"title": "Dennis Potter",
+"creator": "Stead, Peter",
+"isbn": [
+"1854110713",
+"1854110721"
+],
+"type": "book",
+"publisher": "Bridgend : Seren",
+"date": "cop. 1993",
+"language": "eng",
+"description": "hum"
+},
+{
+"identifier": "http://libris.kb.se/bib/5054931",
+"title": "Dennis Potter : a biography",
+"creator": "Carpenter, Humphrey, 1946-2005",
+"isbn": "0571176852 ;",
+"type": "book",
+"publisher": "London : Faber",
+"date": "1998",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8290690",
+"title": "China's peasants : the anthropology of a revolution",
+"creator": "Potter, Sulamith Heins",
+"isbn": [
+"0521355214",
+"052135787X"
+],
+"type": "book",
+"publisher": "Cambridge : Cambridge Univ. Press",
+"date": "1990",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4835821",
+"title": "Dennis Potter : between two worlds : a critical reassessment",
+"creator": "Creeber, Glen, 1962-",
+"isbn": [
+"0333713893",
+"0333713907"
+],
+"type": "book",
+"publisher": "Basingstoke : Macmillan",
+"date": "1998",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5054800",
+"title": "Seeing the blossom : two interviews, a lecture and a story",
+"creator": "Potter, Dennis",
+"isbn": "0571174361",
+"type": "book",
+"publisher": "London : Faber and Faber",
+"date": "1994",
+"language": "eng",
+"description": "hum"
+},
+{
+"identifier": "http://libris.kb.se/bib/13258832",
+"title": "Shared Histories: Transatlantic Letters Between Virginia Dickinson Reynolds and Her Daughter, Virginia Potter, 1929-1966 (The Publications of the Southern Texts Society) [Elektronisk resurs]",
+"creator": "Potter, Virginia",
+"isbn": [
+"9780820342993",
+"9780820327938 (invalid)"
+],
+"type": "E-book",
+"publisher": "University of Georgia",
+"date": "2006",
+"language": "und",
+"description": [
+"EBZ",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+],
+"relation": "Shared Histories: Transatlantic Letters Between Virginia Dickinson Reynolds and Her Daughter, Virginia Potter, 1929-1966 (The Publications of the Southern Texts Society)",
+"urls": {
+"AlbE": [
+["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=462331", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+], 
+"Bthd": [
+["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10496036", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Hald": [
+["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10496036", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
+], 
+"HdE": [
+["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10496036", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Hibd": [
+["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10496036", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Htue": [
+["http://sfx-46htu.hosted.exlibrisgroup.com/46htu?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan Väst/Restricted access", "ebrary e-books:Full Text"]]
+], 
+"Jsld": [
+["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Kdig": [
+["https://login.bibproxy.kau.se:8443/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=462331", ["Online access for KaU", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"LiUd": [
+["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10496036", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=462331", ["Online access for Linneaus University", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"Mahd": [
+["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Mdhd": [
+["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=462331", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"Odig": [
+["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10496036", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
+], 
+"Pvd": [
+["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10496036", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
+], 
+"Qdig": [
+["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
+], 
+"Rdig": [
+["http://sfx-46riks.hosted.exlibrisgroup.com/46riks?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Riksdagsbiblioteket", "Ebrary: full text:Full Text"]]
+], 
+"Tdig": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000052313&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
+], 
+"Udix": [
+["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10496036", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
+], 
+"Zdig": [
+["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10496036", ["Online access for Chalmers", "Ebrary"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5527356",
+"title": "The journal of Beatrix Potter : 1881-1897 : complete edition",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "0723236259",
+"type": "book",
+"publisher": "London : Warne",
+"date": "1989",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8908462",
+"title": "Stora sagoboken om Pelle Kanin",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "9163829576",
+"type": "book",
+"publisher": "Stockholm : Bonnier Carlsen",
+"date": "2003",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/9499869",
+"title": "Hemma hos Pelle Kanin : sagorna om Pelle Kanin, Moses Metare och Tom Titten : [en karusellbok]",
+"creator": "Potter, Beatrix",
+"isbn": "9163846462",
+"type": "book",
+"publisher": "Stockholm : Bonnier Carlsen",
+"date": "2004",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/11994277",
+"title": "China's Peasants [Elektronisk resurs] : The Anthropology of a Revolution",
+"isbn": [
+"9780511607783",
+"9780521355216 (invalid)"
+],
+"type": "E-book",
+"publisher": "Cambridge : Cambridge University Press",
+"date": "1990",
+"language": "eng",
+"relation": "China's Peasants",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2610000000004385&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Cambridge University Press Online Books:Full Text"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5720971",
+"title": "Israel Potter : his fifty years of exile",
+"creator": "Melville, Herman 1819-1891",
+"isbn": [
+"0810105527",
+"0810105535"
+],
+"type": "book",
+"publisher": "Evanston : Northwestern Univ. Press : Newberry Library",
+"date": "1982",
+"language": "eng",
+"description": [
+"hum",
+"U 351:00"
+]
+},
+{
+"identifier": "http://libris.kb.se/bib/9989771",
+"title": "A history  of the countryside",
+"creator": "Potter, Margaret",
+"type": "book",
+"publisher": "Harmondsworth: Penguin",
+"date": "[1945?]",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5514973",
+"title": "Dennis Potter : a life on screen",
+"creator": "Cook, John R.",
+"isbn": [
+"0719046017",
+"0719046025"
+],
+"type": "book",
+"publisher": "Manchester : Manchester Univ. Press",
+"date": "1995",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/1042291",
+"title": "Houses : being a record of the changes in construction, style and plan of the smaller English home from mediaeval times to present day",
+"creator": "Potter, Margaret",
+"type": "book",
+"publisher": "London : Murray",
+"date": "1960",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/1007553",
+"title": "Interiors : a record of some of the changes in interior design and furniture of the English home from mediaeval times to the present day",
+"creator": "Potter, Margaret",
+"type": "book",
+"publisher": "London Murray",
+"date": "1957",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5692342",
+"title": "Representing reality : discourse, rhetoric and social construction",
+"creator": "Potter, Jonathan",
+"isbn": [
+"0803984103",
+"0803984111",
+"9780803984103",
+"9780803984110"
+],
+"type": "book",
+"publisher": "London : Sage",
+"date": "1996",
+"language": "eng",
+"description": "Dawson"
+},
+{
 "identifier": "http://libris.kb.se/bib/12504638",
 "title": "LEGO Harry Potter : bygg den magiska världen",
 "creator": "Dowsett, Elizabeth",
@@ -10,56 +345,247 @@
 "language": "swe"
 },
 {
-"identifier": "http://libris.kb.se/bib/13597417",
-"title": "J. K. Rowling : Harry Potter",
-"isbn": [
-"9780230008496",
-"9780230008502"
-],
-"type": "book",
-"publisher": "New York : Palgrave Macmillan",
-"date": "2012",
-"language": "eng",
-"description": "Indexeringslänk"
-},
-{
-"identifier": "http://libris.kb.se/bib/12080673",
-"title": "Harry Potter [Elektronisk resurs] : the story of a global business phenomenon",
-"creator": "Gunelius, Susan M.",
-"isbn": [
-"023020323X (invalid)",
-"9780230594104",
-"0230594107"
-],
+"identifier": "http://libris.kb.se/bib/13794467",
+"title": "The state of the nation [Elektronisk resurs] : at the close of 1830",
+"creator": "Macqueen, T. Potter",
 "type": "E-book",
-"publisher": "New York : Palgrave Macmillan",
-"date": "2008",
+"publisher": "London : J. Ridgway",
+"date": "1831",
 "language": "eng",
-"relation": "Harry Potter",
 "urls": {
-"Hdig": [
-["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Palgrave Connect eBooks Business & Management Collections:Full Text"]]
-], 
-"JonE": [
-["http://sfxeu10.hosted.exlibrisgroup.com/sfxjon/?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan i Jönköping / Restricted access", "Palgrave Connect:Full Text"]]
-], 
-"Ldix": [
-["http://sfxeu05.hosted.exlibrisgroup.com/46LUB?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Lund University", "Palgrave Connect ebooks Complete:Full Text"]]
-], 
-"LnuE": [
-["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230594104", ["Online access for Linneaus University", "DawsonEra eBooks"]]
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://galenet.galegroup.com/servlet/MOME?af=RN&ae=U105177716&srchtp=a&ste=14&q=GU", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
 ]
 }
 },
 {
-"identifier": "http://libris.kb.se/bib/11412007",
-"title": "Harry Potter : y la orden del Fénix",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "8478887423",
+"identifier": "http://libris.kb.se/bib/13793276",
+"title": "Thoughts and suggestions on the present condition of the country [Elektronisk resurs]",
+"creator": "Macqueen, T. Potter",
+"type": "E-book",
+"publisher": "London : J. Ridgway",
+"date": "1830",
+"language": "eng",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://galenet.galegroup.com/servlet/MOME?af=RN&ae=U104776202&srchtp=a&ste=14&q=GU", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/739089",
+"title": "Beatrice Webb's diaries",
+"creator": "Webb, Beatrice, 1858-1943",
 "type": "book",
-"publisher": "Salamandra",
+"publisher": "London : Longman",
+"date": "1956",
+"language": "eng",
+"relation": "Beatrice Webb's diaries"
+},
+{
+"identifier": "http://libris.kb.se/bib/11587986",
+"title": "Rome in the ancient world : from Romulus to Justinian",
+"creator": "Potter, D. S. 1957-",
+"isbn": [
+"9780500251522",
+"0500251525"
+],
+"type": "book",
+"publisher": "London : Thames & Hudson",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/6157615",
+"title": "Everything is possible : our Sudan years",
+"creator": "Potter, Margaret, 1916-",
+"isbn": "0862991250 ;",
+"type": "book",
+"publisher": "Gloucester : Sutton",
+"date": "1984",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10257685",
+"title": "Stora sagoboken om Pelle Kanin",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": [
+"9163855674",
+"9789163855672",
+"97863855672 (invalid)"
+],
+"type": "book",
+"publisher": "Stockholm : Bonnier Carlsen",
+"date": "2007",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/11105297",
+"title": "A sermon preached before the University of Oxford, at St. Mary's on Sunday, November 24, 1745 [Elektronisk resurs]. ... By Francis Potter",
+"creator": "Potter, Francis, 1709 or 10-1767.",
+"type": "E-book",
+"publisher": "London : printed for John and James Rivington",
+"date": "1745",
+"language": "eng",
+"relation": "A sermon preached before the University of Oxford, at St. Mary's on Sunday, November 24, 1745",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T004302&tiPG=1&dd=0&dc=flc&docNum=CW120145200&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T004302&tiPG=1&dd=0&dc=flc&docNum=CW120145200&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/13915219",
+"title": "Anger, alcoholism, and addiction : treating individuals, couples, and families",
+"creator": "Potter-Efron, Ronald T.",
+"isbn": "0393701263 :",
+"type": "book",
+"publisher": "New York : W.W. Norton & Co",
+"date": "c1991",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/7285999",
+"title": "Mus-sagor",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "9148518352",
+"type": "book",
+"publisher": "Stockholm : Bonniers juniorförl",
+"date": "1991",
+"language": "swe",
+"description": "Li: S"
+},
+{
+"identifier": "http://libris.kb.se/bib/5527311",
+"title": "The magic years of Beatrix Potter",
+"creator": "Lane, Margaret",
+"isbn": "0723221081",
+"type": "book",
+"publisher": "London : Warne",
+"date": "1978",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/986189",
+"title": "The art of Beatrix Potter : [direct reproductions of Beatrix Potter's preliminary studies and finished drawings, also examples of her original manuscript",
+"creator": "Potter, Beatrix, 1866-1943",
+"type": "book",
+"publisher": "Warne ; London, Warne",
+"date": [
+"1955",
+"1955"
+],
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16942995",
+"title": "Reclaim Your Relationship: A Workbook of Exercises and Techniques to Help Y",
+"creator": "Potter-Efron, Patricia S.",
+"isbn": "9780471749325",
+"type": "book",
+"publisher": "John Wiley & Sons",
+"date": "2006",
+"language": "eng",
+"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+},
+{
+"identifier": "http://libris.kb.se/bib/15995465",
+"title": "Treatment of Shame and Guilt in Alcoholism Counseling [Elektronisk resurs]",
+"creator": "Potter-Efron, Patricia S.",
+"isbn": "0866567186 (invalid)",
+"type": "E-book",
+"publisher": "Routledge",
+"language": "eng",
+"description": [
+"SFX",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+],
+"relation": "Treatment of Shame and Guilt in Alcoholism Counseling"
+},
+{
+"identifier": "http://libris.kb.se/bib/5692175",
+"title": "Discourse and social psychology : beyond attitudes and behaviour",
+"creator": "Potter, Jonathan",
+"isbn": [
+"0803980558",
+"0803980566"
+],
+"type": "book",
+"publisher": "London : Sage",
+"date": "1987",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5527337",
+"title": "Beatrix Potter : artist, storyteller and countrywoman",
+"creator": "Taylor, Judy",
+"isbn": "0723233144 ;",
+"type": "book",
+"publisher": "London : Warne",
+"date": "1986",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16859720",
+"title": "Christ's presence with his ministers illustrated. [Elektronisk resurs] : A sermon, delivered at the ordination of the Reverend Daniel Gould, to the work of an evangelist, at Fairlee-- state of Vermont, Oct. 2, 1795. By Ebenezer Bradford, A.M. Pastor of the First Church in Rowley. Published by desire",
+"creator": "Bradford, Ebenezer, 1746-1801.",
+"type": "E-book",
+"publisher": "Newburyport [Mass.] : Printed by William Barrett, at his printing-office Market-Square",
+"date": "[1795]",
+"language": "eng",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&docType=ECCOArticles&bookId=1379800600&type=getFullCitation&tabID=T001&prodId=ECCO&docLevel=TEXT_GRAPHICS&version=1.0&source=library&userGroupName=stockuni", ["Fulltext"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8983324",
+"title": "The Roman Empire at bay : AD 180-395",
+"creator": "Potter, D. S. 1957-",
+"isbn": [
+"0415100577",
+"0415100585"
+],
+"type": "book",
+"publisher": "London : Routledge",
 "date": "2004",
-"language": "spa"
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/17065352",
+"title": "The Roman Empire at bay : AD 180-395",
+"creator": "Potter, D. S. 1957-",
+"isbn": [
+"0415840554",
+"9780415840552",
+"0415840546",
+"9780415840545",
+"1315882566 (invalid)",
+"9781315882567 (invalid)",
+"1134694849 (invalid)",
+"9781134694846 (invalid)"
+],
+"type": "book",
+"publisher": "London : Routledge",
+"date": "2014",
+"language": "eng",
+"description": "Imported from: zcat.oclc.org:210/OLUCWorldCat (Do not remove)"
+},
+{
+"identifier": "http://libris.kb.se/bib/6174458",
+"title": "The Treatment of shame and guilt in alcoholism counselling",
+"isbn": [
+"0866567186",
+"0866569413"
+],
+"type": "book",
+"publisher": "New York ; London : Haworth",
+"date": "c1988",
+"language": "eng"
 },
 {
 "identifier": "http://libris.kb.se/bib/11938198",
@@ -92,6 +618,1338 @@
 "language": "eng"
 },
 {
+"identifier": "http://libris.kb.se/bib/8610513",
+"title": "Beatrix Potter : writing in code",
+"creator": "Kutzer, M. Daphne",
+"isbn": "0415943523",
+"type": "book",
+"publisher": "New York : Routledge",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5527371",
+"title": "Beatrix Potter : artist, storyteller and countrywoman",
+"creator": "Taylor, Judy",
+"isbn": "0723241759",
+"type": "book",
+"publisher": "London : Frederick Warne",
+"date": "1996",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12188465",
+"title": "Tok chinnŭn nŭlgŭni [Videoupptagning] = The old potter",
+"type": "moving image",
+"publisher": "[Sŏul] : kihoek, Han'guk Yŏngsang Charyowŏn : chejak, Pŭllu K'ino",
+"date": "2010",
+"language": "kor"
+},
+{
+"identifier": "http://libris.kb.se/bib/739087",
+"title": "Beatrice Webb's diaries",
+"creator": "Webb, Beatrice, 1858-1943",
+"type": "book",
+"publisher": "London : Longman",
+"date": "1952-1956",
+"language": "eng",
+"description": "Huvudpost (flerbandsverk)"
+},
+{
+"identifier": "http://libris.kb.se/bib/739088",
+"title": "Beatrice Webb's diaries",
+"creator": "Webb, Beatrice, 1858-1943",
+"type": "book",
+"publisher": "London : Longman",
+"date": "1952",
+"language": "eng",
+"relation": "Beatrice Webb's diaries"
+},
+{
+"identifier": "http://libris.kb.se/bib/8737407",
+"title": "The 11 myths of media violence",
+"creator": "Potter, W. James.",
+"isbn": [
+"0761927344",
+"0761927352"
+],
+"type": "book",
+"publisher": "London : SAGE",
+"date": "2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/3155529",
+"title": "The Wal Wal arbitration / by Pitman B. Potter",
+"creator": "Potter, Pitman B., 1892-1981",
+"type": "book",
+"publisher": "Washington : Carnegie endowment for international peace",
+"date": "1938",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4877064",
+"title": "Sedimentology of shale : study guide and reference source",
+"creator": "Potter, Paul Edwin, 1925-",
+"isbn": [
+"0387904301",
+"3540904301"
+],
+"type": "book",
+"publisher": "New York",
+"date": "cop. 1980",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/7789444",
+"title": "Kaartboek van Maasland van Jan Potter [Kartografiskt material]",
+"creator": "Potter, Jan Jansz.",
+"isbn": "9080066818",
+"type": "book",
+"publisher": "Maasland : Stichting Herdenking 750-jarige Vestiging Ridderlijke Duitsche Orde Balije van Utrecht in Maasland",
+"date": "1991",
+"language": "dut"
+},
+{
+"identifier": "http://libris.kb.se/bib/14182252",
+"title": "Constantine the Emperor",
+"creator": "Potter, D. S. 1957-",
+"isbn": [
+"9780199755868",
+"0199755868"
+],
+"type": "book",
+"publisher": "New York : Oxford University Press",
+"date": "c2013",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11497312",
+"title": "Emperors of Rome : Imperial Rome from Julius Caesar to the last emperor",
+"creator": "Potter, D. S. 1957-",
+"isbn": [
+"1906719012",
+"9781906719012"
+],
+"type": "book",
+"publisher": "London : Quercus",
+"date": "2008",
+"language": "eng",
+"description": "Dawson"
+},
+{
+"identifier": "http://libris.kb.se/bib/13597417",
+"title": "J. K. Rowling : Harry Potter",
+"isbn": [
+"9780230008496",
+"9780230008502"
+],
+"type": "book",
+"publisher": "New York : Palgrave Macmillan",
+"date": "2012",
+"language": "eng",
+"description": "Indexeringslänk"
+},
+{
+"identifier": "http://libris.kb.se/bib/1147618",
+"title": "The art of Beatrix Potter : direct reproductions of Beatrix Potter's preliminary studies and finished drawings, also examples of her original manuscripts",
+"creator": "Potter, Beatrix, 1866-1943",
+"type": "book",
+"publisher": "London : F. Warne",
+"date": "1966",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12567011",
+"title": "Rome in the ancient world [Ljudupptagning] : from Romulus to Justinian",
+"creator": "Potter, D. S. 1957-",
+"type": "sound recording",
+"publisher": "Johanneshov : TPB",
+"date": "2010",
+"language": "eng",
+"description": "Posten ändrad i BURK 20100323",
+"relation": "Rome in the ancient world",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C93990", ["Ladda ner. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättslagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11076281",
+"title": "Retirement: an epistle. By Mr. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : printed for Paul Vaillant",
+"date": "1748 [1747]",
+"language": "eng",
+"relation": "Retirement: an epistle. By Mr. Potter",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T044844&tiPG=1&dd=0&dc=flc&docNum=CW109523075&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T044844&tiPG=1&dd=0&dc=flc&docNum=CW109523075&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12080673",
+"title": "Harry Potter [Elektronisk resurs] : the story of a global business phenomenon",
+"creator": "Gunelius, Susan M.",
+"isbn": [
+"023020323X (invalid)",
+"9780230594104",
+"0230594107"
+],
+"type": "E-book",
+"publisher": "New York : Palgrave Macmillan",
+"date": "2008",
+"language": "eng",
+"relation": "Harry Potter",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Palgrave Connect eBooks Business & Management Collections:Full Text"]]
+], 
+"JonE": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxjon/?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan i Jönköping / Restricted access", "Palgrave Connect:Full Text"]]
+], 
+"Ldix": [
+["http://sfxeu05.hosted.exlibrisgroup.com/46LUB?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2550000000002278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Lund University", "Palgrave Connect ebooks Complete:Full Text"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230594104", ["Online access for Linneaus University", "DawsonEra eBooks"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/12110144",
+"title": "The Great Big Treasury Of Beatrix Potter [Elektronisk resurs]",
+"creator": "Potter, Beatrix",
+"isbn": "0585011257 (invalid)",
+"type": "E-book",
+"publisher": "Project Gutenberg ; NetLibrary",
+"date": "2000",
+"language": "eng",
+"description": [
+"SFX",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+],
+"relation": "The Great Big Treasury Of Beatrix Potter",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=111029787240262&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "NetLibrary Publicly Accessible eBooks:Full Text"]]
+], 
+"Ldix": [
+["http://sfxeu05.hosted.exlibrisgroup.com/46LUB?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=111029787240262&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Lund University", "EBSCOhost Ebooks:Full Text"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11412007",
+"title": "Harry Potter : y la orden del Fénix",
+"creator": "Rowling, J. K., 1965-",
+"isbn": "8478887423",
+"type": "book",
+"publisher": "Salamandra",
+"date": "2004",
+"language": "spa"
+},
+{
+"identifier": "http://libris.kb.se/bib/4764027",
+"title": "Stephen Potter : inventor of gamesmanship",
+"creator": "Jenkins, Alan",
+"isbn": "029777817X",
+"type": "book",
+"publisher": "London",
+"date": "[1980]",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/13518677",
+"title": "The journal of Beatrix Potter, from 1881 to 1897 [Ljudupptagning]",
+"creator": "Potter, Beatrix.",
+"type": "sound recording",
+"publisher": "Peterborough : Royal National Institute for the Blind",
+"date": "2004",
+"language": "eng",
+"description": "Posten ändrad i BURK 20120821",
+"urls": {
+"Mtm": [
+["http://www.legimus.se/work/redirect?MedieNr=C03550", ["Ladda ner. Tillgänglig för personer med läsnedsättning enligt § 17 Upphovsrättslagen"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10590157",
+"title": "Beatrix Potter : a life in nature",
+"creator": "Lear, Linda J., 1940-",
+"isbn": [
+"9780312369347",
+"0312369344"
+],
+"type": "book",
+"publisher": "New York : St. Martin's Press",
+"date": "2007",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/6749827",
+"title": "Beatrix Potter : a bibliographical check list",
+"creator": "Quinby, Jane",
+"isbn": "0906460069",
+"type": "book",
+"publisher": "London : Stroud",
+"date": "1983",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/874431",
+"title": "Organized groups in British national politics",
+"creator": "Potter, Allen Meyers, 1924-",
+"type": "book",
+"publisher": "London : Faber and Faber",
+"date": "1961",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/13568298",
+"title": "A companion to the Roman Empire [Elektronisk resurs]",
+"isbn": [
+"9780470996942",
+"9780631226444 (invalid)"
+],
+"type": "E-book",
+"publisher": "Malden, MA : Blackwell Pub",
+"date": "2006",
+"language": "eng",
+"relation": "A companion to the Roman Empire",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000351821&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Wiley Online Library Online Books:Full Text"]]
+], 
+"Tdig": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000351821&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "Wiley Online Library Online Books:Full Text"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11088817",
+"title": "The curate of Coventry: a tale [Elektronisk resurs]. By John Potter, ... In two volumes",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for F. Newbery",
+"date": "1771",
+"language": "eng",
+"relation": "The curate of Coventry: a tale",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T119354&tiPG=1&dd=0&dc=flc&docNum=CW115473003&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T119354&tiPG=1&dd=0&dc=flc&docNum=CW115473003&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5363979",
+"title": "Paleocurrents and basin analysis",
+"creator": "Potter, Paul Edwin, 1925-",
+"isbn": [
+"3540079521",
+"0387079521"
+],
+"type": "book",
+"publisher": "Berlin : Springer",
+"date": "1977",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/15760584",
+"title": "Lucie Rie : modernist potter",
+"isbn": "0300152000",
+"type": "book",
+"publisher": "New Haven Conn. : Yale University Press",
+"date": "c2012",
+"language": "eng",
+"description": "Imported from: bibliotek.dk:210/dfa (Do not remove)"
+},
+{
+"identifier": "http://libris.kb.se/bib/2078000",
+"title": "El en-Naṣbeh",
+"type": "book",
+"publisher": "Berkeley : The Palestine Institute of Pacific School of Religion : The American Schools of Oriental Research",
+"date": "1947",
+"language": "eng",
+"relation": "El en-Naṣbeh"
+},
+{
+"identifier": "http://libris.kb.se/bib/16372127",
+"title": "A collection of Beatrix Potter stories [Elektronisk resurs]",
+"creator": "Potter, Beatrix",
+"isbn": [
+"9780585011158",
+"9781426437946 (invalid)"
+],
+"type": "E-book",
+"publisher": "Project Gutenberg Literary Archive Foundation",
+"language": "und",
+"description": [
+"EBZ",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+],
+"relation": "A collection of Beatrix Potter stories",
+"urls": {
+"LTUd": [
+["http://www.gutenberg.org/ebooks/582", ["Online access for LTU", "Project Gutenberg eBooks"]]
+], 
+"LiUd": [
+["http://www.gutenberg.org/ebooks/582", ["Extern tillgång endast anställda och studenter vid LiU", "Project Gutenberg eBooks"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5527344",
+"title": "Beatrix Potter's letters",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "072323437X ;",
+"type": "book",
+"publisher": "London : Warne",
+"date": "1989",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/12110137",
+"title": "A Collection Of Beatrix Potter Stories [Elektronisk resurs]",
+"creator": "Potter, Beatrix",
+"isbn": "058501115X (invalid)",
+"type": "E-book",
+"publisher": "Project Gutenberg ; NetLibrary",
+"date": "2000",
+"language": "eng",
+"description": [
+"SFX",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+],
+"relation": "A Collection Of Beatrix Potter Stories",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=111029787240244&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "NetLibrary Publicly Accessible eBooks:Full Text"]]
+], 
+"Ldix": [
+["http://sfxeu05.hosted.exlibrisgroup.com/46LUB?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=111029787240244&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Lund University", "EBSCOhost Ebooks:Full Text"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/636965",
+"title": "Steps to immaturity",
+"creator": "Potter, Stephen",
+"type": "book",
+"publisher": "London",
+"date": "1959-",
+"language": "eng",
+"description": "Huvudpost (flerbandsverk)"
+},
+{
+"identifier": "http://libris.kb.se/bib/636966",
+"title": "Steps to immaturity",
+"creator": "Potter, Stephen",
+"type": "book",
+"publisher": "London",
+"date": "1959",
+"language": "eng",
+"relation": "Steps to immaturity"
+},
+{
+"identifier": "http://libris.kb.se/bib/1985442",
+"title": "Beatrix Potter : 1866-1943",
+"creator": "Schaffer, Ellen",
+"type": "book",
+"publisher": "Philadelphia, Pa. : the Library",
+"date": "[1966?]",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/2818276",
+"title": "Dennis Potter : egensinnig ungdomsdramatiker",
+"creator": "Westerberg, Joakim",
+"type": "article",
+"language": "swe",
+"relation": "Abrakadabra"
+},
+{
+"identifier": "http://libris.kb.se/bib/11069150",
+"title": "Kymber. A monody. To Sir Armine Wodehouse, Bart. By Mr. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : printed for R. Manby; and sold by J. Pridden; and M. Cooper",
+"date": "1759",
+"language": "eng",
+"relation": "Kymber. A monody. To Sir Armine Wodehouse, Bart. By Mr. Potter",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T000229&tiPG=1&dd=0&dc=flc&docNum=CW110470018&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T000229&tiPG=1&dd=0&dc=flc&docNum=CW110470018&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/1124686",
+"title": "The journal of Beatrix Potter from 1881-1897",
+"creator": "Potter, Beatrix, 1866-1943",
+"type": "book",
+"publisher": "London : F.Warne",
+"date": "1966",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/410263",
+"title": "American government and politics",
+"creator": "Potter, Allen Meyers, 1924-",
+"type": "book",
+"publisher": "London : Faber",
+"date": "1955",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16851721",
+"title": "Poems by Mr. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : Printed for J. Wilkie, St. Paul's Church-Yard",
+"date": "MDCCLXXIV. [1774]",
+"language": "eng",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&docType=ECCOArticles&bookId=1494500400&type=getFullCitation&tabID=T001&prodId=ECCO&docLevel=TEXT_GRAPHICS&version=1.0&source=library&userGroupName=stockuni", ["Fulltext"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/4623254",
+"title": "Destined to be wives : the sisters of Beatrice Webb",
+"creator": "Caine, Barbara",
+"isbn": "0198200544 ;",
+"type": "book",
+"publisher": "Oxford : Clarendon",
+"date": "1986",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/7144383",
+"title": "Sagan om Moses Metare",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "9100394467",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1974",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/11215",
+"title": "Our language",
+"creator": "Potter, Simeon",
+"type": "book",
+"publisher": "Haarmondsworh : Penguin",
+"date": "1966",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/6217526",
+"title": "Beatrix Potter's Americans : selected letters",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "0876752822",
+"type": "book",
+"publisher": "Boston, Mass. : Horn",
+"date": "1982",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5601714",
+"title": "On media violence",
+"creator": "Potter, W. James",
+"isbn": [
+"0761916385",
+"0761916393"
+],
+"type": "book",
+"publisher": "Thousand Oaks, Calif ; London : Sage Publications",
+"date": "cop. 1999",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5053867",
+"title": "The singing detective",
+"creator": "Potter, Dennis",
+"isbn": [
+"0571146317 ;",
+"0571145906"
+],
+"type": "book",
+"publisher": "London : Faber and Faber",
+"date": "1986",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5527353",
+"title": "Beatrix Potter's art : paintings and drawings",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "0723235988 ;",
+"type": "book",
+"publisher": "London : Warne",
+"date": "1989",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/733409",
+"title": "The co-operative movement in Great Britain : by Beatrice Potter (Mrs Sidney Webb)",
+"creator": "Potter, Beatrice",
+"type": "book",
+"publisher": "London : Swan Sonnenschein & co",
+"date": "1892, pr. 1904",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4927054",
+"title": "Potter and Monroe's tax planning : with precedents",
+"creator": "Potter, Donald Charles",
+"isbn": "0421221704",
+"type": "book",
+"publisher": "London : Sweet & Maxwell",
+"date": "1978",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10822552",
+"title": "A relation of the commitment and long unjust imprisonment, of James Potter, in the common jayle at Winchester, with the imprisoning of his sister Ann Potter for tythe, by Edward Bintal priest of Baghurst, and the taking away of her brother Richard Potters goods for the same tythe, for which he imprisoned her. Also the imprisoning of Elizabeth Streeter, with two of her husbands servants, occasioned by Iohn Corbet priest of Bramshot. With a few words to all, especially the inhabitants of Baghurst and Bramshot, to turn from those covetous hirelings which have long deceived the, & return unto the Lord, and hearken to, obey and follow the light of Christ: given to lead them out of the waies of darkness, sin and unrighteousness, that redemption and restoration to life, they may come to know and witness. James Potter [Elektronisk resurs]",
+"creator": "Potter, James, fl. 1686.",
+"type": "E-book",
+"publisher": "[London : printed in the 4th. month 4th. day for M.W",
+"date": "1659]",
+"language": "eng",
+"relation": "A relation of the commitment and long unjust imprisonment, of James Potter, in the common jayle at Winchester, with the imprisoning of his sister Ann Potter for tythe, by Edward Bintal priest of Baghurst, and the taking away of her brother Richard Potters goods for the same tythe, for which he imprisoned her. Also the imprisoning of Elizabeth Streeter, with two of her husbands servants, occasioned by Iohn Corbet priest of Bramshot. With a few words to all, especially the inhabitants of Baghurst and Bramshot, to turn from those covetous hirelings which have long deceived the, & return unto the Lord, and hearken to, obey and follow the light of Christ: given to lead them out of the waies of darkness, sin and unrighteousness, that redemption and restoration to life, they may come to know and witness. James Potter",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34049", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34049", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34049", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34049", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5703085",
+"title": "An analysis of thinking and research about qualitative methods",
+"creator": "Potter, W. James",
+"isbn": [
+"0805817506",
+"0805817514"
+],
+"type": "book",
+"publisher": "Mahwah, N.J. : Erlbaum",
+"date": "cop. 1996",
+"language": "eng",
+"description": "sam"
+},
+{
+"identifier": "http://libris.kb.se/bib/8306081",
+"title": "Media literacy",
+"creator": "Potter, W. James",
+"isbn": [
+"0761923144",
+"0761923152"
+],
+"type": "book",
+"publisher": "Thousand Oaks, Calif. : Sage",
+"date": "cop. 2001",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/1882437",
+"title": "Paleocurrents and basis analysis",
+"creator": "Potter, Paul Edwin, 1925-",
+"type": "book",
+"publisher": "Berlin : Springer",
+"date": "1963",
+"language": "ger"
+},
+{
+"identifier": "http://libris.kb.se/bib/5067291",
+"title": "The city in the developing world",
+"creator": "Potter, Robert B.",
+"isbn": "0582357411",
+"type": "book",
+"publisher": "Harlow : Longman",
+"date": "1998",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5055121",
+"title": "American government and politics",
+"creator": "Potter, Allen Meyers, 1924-",
+"isbn": [
+"0571180442",
+"0571180493"
+],
+"type": "book",
+"publisher": "London : Faber",
+"date": "1981",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9786930",
+"title": "Mud & mudstones : introduction and overview",
+"creator": "Potter, Paul Edwin, 1925-",
+"isbn": "3540221573",
+"type": "book",
+"publisher": "Berlin, Heidelberg, New York : Springer",
+"date": "2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4910580",
+"title": "Screen language : from film writing to film-making",
+"creator": "Potter, Cherry",
+"isbn": "0413752909",
+"type": "book",
+"publisher": "London : Methuen",
+"date": "2001",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10164563",
+"title": "Modernism and democracy : literary culture 1900-1930",
+"creator": "Potter, Rachel",
+"isbn": "0199273936",
+"type": "book",
+"publisher": "Oxford : Oxford University Press",
+"date": "2006",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/1040778",
+"title": "Beatrix Potter",
+"creator": "Crouch, Marcus",
+"type": "book",
+"publisher": "London : Bodley Head",
+"date": "1960",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11833153",
+"title": "Paul Potter : biographie critique",
+"creator": "Michel, Emile, 1828-1909.",
+"type": "book",
+"publisher": "Paris : Laurens",
+"date": "[1906?]",
+"language": "fre"
+},
+{
+"identifier": "http://libris.kb.se/bib/1043115",
+"title": "American government and politics",
+"creator": "Potter, Allen Meyers, 1924-",
+"type": "book",
+"publisher": "London : Faber",
+"date": "1961",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5827400",
+"title": "Organized groups in british national politics",
+"creator": "Potter, Allen Meyers, 1924-",
+"isbn": "0837177057",
+"type": "book",
+"publisher": "Westport : Greenwood",
+"date": "1975",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/16390612",
+"title": "Simon Potter Has the Perfect Face for Radio [Elektronisk resurs]",
+"creator": "Potter, Simon",
+"isbn": [
+"184426999X (invalid)",
+"9781844269990 (invalid)"
+],
+"type": "E-book",
+"publisher": "",
+"date": "2009",
+"language": "und",
+"description": [
+"WaSeSS",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+],
+"relation": "Simon Potter Has the Perfect Face for Radio",
+"urls": {
+"AlbE": [
+["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=378823", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10755011",
+"title": "The key of wealth [Elektronisk resurs] or, A new vvay, for improving of trade : lawfull, easie, safe and effectuall : shewing how a few tradesmen agreeing together, may both double their stocks, and the increase thereof, without 1. Paying any interest. 2. Great difficulty or hazard. 3. Advance of money. 4. Staying for materialls. 5. Prejudice to any trade, or person. 6. Incurring any other inconvenience. In such sort, as both they and all others (though never so poore) who are in a way of trading, may 1. multiply their returnes. 2. Deale onely for ready pay. 3. Much under-sell others. 4. Put the whole nation upon this practice. 5. Gain notwithstanding more then ordinary. 6. Desist when they please without damage. And so, as the same shall tend much to 1. Enrich the people of this land. 2. Disperse the money hoarded up. ... 23. Incorporate the whole strength of England. 24. Take away advantages of opposition. All which in this treatise in conceived by judicious men to be fully proved, doubts resolved, and objections either answered or prevented",
+"creator": "Potter, William.",
+"type": "E-book",
+"publisher": "London : Printed by R.A. and are to be sold by Giles Calvert at the black spread Eagle neer the West end of Pauls",
+"date": "1650",
+"language": "eng",
+"relation": "The key of wealth",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:169300", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:169300", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:169300", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:169300", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5527334",
+"title": "Beatrix Potter : the V & A collection : the Leslie Linder bequest of Beatrix Potter material : watercolours, drawings, manuscripts, books, photographs and memorabilia : catalogue",
+"creator": "Victoria and Albert Museum",
+"isbn": "0723232601 ;",
+"type": "book",
+"publisher": "London : Victoria and Albert Museum : Warne",
+"date": "1985",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4725743",
+"title": "The changing landscape of South Etruria",
+"creator": "Potter, Timothy W.",
+"isbn": [
+"0236401475",
+"031212953X"
+],
+"type": "book",
+"publisher": "London : Paul Elek",
+"date": "1979",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/17179596",
+"title": "The Great Big Treasury of Beatrix Potter [Elektronisk resurs]",
+"creator": "Potter, Beatrix",
+"isbn": "9789176053553",
+"type": "sound recording",
+"publisher": "Anncona Media AB",
+"date": "2014",
+"language": "eng",
+"description": "Ändrad av Elib 2014-11-07",
+"urls": {
+"Afb": [
+["http://kulturivast.elib.se/Books/Details/1026761", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Areb": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Biv": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Gnos": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Hasb": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]], 
+["http://halmstad.elib.se/Books/Details/1026761", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"KkaD": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Kssb": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Leru": [
+["http://kulturivast.elib.se/Books/Details/1026761", ["Låna från ditt bibliotek. Lånekort krävs."]], 
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Less": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Ting": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+], 
+"Tkb": [
+["http://www.elib.se/sample_new/audio/ISBN9176053555.mp3", ["Provlyssna"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11078506",
+"title": "The moralist [Elektronisk resurs]; or portraits of the human mind, exhibited in a series of novelettes, partly original and partly compiled, by the late T. Potter",
+"creator": "Potter, T.",
+"type": "E-book",
+"publisher": "London : printed for the editor",
+"date": "1785",
+"language": "eng",
+"relation": "The moralist",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T055923&tiPG=1&dd=0&dc=flc&docNum=CW110927227&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T055923&tiPG=1&dd=0&dc=flc&docNum=CW110927227&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/7558923",
+"title": "Una stipe votiva da Ponte di Nona",
+"creator": "Potter, Timothy W.",
+"isbn": "8878131954",
+"type": "book",
+"publisher": "Roma : De Luca edizioni d'arte",
+"date": "1989",
+"language": "ita"
+},
+{
+"identifier": "http://libris.kb.se/bib/8154452",
+"title": "Potter and Monroe's tax planning with precedents",
+"creator": "Potter, D.C.",
+"type": "book",
+"publisher": "London",
+"date": "1970",
+"language": "und"
+},
+{
+"identifier": "http://libris.kb.se/bib/11274216",
+"title": "Sally Potter",
+"creator": "Fowler, Catherine, 1969-",
+"isbn": [
+"0252033825",
+"9780252033827",
+"0252075765",
+"9780252075766"
+],
+"type": "book",
+"publisher": "Urbana : University of Illinois Press",
+"date": "cop. 2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10822878",
+"title": "Humble proposalls to the honorable the Councell for Trade [Elektronisk resurs] and all merchants and others who desire to improve their estates, shevving what particulars if enacted by Parliament would (as with due submission is conceived) conduce to advance trade, imploy the poore, diminish interest, improve publique revenues; and prevent the cruelty of creditors, and the injustice of debtors. Tending (likewise) speedily to promote the enterprise discovered in a late treatise, entituled, The key of wealth, and in an abstract thereof, called, The trades-man's jewel",
+"creator": "Potter, William.",
+"type": "E-book",
+"publisher": "London : printed for Edward Husband, at the Golden Dragon in Fleet-street",
+"date": "1651",
+"language": "eng",
+"relation": "Humble proposalls to the honorable the Councell for Trade",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34388", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34388", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34388", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34388", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9138968",
+"title": "Feminism and philosophy of science : an introduction",
+"creator": "Potter, Elizabeth",
+"isbn": [
+"0415266521",
+"9780415266529",
+"041526653X",
+"9780415266536"
+],
+"type": "book",
+"publisher": "London : Routledge",
+"date": "2006",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10783177",
+"title": "A sermon preached at the consecration of the right Reverend Father in God Barnaby Potter DD. and L. Bishop of Carlisle, at Ely house in Holbourne March 15. 1628. By Christopher Potter D.D. provost of Queenes Colledge in Oxford. Hereunto is added an advertisement touching the history of the quarrels of Pope Paul 5 with the Venetians; penned in Italian by F. Paul, and done into English by the former author [Elektronisk resurs]",
+"creator": "Potter, Christopher, 1591-1646.",
+"type": "E-book",
+"publisher": "London : Printed [By Miles Flesher] for Iohn Clarke, and are to be sold at his shop under St. Peters Church in Cornehill",
+"date": "1629",
+"language": "eng",
+"relation": "A sermon preached at the consecration of the right Reverend Father in God Barnaby Potter DD. and L. Bishop of Carlisle, at Ely house in Holbourne March 15. 1628. By Christopher Potter D.D. provost of Queenes Colledge in Oxford. Hereunto is added an advertisement touching the history of the quarrels of Pope Paul 5 with the Venetians; penned in Italian by F. Paul, and done into English by the former author",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15369", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15369", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15369", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15369", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10751270",
+"title": "The trades-man's jevvel: or a safe, easie, speedy and effectual means, for the incredible advancement of trade, and multiplication of riches; [Elektronisk resurs] shewing how men of indifferent estates, may abundantly increase both their own and other mens trading and riches, without parting with money, or any stock out of their own hands: by making their bills to become current instead of money, and frequently to revolve through their hands, with as much in money as the sums therein mentioned do amount unto",
+"creator": "Potter, William.",
+"type": "E-book",
+"publisher": "London : Printed by Edward Husband and John Field, printers to the Parliament of England",
+"date": "1650",
+"language": "eng",
+"relation": "The trades-man's jevvel: or a safe, easie, speedy and effectual means, for the incredible advancement of trade, and multiplication of riches;",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:117918", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:117918", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:117918", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:117918", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8879546",
+"title": "A collection of Beatrix Potter stories [Elektronisk resurs]",
+"creator": "Potter, Beatrix, 1866-1943.",
+"isbn": "058501115X",
+"type": "E-book",
+"publisher": "Champaign, Ill. : Project Gutenberg ; Boulder, Colo. : NetLibrary",
+"date": "[199-?]",
+"language": "eng",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300", ["Extern access endast forskare och studenter vid GU"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300", ["Fulltext"]]
+], 
+"Hib": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"Ldig": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"Mah": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"O": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"Q": [
+["http://proxy.ub.umu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"R": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1071300"]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11074343",
+"title": "Holkham a poem. To the Right Honourable the Earl of Leicester. By Mr. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : printed for R. Manby",
+"date": "1758",
+"language": "eng",
+"relation": "Holkham a poem. To the Right Honourable the Earl of Leicester. By Mr. Potter",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T036579&tiPG=1&dd=0&dc=flc&docNum=CW110395285&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T036579&tiPG=1&dd=0&dc=flc&docNum=CW110395285&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10975632",
+"title": "Archæologia græca [Elektronisk resurs], or, the antiquities of Greece. The third edition. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for J. Nicholson, and J. and B. Sprint; and for T. Childe, and R. Knaplock",
+"date": "1715",
+"language": "eng",
+"relation": "Archæologia græca",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022354&tiPG=1&dd=0&dc=flc&docNum=CW103543517&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022354&tiPG=1&dd=0&dc=flc&docNum=CW103543517&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10978827",
+"title": "Archæologia græca [Elektronisk resurs]: or, the antiquities of Greece. The ninth edition. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for W. Strahan, J. and F. Rivington, L. Hawes, W. Clarke and R. Collins, B. White [and 15 others in London]",
+"date": "1775",
+"language": "eng",
+"relation": "Archæologia græca",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T089419&tiPG=1&dd=0&dc=flc&docNum=CW103015012&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T089419&tiPG=1&dd=0&dc=flc&docNum=CW103015012&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10978887",
+"title": "Archæologia græca [Elektronisk resurs]: or, the antiquities of Greece. The fourth edition. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed by Sam. Palmer, for J. Knapton, R. Knaplock, J. and B. Sprint, D. Midwinter [and 7 others in London]",
+"date": "1722",
+"language": "eng",
+"relation": "Archæologia græca",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T090028&tiPG=1&dd=0&dc=flc&docNum=CW103519994&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T090028&tiPG=1&dd=0&dc=flc&docNum=CW103519994&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10981663",
+"title": "Archæologia græca [Elektronisk resurs]: or the antiquities of Greece. The fifth edition. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for Ja. and Jo. Knapton, R. Knaplock, J. and B. Sprint, J. Darby, A. Bettesworth [and 13 others in London]",
+"date": "1728",
+"language": "eng",
+"relation": "Archæologia græca",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T121647&tiPG=1&dd=0&dc=flc&docNum=CW103014015&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T121647&tiPG=1&dd=0&dc=flc&docNum=CW103014015&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10981670",
+"title": "Archæologia græca [Elektronisk resurs]: or the antiquities of Greece. In two volumes. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for G. G. & J. Robinson, and Vernor & Hood; and for J. Cooke, Oxford; W. H. Lunn, Cambridge; J. Mundell & Co. Edinburgh; and the other proprietors",
+"date": "1795",
+"language": "eng",
+"relation": "Archæologia græca",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T121682&tiPG=1&dd=0&dc=flc&docNum=CW103403980&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T121682&tiPG=1&dd=0&dc=flc&docNum=CW103403980&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRH&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/3238694",
+"title": "Tjuren Potter",
+"creator": "Olrog Hedvall, Yvonne, 1939-",
+"type": "article",
+"language": "swe",
+"relation": "Husdjuren och vi / [redaktör: Arne Biörnstad]"
+},
+{
+"identifier": "http://libris.kb.se/bib/9457441",
+"title": "Roman Britain",
+"creator": "Potter, Timothy W.",
+"isbn": "0714127744",
+"type": "book",
+"publisher": "London : British Museum Press",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/6424721",
+"title": "Secret gardens",
+"creator": "Potter, Jennifer",
+"isbn": "1850299625 ;",
+"type": "book",
+"publisher": "London : Conran Octopus",
+"date": "c1998",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/13550745",
+"title": "The complete tales of Beatrix Potter : the 23 original Peter Rabbit books",
+"creator": "Potter, Beatrix, 1866-1943.",
+"isbn": "0723236186",
+"type": "book",
+"publisher": "New York, NY : F. Warne",
+"date": "c1989",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10822880",
+"title": "A small table to find the day of the month for ever [Elektronisk resurs] Which may be graven upon a piece of coine, the case of a watch, a tobaccho-box, or any such like. Very usefull for men of all sorts and qualities, to carry about them. Invented, and at first intended onely for private use, by W. Potter",
+"creator": "Potter, William.",
+"type": "E-book",
+"publisher": "London : printed by T.W. for R.E. are to b [sic] sold at the seven Starrs neer the North dore of Pauls Church",
+"date": "1655",
+"language": "eng",
+"relation": "A small table to find the day of the month for ever",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34390", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34390", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34390", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:34390", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11142568",
+"title": "A second warning to America [Elektronisk resurs]. By Elam Potter, M.A. Minister of the Gospel. [Three lines of Scripture text]",
+"creator": "Potter, Elam, 1742-1794.",
+"type": "E-book",
+"publisher": "Hartford : Printed by Hannah Watson",
+"date": "[1777]",
+"language": "eng",
+"relation": "A second warning to America",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=W030646&tiPG=1&dd=0&dc=flc&docNum=CW120000843&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=W030646&tiPG=1&dd=0&dc=flc&docNum=CW120000843&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/7144382",
+"title": "Sagan om Fru Muslina",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "9100394440",
+"type": "book",
+"publisher": "Stockholm : Bonnier",
+"date": "1974",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/13504165",
+"title": "The life of William Shakespeare : a critical biography",
+"creator": "Potter, Lois.",
+"isbn": [
+"9781118281529",
+"1118281527"
+],
+"type": "book",
+"publisher": "Chichester : Wiley-Blackwell",
+"date": "2012",
+"language": "eng",
+"description": "Dawson"
+},
+{
+"identifier": "http://libris.kb.se/bib/13574426",
+"title": "The life of William Shakespeare [Elektronisk resurs] :  a critical biography",
+"creator": "Potter, Lois.",
+"isbn": [
+"9781118231746",
+"9780631207849 (invalid)"
+],
+"type": "E-book",
+"publisher": "Malden, MA : Wiley-Blackwell",
+"date": "2012",
+"language": "eng",
+"relation": "The life of William Shakespeare",
+"urls": {
+"Hdig": [
+["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=3460000000080877&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "Wiley Online Library Online Books:Full Text"]]
+], 
+"Tdig": [
+["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=3460000000080877&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "Wiley Online Library Online Books:Full Text"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/6753976",
+"title": "Models & constructs",
+"creator": "Potter, Norman, 1923-1995",
+"isbn": "0907259049 ;",
+"type": "book",
+"publisher": "London : Hyphen",
+"date": "1990",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8301941",
+"title": "Roman Italy",
+"creator": "Potter, Timothy W.",
+"isbn": "0714120421",
+"type": "book",
+"publisher": "London : British Museum Publications",
+"date": "cop. 1987",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9987385",
+"title": "Potter and Perry's fundamentals of nursing",
+"isbn": "0729537331",
+"type": "book",
+"publisher": "Marrickville : Elsevier Australia",
+"date": "2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9254041",
+"title": "Beatrix Potter : naturalist artist",
+"creator": "Golden, Catherine",
+"type": "article",
+"language": "eng",
+"relation": "Woman's art journal"
+},
+{
+"identifier": "http://libris.kb.se/bib/9314394",
+"title": "Sally Potter",
+"creator": "Jespersen, Anne",
+"type": "article",
+"language": "dan",
+"relation": "Kosmorama"
+},
+{
 "identifier": "http://libris.kb.se/bib/12418968",
 "title": "Harry Potter : page to screen, the complete filmmaking journey",
 "creator": "McCabe, Bob",
@@ -105,1053 +1963,881 @@
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/8838110",
-"title": "Harry Potter's world : multidisciplinary critical perspectives",
-"isbn": [
-"0415933730",
-"0415933749"
-],
+"identifier": "http://libris.kb.se/bib/7457426",
+"title": "Mitt första år : en baby-bok av Beatrix Potter",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": "9163809737",
 "type": "book",
-"publisher": "New York: London: RoutledgeFalmer",
-"date": "2003",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/9623358",
-"title": "Harry Potter : en modernitetsupplevelse? : en uppsats som belyser J. K. Rowlings fyra första böcker om Harry Potter ur en modernitetsbegreppslig synvinkel",
-"creator": "Höglund, Åsa",
-"type": "book",
+"publisher": "Bonnier Carlsen",
+"date": "1998",
 "language": "swe"
 },
 {
-"identifier": "http://libris.kb.se/bib/8758241",
-"title": "Reading Harry Potter : critical essays",
-"isbn": "0313320675",
-"type": "book",
-"publisher": "Westport, Conn. : Praeger",
-"date": "2003",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11194857",
-"title": "Critical perspectives on Harry Potter",
+"identifier": "http://libris.kb.se/bib/5362735",
+"title": "Sand and sandstone",
+"creator": "Pettijohn, Francis John",
 "isbn": [
-"9780415964845",
-"0415964849",
-"9780203892817 (invalid)",
-"020389281X (invalid)"
+"3540055282",
+"0387055282",
+"0387900713",
+"3540900713"
 ],
 "type": "book",
-"publisher": "New York : Routledge",
-"date": "2009",
-"language": "eng",
-"description": "Indexeringslänk"
-},
-{
-"identifier": "http://libris.kb.se/bib/11853227",
-"title": "Harry Potter och halvblodsprinsen [Video (Blu-ray)] = Harry Potter and the half-blood prince",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2009",
+"publisher": "Berlin ; New York : Springer",
+"date": "1972",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/11852496",
-"title": "Harry Potter och halvblodsprinsen [Video (DVD)] = Harry Potter and the half-blood prince",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2009",
-"language": "swe"
-},
-{
-"identifier": "http://libris.kb.se/bib/9583652",
-"title": "Harry Potter : auf den Spuren eines zauberhaften Bestsellers",
-"creator": "Bak, Sandra",
-"isbn": "3631525699 :",
+"identifier": "http://libris.kb.se/bib/11762348",
+"title": "Hill Top tales : four original Peter Rabbit stories : the original and authorized editions",
+"creator": "Potter, Beatrix",
 "type": "book",
-"publisher": "Frankfurt am Main ; Berlin ; Bern ; Bruxelles ; New York ; Oxford ; Wien : Lang",
-"date": "2004",
-"language": "ger"
-},
-{
-"identifier": "http://libris.kb.se/bib/9534651",
-"title": "Harry Potter : avsløring og tilsløring",
-"creator": "Bjorvand, Einar",
-"type": "article",
-"language": "nor",
-"relation": "Årboka : litteratur for barn og unge"
-},
-{
-"identifier": "http://libris.kb.se/bib/9061912",
-"title": "Harry Potter : Konflikte zwischen Literaturdidaktik und Kommerz",
-"creator": "Knobloch, Jörg",
-"type": "article",
-"language": "ger",
-"relation": "Beiträge Jugendliteratur und Medien"
-},
-{
-"identifier": "http://libris.kb.se/bib/12346536",
-"title": "Harry Potter : agency or addiction?",
-"creator": "Mills, Alice",
-"type": "article",
-"language": "eng",
-"relation": "Children's literature in education",
-"urls": {
-"BULB": [
-["http://dx.doi.org/10.1007/s10583-010-9115-y", ["Tillgänglig för användare inom Sbi 2012"]]
-]
-}
-},
-{
-"identifier": "http://libris.kb.se/bib/10516693",
-"title": "Harry Potter : a world of fear",
-"creator": "Sattaur, Jennifer",
-"type": "article",
-"language": "eng",
-"relation": "The journal of children's literature studies"
-},
-{
-"identifier": "http://libris.kb.se/bib/4840092",
-"title": "Hanging in judgment : religion and the death penalty in England from the Bloody Code to Abolition",
-"creator": "Potter, Harry",
-"isbn": "0334025338 ;",
-"type": "book",
-"publisher": "London : SCM Press",
-"date": "cop.1993",
+"publisher": "Warne",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/11469307",
-"title": "Harry Potter och de vises sten [Video (DVD)] = Harry Potter and the philosopher's stone",
-"type": "moving image",
-"publisher": "Stockholm : Sandrew Metronome",
-"date": "2002",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11741603",
-"title": "Harry Potter : the story of a global business phenomenon",
-"creator": "Gunelius, Susan.",
-"isbn": [
-"9780230203235",
-"023020323X"
-],
-"type": "book",
-"publisher": "Basingstoke [England] ; New York : Palgrave Macmillan",
-"date": "2008",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11649428",
-"title": "Mugglenet.com's Harry Potter should have died : controversial views from the #1 fan site",
-"creator": "Spartz, Emerson",
-"isbn": [
-"9781569757116",
-"1569757119"
-],
-"type": "book",
-"publisher": "Berkely, Calif. : Ulysees Press",
-"date": "2009",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/9000706",
-"title": "Frodo and Harry : understanding visual media och its impact on our lives",
-"creator": "Baehr, Theodore",
-"isbn": "1581345593",
-"type": "book",
-"publisher": "Wheaton, Ill. : Crossway Books",
-"date": "2003",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11852698",
-"title": "Harry Potter och de vises sten [Video (Blu-ray)] = Harry Potter and the philosopher's stone",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2007",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11476620",
-"title": "Harry Potter och Fenixorden [Video (DVD)] = Harry Potter and the Order of the Phoenix",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2007",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11469794",
-"title": "Harry Potter och hemligheternas kammare [Video (DVD)] = Harry Potter and the chamber of secrets",
-"type": "moving image",
-"publisher": "Stockholm : Warner Home Video : Sandrew Metronome [distributör",
-"date": "2003]",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11852699",
-"title": "Harry Potter och hemligheternas kammare [Video (Blu-ray)] = Harry Potter and the chamber of secrets",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2007",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/3311552",
-"title": "Harry Potter",
-"creator": "Kontio, Tomi",
-"type": "article",
-"language": "fin",
-"relation": "Onnimanni"
-},
-{
-"identifier": "http://libris.kb.se/bib/7776173",
-"title": "Harry Potter : dagbok",
-"isbn": "9188877795",
-"type": "book",
-"publisher": "Tiden",
-"date": "2001",
-"language": "und"
-},
-{
-"identifier": "http://libris.kb.se/bib/7776176",
-"title": "Harry Potter : min magiska bok",
-"isbn": "9188877833",
-"type": "book",
-"publisher": "Tiden",
-"date": "2001",
-"language": "und"
-},
-{
-"identifier": "http://libris.kb.se/bib/11786837",
-"title": "Harry Potter and the philosopher's stone [Videoupptagning] = Harry Potter och de vises sten",
-"type": "moving image",
-"publisher": "Stockholm : Warner Home Video",
-"date": "cop. 2004",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/8448399",
-"title": "Å oversette et fenomen : Harry Potter",
-"creator": "Høverstad, Torstein Bugge",
-"type": "article",
-"language": "nor",
-"relation": "Årboka : litteratur for barn og unge"
-},
-{
-"identifier": "http://libris.kb.se/bib/10128949",
-"title": "Harry Potter och den flammande bägaren [Videoupptagning] = Harry Potter and the goblet of fire",
-"type": "moving image",
-"publisher": "Solna: Warner Home Video",
-"date": "2006",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/8920934",
-"title": "Re-reading Harry Potter",
-"creator": "Gupta, Suman, 1966-",
-"isbn": [
-"1403912653",
-"1403912645"
-],
-"type": "book",
-"publisher": "Basingstoke : Palgrave Macmillan",
-"date": "2003",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11515063",
-"title": "Harry Potter och Fenixorden [Talbok (CD-R)]",
-"creator": "Rowling, J. K., 1965-",
-"type": "sound recording",
-"publisher": "Lund : Btj",
-"date": "2004",
-"language": "swe"
-},
-{
-"identifier": "http://libris.kb.se/bib/10213978",
-"title": "Harry Potter and international relations",
-"isbn": [
-"0742539598",
-"9780742530594 (invalid)",
-"9780742530591",
-"074253958X",
-"9780742539587"
-],
-"type": "book",
-"publisher": "Lanham, Md. : Rowman & Littlefield",
-"date": "cop. 2006",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11471527",
-"title": "Harry Potter och fången från Azkaban [Video (DVD)] = Harry Potter and the Prisoner of Azkaban",
-"type": "moving image",
-"publisher": "Stockholm : Sandrew Metronome",
-"date": "2004",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11852701",
-"title": "Harry Potter och den flammande bägaren [Video (Blu-ray)] = Harry Potter and the goblet of fire",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2007",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11852700",
-"title": "Harry Potter och fången från Azkaban [Video (Blu-ray)] = Harry Potter and the Prisoner of Azkaban",
-"type": "moving image",
-"publisher": "Solna : Warner Bros. Entertainment Sverige",
-"date": "2007",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/3308293",
-"title": "Beacham's sourcebooks for teaching young adult fiction",
-"isbn": "0091879302",
-"type": "book",
-"publisher": "London : Ebury",
-"date": "2000",
-"language": "eng",
-"relation": "Beacham's sourcebooks for teaching young adult fiction"
-},
-{
-"identifier": "http://libris.kb.se/bib/10415006",
-"title": "Harry Potter och Hemligheternas kammare [Ljudupptagning]",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9789179532116",
-"type": "sound recording",
-"publisher": "Stockholm : Bonnier Audio",
-"date": "p 2004",
-"language": "swe",
-"description": "Läsordning 2"
-},
-{
-"identifier": "http://libris.kb.se/bib/16547046",
-"title": "The ivory tower and Harry Potter : perspectives on a literary phenomenon",
-"isbn": [
-"9780826215499",
-"0826215491"
-],
-"type": "book",
-"publisher": "Columbia : University of Missouri Press",
-"date": "2004",
-"language": "eng",
-"description": "Imported from: gil.westga.edu:7390/Voyager (Do not remove)"
-},
-{
-"identifier": "http://libris.kb.se/bib/14286850",
-"title": "Harry Potter och Fenixorden [Ljudupptagning]",
-"creator": "Rowling, J. K.",
-"isbn": "9789172258686",
-"type": "sound recording",
-"publisher": "Gammafon Barnmedia",
-"date": "2007",
-"language": "swe",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/11798242",
-"title": "Critical perspectives on Harry Potter [Elektronisk resurs]",
-"isbn": [
-"9780203892817",
-"9780415964845 (invalid)"
-],
-"type": "E-book",
-"publisher": "Hoboken : Taylor & Francis",
-"date": "2009",
-"language": "eng",
-"description": "SFX",
-"relation": "Critical Perspectives on Harry Potter",
-"urls": {
-"Gdig": [
-["http://ezproxy.ub.gu.se/login?url=http://www.GU.eblib.com/EBLWeb/patron?target=patron&extendedid=P_355844_0&", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
-], 
-"LTUd": [
-["http://proxy.lib.ltu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780203892817", ["Online access for LTU", "DawsonEra eBooks"]]
-], 
-"LnuE": [
-["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780203892817", ["Online access for Linneaus University", "DawsonEra eBooks"]]
-]
-}
-},
-{
-"identifier": "http://libris.kb.se/bib/12452270",
-"title": "Harry Potter und der Feuerkelch",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9783551354044",
-"type": "book",
-"publisher": "Hamburg : Carlsen",
-"date": "2008",
-"language": "ger"
-},
-{
-"identifier": "http://libris.kb.se/bib/11772303",
-"title": "The life, death, and resurrection of Harry Potter",
-"creator": "Killinger, John",
-"isbn": [
-"0881461628",
-"9780881461626"
-],
-"type": "book",
-"publisher": "Macon, Ga. : Mercer University Press",
-"date": "2009",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/3241875",
-"title": "Fenomenet Harry Potter",
-"creator": "Beskow, Per, 1926-",
-"type": "article",
-"language": "swe",
-"relation": "Signum"
-},
-{
-"identifier": "http://libris.kb.se/bib/10722173",
-"title": "Harry Potter and the prisoner of Azkaban [Videoupptagning] = Harry Potter och fången på Azkaban",
-"type": "moving image",
-"publisher": "Stockholm : Warner Bros. Entertainment Sverige",
-"date": "cop. 2004",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/9584875",
-"title": "Specters of Potter : inheritance in the Harry Potter series",
-"creator": "Wannamaker, Annette",
-"type": "article",
-"language": "eng",
-"relation": "Elsewhere :  selected essays from the \"20th century fantasy literature: from Beatrix to Harry\" International Literary Conference"
-},
-{
-"identifier": "http://libris.kb.se/bib/7676805",
-"title": "Harry Potter och Hemligheternas kammare [Ljudupptagning]",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9179510566",
-"type": "sound recording",
-"publisher": "Stockholm : Bonnier Audio",
-"date": "p 2001",
-"language": "swe"
-},
-{
-"identifier": "http://libris.kb.se/bib/8534095",
-"title": "The irresistible rise of Harry Potter",
-"creator": "Blake, Andrew",
-"isbn": "1859846661",
-"type": "book",
-"publisher": "London : Verso",
-"date": "2002",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/10415005",
-"title": "Harry Potter och De vises sten [Ljudupptagning]",
-"creator": "Rowling, J. K.",
-"isbn": "9789179532109",
-"type": "sound recording",
-"publisher": "Bonnier Audio",
-"date": "2004",
-"language": "swe",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/11492543",
-"title": "Reading Harry Potter again : new critical essays",
-"isbn": [
-"9780313361975",
-"0313361975"
-],
-"type": "book",
-"publisher": "Santa Barbara, Calif. : Praeger",
-"date": "c2009",
-"language": "eng",
-"description": "Dawson"
-},
-{
-"identifier": "http://libris.kb.se/bib/13614610",
-"title": "Harry Potter and history",
-"isbn": [
-"0470574720",
-"1118003241",
-"111800325X",
-"1118003268",
-"9780470574720",
-"9781118003244",
-"9781118003251",
-"9781118003268"
-],
-"type": "book",
-"publisher": "Hoboken, N.J. : Wiley",
-"date": "c2011",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/16556770",
-"title": "Legilimens! [Elektronisk resurs] : perspectives in Harry Potter studies",
-"isbn": [
-"9781443855235",
-"9781443852548 (invalid)"
-],
-"type": "E-book",
-"publisher": "Newcastle upon Tyne : Cambridge Scholars Publishing",
-"date": "2013",
-"language": "eng",
-"relation": "Legilimens! : Perspectives in Harry Potter Studies",
-"urls": {
-"Gdig": [
-["http://ezproxy.ub.gu.se/login?url=http://GU.eblib.com/patron/FullRecord.aspx?p=1595349", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
-]
-}
-},
-{
-"identifier": "http://libris.kb.se/bib/8647136",
-"title": "The ivory tower and Harry Potter : perspectives on a literary phenomenon",
-"isbn": "0826214436",
-"type": "book",
-"publisher": "Columbia : Univ. of Missouri Press",
-"date": "cop. 2002",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/12096669",
-"title": "Baptizing Harry Potter : a Christian reading of J.K. Rowling",
-"creator": "Bell, Luke",
-"isbn": [
-"9781587680588",
-"1587680580"
-],
-"type": "book",
-"publisher": "Mahwah, N.J. : Hidden Spring",
-"date": "c2010",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/5684955",
-"title": "Fatigue and fracture testing of weldments",
-"isbn": "0803112777",
-"type": "book",
-"publisher": "Philadelphia, Pa. : ASTM",
-"date": "cop. 1990",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/4707387",
-"title": "Networks of power : organizational actors at the national, corporate, and community levels",
-"isbn": [
-"020230342X ;",
-"0202303438"
-],
-"type": "book",
-"publisher": "New York : A. de Gruyter",
-"date": "1989",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/2031474",
-"title": "Evolution of sedimentary basins : Eastern Great Basin",
-"type": "book",
-"publisher": "Washington : United States Government Printing Office",
-"date": "1995-",
-"language": "eng",
-"description": "Huvudpost (flerbandsverk)"
-},
-{
-"identifier": "http://libris.kb.se/bib/2031475",
-"title": "Evolution of sedimentary basins : Eastern Great Basin",
-"type": "book",
-"publisher": "Washington : United States Government Printing Office",
-"date": "1995",
-"language": "eng",
-"relation": "Evolution of sedimentary basins : Eastern Great Basin"
-},
-{
-"identifier": "http://libris.kb.se/bib/2031476",
-"title": "Evolution of sedimentary basins : Eastern Great Basin",
-"type": "book",
-"publisher": "Washington : United States Government Printing Office",
-"date": "1995",
-"language": "eng",
-"relation": "Evolution of sedimentary basins : Eastern Great Basin"
-},
-{
-"identifier": "http://libris.kb.se/bib/16596489",
-"title": "Harry Potter : The Complete Collection",
-"creator": "Rowling, J.K",
-"isbn": "9781408856772",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/9863790",
-"title": "Harry Potter och halvblodsprinsen",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9185243442",
-"type": "book",
-"publisher": "Stockholm : Tiden",
-"date": "2005",
-"language": "swe"
-},
-{
-"identifier": "http://libris.kb.se/bib/9391861",
-"title": "Harry Potter and the Bible : the menace behind the magick",
-"creator": "Abanes, Richard.",
-"isbn": "0889652015",
-"type": "book",
-"publisher": "Camp Hill, Pa. : Christian Publications",
-"date": "c2001",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/10338143",
-"title": "Harry Potter - en filosofisk trollmann",
-"creator": "Gaare, Jørgen",
-"isbn": [
-"8291614466 (invalid)",
-"9788291614465"
-],
-"type": "book",
-"publisher": "Oslo : Arneberg",
-"date": "2006",
-"language": "nor"
-},
-{
-"identifier": "http://libris.kb.se/bib/8699919",
-"title": "Harry Potters magiska värld",
-"creator": "Colbert, David",
-"isbn": "9132144067",
-"type": "book",
-"publisher": "Stockholm : B. Wahlström",
-"date": "2002",
-"language": "swe"
-},
-{
-"identifier": "http://libris.kb.se/bib/12322349",
-"title": "Harry Potter and the prisoner of Azkaban",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9780747574491",
-"type": "book",
-"publisher": "London : Bloomsbury",
-"date": "2004",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11812460",
-"title": "Re-reading Harry Potter [Elektronisk resurs]",
-"creator": "Gupta, Suman, 1966-",
-"isbn": [
-"9780230219571 (invalid)",
-"0230219578 (invalid)",
-"9780230219588 (invalid)",
-"0230219586 (invalid)",
-"9780230279711",
-"0230279716"
-],
-"type": "E-book",
-"publisher": "Basingstoke [England] ; New York : Palgrave Macmillan",
-"date": "2009",
-"language": "eng",
-"relation": "Re-reading Harry Potter",
-"urls": {
-"La": [
-["http://proxy.lib.ltu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230279711", ["Endast för användare inom LTU"]]
-], 
-"LnuE": [
-["http://proxy.lnu.se/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780230279711", ["Online access for Linneaus University", "DawsonEra eBooks"]]
-], 
-"Uh": [
-["http://ezproxy.its.uu.se/login?url=https://www.dawsonera.com:443/abstract/9780230279711", ["Tillgängliga för användare inom Uppsala universitet"]]
-]
-}
-},
-{
-"identifier": "http://libris.kb.se/bib/17229282",
-"title": "Teaching with Harry Potter : essays on classroom wizardry from elementary school to college",
-"isbn": "9780786472017",
-"type": "book",
-"language": "eng",
-"description": "Imported from: z3950cat.bl.uk:9909/BNB03U (Do not remove)"
-},
-{
-"identifier": "http://libris.kb.se/bib/3139424",
-"title": "Harry Potter rules!",
-"creator": "Heikkilä-Halttunen, Päivi",
-"type": "article",
-"language": "fin",
-"relation": "Onnimanni"
-},
-{
-"identifier": "http://libris.kb.se/bib/3070165",
-"title": "Hur man skapar en succé : fenomenet Harry Potter",
-"creator": "Nikolajeva, Maria, 1952-",
-"type": "article",
-"language": "swe",
-"relation": "Opsis kalopsis"
-},
-{
-"identifier": "http://libris.kb.se/bib/11526222",
-"title": "The magical world of Harry Potter [Ljudupptagning]",
+"identifier": "http://libris.kb.se/bib/11868892",
+"title": "Song for anyone [Ljudupptagning]",
+"creator": "Potter, Chris",
 "type": "musical sound recording",
-"publisher": "London : Music Club",
-"date": "p 2004",
+"publisher": "Universal Music France",
+"date": "p 2007",
 "language": "und"
 },
 {
-"identifier": "http://libris.kb.se/bib/9748680",
-"title": "A muggle's guide to the wizarding world : exploring the Harry Potter universe",
-"creator": "Boyle, Fionna",
-"isbn": "155022655X",
+"identifier": "http://libris.kb.se/bib/8290552",
+"title": "Zwingli",
+"creator": "Potter, George Richard",
+"isbn": "0521209390 ;",
 "type": "book",
-"publisher": "Toronto, Ont. : ECW",
-"date": "2005",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/9773773",
-"title": "The ivory tower and Harry Potter [Elektronisk resurs] perspectives on a literary phenomenon",
-"isbn": "0826214436 (invalid)",
-"type": "E-book",
-"publisher": "Columbia : University of Missouri Press",
-"date": "2002",
-"language": "eng",
-"relation": "The ivory tower and Harry Potter",
-"urls": {
-"AlbE": [
-["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
-], 
-"Bthd": [
-["http://miman.bib.bth.se/login?url=http://site.ebrary.com/lib/bthbib/Top?id=10048231", ["Online access for BTH", "Ebrary Academic Complete International Subscription Collection"]]
-], 
-"Hald": [
-["http://ezproxy.bib.hh.se/login?url=http://site.ebrary.com/lib/halmstad/Top?id=10048231", ["Tillgänglig för användare inom Högskolan i Halmstad", "Ebrary"]]
-], 
-"HdE": [
-["http://www.du.se/proxy.aspx?url=http://site.ebrary.com/lib/dalarna/Top?id=10048231", ["Online access for Högskolan Dalarna", "Ebrary Academic Complete International Subscription Collection"]]
-], 
-"Hdig": [
-["http://link.sub.su.se/sfxsub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Stockholms universitet", "ebrary Academic Complete Non-US:Full Text"]]
-], 
-"Hibd": [
-["http://costello.pub.hb.se/login?url=http://site.ebrary.com/lib/boras/Top?id=10048231", ["Tillgänglig för användare inom Högskolan i Borås", "Ebrary Academic Complete International Subscription Collection"]]
-], 
-"Htue": [
-["http://sfx-46htu.hosted.exlibrisgroup.com/46htu?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Högskolan Väst/Restricted access", "ebrary e-books:Full Text"]]
-], 
-"Jsld": [
-["http://sfxeu11.hosted.exlibrisgroup.com/sfxslub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for SLU", "ebrary Academic Complete Non-US:Full Text"]]
-], 
-"Kdig": [
-["https://login.bibproxy.kau.se:8443/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Online access for KaU", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
-], 
-"LTUd": [
-["http://proxy.lib.ltu.se/login?url=http://site.ebrary.com/lib/lulea/Top?channelName=lulea&cpage=1&docID=10048231", ["Online access for LTU", "Ebrary Academic Complete"]]
-], 
-"LiUd": [
-["https://login.e.bibl.liu.se/login?url=http://site.ebrary.com/lib/linkoping/Top?channelName=linkoping&cpage=1&docID=10048231", ["Extern tillgång endast anställda och studenter vid LiU", "Ebrary Academic Complete"]]
-], 
-"LnuE": [
-["http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=113900", ["Online access for Linneaus University", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
-], 
-"Mahd": [
-["http://sfxeu11.hosted.exlibrisgroup.com/mah?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for Malmö University", "Ebrary Academic Complete Non-US:Full Text"]]
-], 
-"Odig": [
-["http://db.ub.oru.se/login?url=http://site.ebrary.com/lib/universitetsbiblioteket/Top?id=10048231", ["Tillgänglig inom Örebro universitet och externt för studenter och anställda vid universitetet", "Ebrary Academic Complete Subscription Collection"]]
-], 
-"Pvd": [
-["http://site.ebrary.com/lib/prvbib/Top?channelName=prvbib&cpage=1&docID=10048231", ["Tillgänglig på PRV", "Ebrary Academic Complete"]]
-], 
-"Qdig": [
-["http://sfxeu11.hosted.exlibrisgroup.com/sfxumub?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare vid Umeå Universitetsbiblioteket", "ebrary Academic Complete:Full Text"]]
-], 
-"Rdig": [
-["http://sfx-46riks.hosted.exlibrisgroup.com/46riks?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Tillgänglig för användare inom Riksdagsbiblioteket", "Ebrary: full text:Full Text"]]
-], 
-"Tdig": [
-["http://sfxeu10.hosted.exlibrisgroup.com/sfxkth?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000004278&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&", ["Online access for KTH", "ebrary Academic Complete Non-US:Full Text"]]
-], 
-"Udix": [
-["http://ezproxy.its.uu.se/login?url=http://site.ebrary.com/lib/uppsala/Top?id=10048231", ["Tillgänglig för användare inom Uppsala universitet", "Ebrary Academic Complete International Subscription Collection"]]
-], 
-"Zdig": [
-["http://proxy.lib.chalmers.se/login?url=http://site.ebrary.com/lib/chalmers/Top?id=10048231", ["Online access for Chalmers", "Ebrary"]]
-]
-}
-},
-{
-"identifier": "http://libris.kb.se/bib/10938659",
-"title": "Scholarly studies in Harry Potter : applying academic methods to a popular text",
-"isbn": [
-"0773460101",
-"9780773460102",
-"088946927X",
-"9780889469273"
-],
-"type": "book",
-"publisher": "Lewiston, N.Y. : Edwin Mellen Press",
-"date": "cop. 2005",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/11408020",
-"title": "Harry Potter ve felsefe tasi",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9750802942",
-"type": "book",
-"publisher": "Yapi kredi",
-"date": "2001",
-"language": "tur"
-},
-{
-"identifier": "http://libris.kb.se/bib/10016116",
-"title": "\"Harry hade velat skrika\" : skräckelement i Harry Potter-sviten",
-"creator": "Johansson, Annika, 1960-",
-"type": "article",
-"language": "swe",
-"relation": "Barnboken"
-},
-{
-"identifier": "http://libris.kb.se/bib/8649671",
-"title": "A guide to the Harry Potter novels",
-"creator": "Eccleshare, Julia",
-"isbn": [
-"0826453171",
-"0826453163"
-],
-"type": "book",
-"publisher": "London : Continuum",
-"date": "2002",
-"language": "eng",
-"description": "Dawson"
-},
-{
-"identifier": "http://libris.kb.se/bib/13502896",
-"title": "The subversive Harry Potter : adolescent rebellion and containment in the J.K. Rowling novels",
-"creator": "Saxena, Vandana, 1977-",
-"isbn": "9780786466740",
-"type": "book",
-"publisher": "Jefferson, NC : McFarland & Company, Inc",
-"date": "c2012",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/16755283",
-"title": "Harry Potter and the chamber of secrets",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9781408855904",
-"type": "book",
-"publisher": "London : Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/16784734",
-"title": "Harry Potter and the half-blood prince",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9781408855942",
-"type": "book",
-"publisher": "London : Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/16784735",
-"title": "Harry Potter And the Deathly Hallows",
-"creator": "Rowling, J. K.",
-"isbn": "9781408855959",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/11932181",
-"title": "Harry Potter and the philosopher's stone",
-"creator": "Rowling, Joanne K.",
-"isbn": "9780747573609",
-"type": "book",
-"publisher": "Bloomsbury",
-"date": "2004",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/16638448",
-"title": "Harry Potter och de vises sten [Ljudupptagning]",
-"creator": "Rowling, J K",
-"isbn": "9789162275587",
-"type": "sound recording",
-"publisher": "Bonnier Utbildning",
-"date": "2005",
-"language": "swe",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/16596469",
-"title": "Harry Potter and the Deathly Hallows",
-"creator": "Rowling, J.K",
-"isbn": "9781408855713",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/16596466",
-"title": "Harry Potter and the Philosopher's Stone",
-"creator": "Rowling, J.K",
-"isbn": "9781408855652",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
-},
-{
-"identifier": "http://libris.kb.se/bib/9641549",
-"title": "The politics of terror : rereading 'Harry Potter'",
-"creator": "Strimel, Courtney B.",
-"type": "article",
-"language": "eng",
-"relation": "Children's literature in education"
-},
-{
-"identifier": "http://libris.kb.se/bib/4749160",
-"title": "Glazes for the craft potter",
-"creator": "Fraser, Harry",
-"isbn": "0273009397",
-"type": "book",
-"publisher": "London : Pitman",
+"publisher": "Cambridge : Cambridge U.P",
 "date": "1976",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/11918923",
-"title": "The riddles of Harry Potter : secret passages and interpretive quests",
-"creator": "Wolosky, Shira, 1954-",
+"identifier": "http://libris.kb.se/bib/4549481",
+"title": "The art of measurement : theory and practice",
+"creator": "Potter, Ronald W.",
+"isbn": "0130261742",
+"type": "book",
+"publisher": "Upper Saddle River, N.J. : Prentice Hall",
+"date": "cop. 2000",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10850961",
+"title": "Truths right-side tvrned upwards, or, Armies vindication against an aspersion of rebellion and tyrannie cast upon them [Elektronisk resurs] in several books, whereof one subscribed by divers ministers in the province of London, another by Mr. Geree, &c : not onely cleering the case of the armie to be just, but retorting the force of the arguments of their opposers upon themselves",
+"creator": "Potter, William.",
+"type": "E-book",
+"publisher": "London : Printed by James and Joseph Moxon, for William Larnar and to be sold at his shop",
+"date": "1649",
+"language": "eng",
+"relation": "Truths right-side tvrned upwards, or, Armies vindication against an aspersion of rebellion and tyrannie cast upon them",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:53360", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:53360", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:53360", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:53360", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/4927309",
+"title": "Potter and Monroe's tax planning with precedents",
+"creator": "Potter, Donald Charles",
+"isbn": "0421334207",
+"type": "book",
+"publisher": "London : Sweet & Maxwell",
+"date": "1987",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/9739235",
+"title": "Potter and Monroes̕ tax planning with precedents",
+"creator": "Potter, Donald Charles",
+"isbn": "042129180X",
+"type": "book",
+"publisher": "London : Sweet & Maxwell",
+"date": "1982",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11111393",
+"title": "A sermon preach'd at the assizes held at Wells, August the 27th, 1712. ... By John Potter, [Elektronisk resurs]",
+"creator": "Potter, John, 1675 or 6-1739.",
+"type": "E-book",
+"publisher": "London : printed for Henry Clements",
+"date": "1712",
+"language": "eng",
+"relation": "A sermon preach'd at the assizes held at Wells, August the 27th, 1712. ... By John Potter,",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T045921&tiPG=1&dd=0&dc=flc&docNum=CW121946853&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T045921&tiPG=1&dd=0&dc=flc&docNum=CW121946853&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/9326246",
+"title": "802.11 security",
+"creator": "Potter, Bruce",
+"isbn": "0596002904",
+"type": "book",
+"publisher": "Bejing : O'Reilly",
+"date": "cop. 2003",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/3526",
+"title": "Introductory petrography of fossils",
+"creator": "Horowitz, Alan Stanley",
 "isbn": [
-"9780230109292",
-"0230109292"
+"3540052755",
+"0387052755"
 ],
 "type": "book",
-"publisher": "New York : Palgrave Macmillan",
-"date": "2010",
+"publisher": "Berlin ; New York : Springer",
+"date": "1971",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/11864827",
-"title": "Creating magical worlds : otherness and othering in Harry Potter",
-"creator": "Rana, Marion.",
+"identifier": "http://libris.kb.se/bib/8879553",
+"title": "The great big treasury of Beatrix Potter [Elektronisk resurs]",
+"creator": "Potter, Beatrix, 1866-1943.",
+"isbn": "0585011257",
+"type": "E-book",
+"publisher": "Champaign, Ill. : Project Gutenberg ; Boulder, Colo. : NetLibrary",
+"date": "[199-?]",
+"language": "eng",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300", ["Extern access endast forskare och studenter vid GU"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300", ["Fulltext"]]
+], 
+"Hib": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"Ldig": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"Mah": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"O": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"Q": [
+["http://proxy.ub.umu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"R": [
+["http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=1072300"]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5513372",
+"title": "W.J.M.M. : political questions : essays in honour of W.J.M. Mackenzie",
+"isbn": "0719005949 ;",
+"type": "book",
+"publisher": "Manchester : Manchester U.P",
+"date": "cop. 1974",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10521774",
+"title": "Bruce Potter",
+"creator": "Blair, Crissi,",
+"type": "article",
+"language": "eng",
+"relation": "Magpies"
+},
+{
+"identifier": "http://libris.kb.se/bib/5052347",
+"title": "American government and politics",
+"creator": "Fotheringham, Peter",
 "isbn": [
-"9783631580714",
-"3631580711"
+"0571049737",
+"0571048897"
 ],
 "type": "book",
-"publisher": "Frankfurt am Main ; New York : Peter Lang",
-"date": "cop. 2009",
+"publisher": "London : Faber",
+"date": "1978",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/16755284",
-"title": "Harry Potter and the order of the Phoenix",
-"creator": "Rowling, J. K., 1965-",
-"isbn": "9781408855935",
+"identifier": "http://libris.kb.se/bib/732451",
+"title": "Atlas and glossary of primary sedimentary structures",
+"creator": "Pettijohn, Francis John",
 "type": "book",
-"publisher": "London : Bloomsbury Publishing Ltd",
-"date": "2014",
+"publisher": "Berlin : Springer",
+"date": "1964",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/11785266",
-"title": "The magical worlds of Harry Potter : a treasury of myths, legends, and fascinating facts : updated and complete",
-"creator": "Colbert, David.",
-"isbn": "9780425223185",
-"type": "book",
-"publisher": "New York : Berkley Books",
-"date": "2008",
-"language": "eng"
-},
-{
-"identifier": "http://libris.kb.se/bib/10603235",
-"title": "If Harry Potter ran General Electric : leadership wisdom from the world of the wizards",
-"creator": "Morris, Tom",
+"identifier": "http://libris.kb.se/bib/4878803",
+"title": "Sand and sandstone",
+"creator": "Pettijohn, Francis John",
 "isbn": [
-"0385517548",
-"9780385517546"
+"0387963553",
+"3540963553"
 ],
 "type": "book",
-"publisher": "New York : Doubleday",
-"date": "cop. 2006",
+"publisher": "New York ; Berlin : Springer-Verlag",
+"date": "cop.1987",
 "language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/14011552",
-"title": "Harry Potter and the Deathly Hallows (barn)",
-"creator": "Rowling, J. K.",
-"isbn": "9780747595830",
+"identifier": "http://libris.kb.se/bib/11107310",
+"title": "On the pretended inspiration of the Methodists [Elektronisk resurs]. A sermon preach'd in the parish church of Reymerston in Norfolk. By the Reverend Mr. Potter",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "Norwich : printed and sold by W. Chase: sold also by R. Griffiths, and M. Cooper, London; Mr. Merril at Cambridge; Mr. Green at Bury; Mr. Hollingworth at Lynn; and Messrs. Powell and Carr at Yarmouth",
+"date": "1758",
+"language": "eng",
+"relation": "On the pretended inspiration of the Methodists",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T014571&tiPG=1&dd=0&dc=flc&docNum=CW121627514&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T014571&tiPG=1&dd=0&dc=flc&docNum=CW121627514&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11122704",
+"title": "A sermon preached before the Right Worshipful the Mayor of Norwich [Elektronisk resurs], and the corporation, in the cathedral, on Friday, April 19, 1793, ... By the Rev. Robert Potter",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "[Norwich] : Printed at the Norfolk Press by Crouse and Stevenson, and sold by W. Stevenson, Yarington and Bacon, and Berry's, Norwich; Downes and March, Yarmouth; Marshall, Lynn; Barker, Dereham; Gedge, Bury; and by J. Johnson, London",
+"date": "1793",
+"language": "eng",
+"relation": "A sermon preached before the Right Worshipful the Mayor of Norwich",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T095999&tiPG=1&dd=0&dc=flc&docNum=CW117918082&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T095999&tiPG=1&dd=0&dc=flc&docNum=CW117918082&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5527349",
+"title": "Beatrix Potter 1866 - 1943 : the artist and her world",
+"isbn": [
+"072323521X",
+"0723235619"
+],
 "type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2008",
+"publisher": "London : Warne : the National Trust",
+"date": "1987",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/14693650",
+"title": "Sally Potter [Elektronisk resurs]",
+"creator": "Fowler, Catherine",
+"isbn": [
+"9780252091261",
+"9780252033827 (invalid)"
+],
+"type": "E-book",
+"publisher": "University of Illinois Press",
+"date": "2009",
+"language": "und",
+"description": [
+"EBZ",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att färsvinna."
+],
+"relation": "Sally Potter",
+"urls": {
+"AlbE": [
+["https://login.proxy.annalindhbiblioteket.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=569957", ["Tillgänglig för användare inom Försvarshögskolan/Anna Lindh-biblioteket", "eBook Academic Subscription Collection - Worldwide"]]
+], 
+"Kdig": [
+["https://login.bibproxy.kau.se:8443/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=569957", ["Online access for KaU", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"LnuE": [
+["http://proxy.lnu.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=569957", ["Online access for Linneaus University", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+], 
+"Mdhd": [
+["http://ep.bib.mdh.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xww&AN=569957", ["Tillgänglig för användare inom Mälardalens högskola", "eBook Academic Collection (EBSCOhost) - Worldwide"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8551046",
+"title": "Mr. Potter",
+"creator": "Kincaid, Jamaica, 1949-",
+"isbn": "0701173726",
+"type": "book",
+"publisher": "London : Chatto & Windus",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8758642",
+"title": "Mr. Potter",
+"creator": "Kincaid, Jamaica, 1949-.",
+"isbn": "0374214948",
+"type": "book",
+"publisher": "New York : Farrar, Straus, and Giroux",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/15183880",
+"title": "Beatrix Potter [Elektronisk resurs]",
+"creator": "MacDonald, Ruth K",
+"isbn": [
+"080576917X (invalid)",
+"9780805769173 (invalid)"
+],
+"type": "E-book",
+"publisher": "",
+"date": "1986",
+"language": "und",
+"description": [
+"WaSeSS",
+"Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+],
+"relation": "Beatrix Potter",
+"urls": {
+"Udix": [
+["http://ezproxy.its.uu.se/login?url=http://find.galegroup.com/openurl/openurl?url_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&res_id=info:sid/gale:LitRC&ctx_enc=info:ofi:enc:UTF-8&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.isbn=9780805769173&req_dat=info:sid/gale:ugnid:uppsala", ["Tillgänglig för användare inom Uppsala universitet", "Literature Resource Center - Twayne's Authors Module"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/13372681",
+"title": "Supply Chain Auditing [Elektronisk resurs]",
+"creator": "Potter, Andrew.",
+"isbn": [
+"9780857248442",
+"9780857248435 (invalid)"
+],
+"type": "E-book",
+"publisher": "Bradford : Emerald Group Publishing Limited",
+"date": "2011",
+"language": "eng",
+"relation": "Supply Chain Auditing"
+},
+{
+"identifier": "http://libris.kb.se/bib/14221200",
+"title": "The Tales of Peter Rabbit",
+"creator": "Potter, Beatrix",
+"isbn": "9780723267683",
+"type": "book",
+"publisher": "Penguin Books Ltd",
+"date": "2012",
 "language": "eng",
 "description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
 },
 {
-"identifier": "http://libris.kb.se/bib/16784732",
-"title": "Harry Potter And the Goblet of Fire",
-"creator": "Rowling, J. K.",
-"isbn": "9781408855928",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
+"identifier": "http://libris.kb.se/bib/11083441",
+"title": "The decoy: an opera [Elektronisk resurs]. As it was intended to be acted at the theatre in Lincoln's-Inn Fields",
+"creator": "Potter, Henry, fl. 1733.",
+"type": "E-book",
+"publisher": "London : printed for M. Cooper",
+"date": "1744",
 "language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+"relation": "The decoy: an opera",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T084892&tiPG=1&dd=0&dc=flc&docNum=CW114862554&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T084892&tiPG=1&dd=0&dc=flc&docNum=CW114862554&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
 },
 {
-"identifier": "http://libris.kb.se/bib/16755282",
-"title": "Harry Potter And the Prisoner of Azkaban",
-"creator": "Rowling, J. K.",
-"isbn": "9781408855911",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
+"identifier": "http://libris.kb.se/bib/10821508",
+"title": "Archæologiæ græcæ: or, The antiquities of Greece. By John Potter, M.A. and Fellow of Lincoln College, Oxon [Elektronisk resurs]",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "Oxford : printed at the theatre, for Timothy Child at the White-Hart, and John Jones at the Dolphin and Crown, in St. Paul's Church-yard, London",
+"date": "MDCXCIX. [1699]",
 "language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+"relation": "Archæologiæ græcæ: or, The antiquities of Greece. By John Potter, M.A. and Fellow of Lincoln College, Oxon",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:32839", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:32839", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:32839", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:32839", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
 },
 {
-"identifier": "http://libris.kb.se/bib/16596476",
-"title": "Harry Potter and the Chamber of Secrets",
-"creator": "Rowling, J.K",
-"isbn": "9781408855669",
+"identifier": "http://libris.kb.se/bib/13546659",
+"title": "Media literacy",
+"creator": "Potter, W. James",
+"isbn": "9781452206257",
 "type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
-"language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+"publisher": "Thousand Oaks, Calif. : Sage",
+"date": "cop. 2013",
+"language": "eng"
 },
 {
-"identifier": "http://libris.kb.se/bib/16596472",
-"title": "Harry Potter and the Goblet of Fire",
-"creator": "Rowling, J.K",
-"isbn": "9781408855683",
-"type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
+"identifier": "http://libris.kb.se/bib/10993535",
+"title": "Archæologia græca [Elektronisk resurs], or, the antiquities of Greece. The second edition very much augmented and improved. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for S. and J. Sprint, and John Nicholson; and for Timothy Child",
+"date": "1706",
 "language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+"relation": "Archæologia græca",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022353&tiPG=1&dd=0&dc=flc&docNum=CW106289992&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=goteborg", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022353&tiPG=1&dd=0&dc=flc&docNum=CW106289992&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022353&tiPG=1&dd=0&dc=flc&docNum=CW106289992&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
 },
 {
-"identifier": "http://libris.kb.se/bib/16596459",
-"title": "Harry Potter and the Half-Blood Prince",
-"creator": "Rowling, J.K",
-"isbn": "9781408855706",
+"identifier": "http://libris.kb.se/bib/5054824",
+"title": "Karaoke : and Cold Lazarus",
+"creator": "Potter, Dennis",
+"isbn": "0571174787",
 "type": "book",
-"publisher": "Bloomsbury Publishing Ltd",
-"date": "2014",
+"publisher": "London : Faber",
+"date": "1996",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11107311",
+"title": "An appendix to the sermon on the pretended inspiration of the Methodists. Occasioned by Mr. Cayley's letter. By the reverend Mr. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "Norich [sic] : printed and sold by W. Chase: sold also by R. Griffiths and M. Cooper. London; Mr. Merril at Cambridge; Mr. Green at Bury; Mr. Hollingworth at Lynn; and Messrs. Powell and Carr at Yarmouth",
+"date": "1758",
 "language": "eng",
-"description": "Maskinellt genererad post. Ändra kod för fullständighetsnivå (leader/17), annars kommer manuellt gjorda ändringar att försvinna."
+"relation": "An appendix to the sermon on the pretended inspiration of the Methodists. Occasioned by Mr. Cayley's letter. By the reverend Mr. Potter",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T014572&tiPG=1&dd=0&dc=flc&docNum=CW121627545&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T014572&tiPG=1&dd=0&dc=flc&docNum=CW121627545&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11068255",
+"title": "Frederic, or the libertine [Elektronisk resurs]; including memoirs of the family of Montague: a novel. In two volumes",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for W. Lane",
+"date": "1788",
+"language": "eng",
+"relation": "Frederic, or the libertine",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N031670&tiPG=1&dd=0&dc=flc&docNum=CW113517950&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N031670&tiPG=1&dd=0&dc=flc&docNum=CW113517950&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11081278",
+"title": "The history of the adventures of Arthur O'Bradley [Elektronisk resurs]. In two volumes",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for T. Becket and P.A. de Hondt",
+"date": "1769",
+"language": "eng",
+"relation": "The history of the adventures of Arthur O'Bradley",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T070712&tiPG=1&dd=0&dc=flc&docNum=CW109695144&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T070712&tiPG=1&dd=0&dc=flc&docNum=CW109695144&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11065246",
+"title": "The hobby-horse: a characteristical satire on the times [Elektronisk resurs]. Printed from a manuscript, found among the papers of a late deceased satirist",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for F. Newbery",
+"date": "1766",
+"language": "eng",
+"relation": "The hobby-horse: a characteristical satire on the times",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N008343&tiPG=1&dd=0&dc=flc&docNum=CW109798077&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N008343&tiPG=1&dd=0&dc=flc&docNum=CW109798077&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11083563",
+"title": "Musick in mourning: or, fiddlestick in the suds. A tragic-comic, poetical burlesque, neither in prose or rhyme [Elektronisk resurs]",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for R. Faulder",
+"date": "1780",
+"language": "eng",
+"relation": "Musick in mourning: or, fiddlestick in the suds. A tragic-comic, poetical burlesque, neither in prose or rhyme",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T085800&tiPG=1&dd=0&dc=flc&docNum=CW115234568&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T085800&tiPG=1&dd=0&dc=flc&docNum=CW115234568&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/1369341",
+"title": "Article XIX of the covenant of the League of Nations",
+"creator": "Potter, Pitman B., 1892-1981",
+"type": "book",
+"publisher": "Geneva",
+"date": "1941",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11072096",
+"title": "The art of criticism; as exemplified in Dr. Johnson's lives of the most eminent English poets [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : printed for T. Hookham",
+"date": "1789",
+"language": "eng",
+"relation": "The art of criticism; as exemplified in Dr. Johnson's lives of the most eminent English poets",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022444&tiPG=1&dd=0&dc=flc&docNum=CW110007000&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T022444&tiPG=1&dd=0&dc=flc&docNum=CW110007000&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10988931",
+"title": "The reply of the country gentleman to the answer of his Military arguments, by the officer [Elektronisk resurs]",
+"creator": "Potter, Thomas, 1718-1759.",
+"type": "E-book",
+"publisher": "Dublin : printed for P. Wilson, and J. Exshaw",
+"date": "1758",
+"language": "eng",
+"relation": "The reply of the country gentleman to the answer of his Military arguments, by the officer",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N025992&tiPG=1&dd=0&dc=flc&docNum=CW107793277&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=goteborg", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N025992&tiPG=1&dd=0&dc=flc&docNum=CW107793277&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N025992&tiPG=1&dd=0&dc=flc&docNum=CW107793277&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/3170162",
+"title": "Paulus Potter : sa vie et ses œuvres",
+"creator": "Westrheene Wz., Tobias van, 1825-",
+"type": "book",
+"publisher": "La Haye : Nijhoff",
+"date": "1867",
+"language": "fre"
+},
+{
+"identifier": "http://libris.kb.se/bib/10347111",
+"title": "Sagan om Pelle Kanin",
+"creator": "Potter, Beatrix, 1866-1943",
+"isbn": [
+"9163855933",
+"9789163855931"
+],
+"type": "book",
+"publisher": "Stockholm : Bonnier Carlsen",
+"date": "2006",
+"language": "swe"
+},
+{
+"identifier": "http://libris.kb.se/bib/10987342",
+"title": "The choice of Apollo: a serenata [Elektronisk resurs]. As performed at the little theatre in the Hay-market. Written by John Potter. The music composed by Mr. William Yates",
+"creator": "Potter, John, fl. 1754-1804.",
+"type": "E-book",
+"publisher": "London : printed for C. Henderson",
+"date": "1765",
+"language": "eng",
+"relation": "The choice of Apollo: a serenata",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N015093&tiPG=1&dd=0&dc=flc&docNum=CW107137463&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=goteborg", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N015093&tiPG=1&dd=0&dc=flc&docNum=CW107137463&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N015093&tiPG=1&dd=0&dc=flc&docNum=CW107137463&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRL+OR+0LRI&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/4936525",
+"title": "Image, sound & story",
+"creator": "Potter, Cherry",
+"isbn": "0436380323",
+"type": "book",
+"publisher": "London : Secker & Warburg",
+"date": "1990",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10029340",
+"title": "Boys in khaki, girls in print : women's literary responses to the Great War, 1914-1918",
+"creator": "Potter, Jane",
+"isbn": [
+"0199279861",
+"9780199279869"
+],
+"type": "book",
+"publisher": "Oxford : Clarendon Press",
+"date": "2005",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/5008804",
+"title": "Four musical minimalists : La Monte Young, Terry Riley, Steve Reich, Philip Glass",
+"creator": "Potter, Keith",
+"isbn": "0521015014",
+"type": "book",
+"publisher": "Cambridge : Cambridge University Press",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11606232",
+"title": "Sex and relationship education : the no-nonsense resource for sex education in primary schools : for ages 9-11",
+"creator": "Potter, Molly",
+"isbn": "9781408110874",
+"type": "book",
+"publisher": "London : A & C Black Publishers Limited",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11606241",
+"title": "Sex and relationship education : the no-nonsense resource for sex education in primary schools : for ages 7-9",
+"creator": "Potter, Molly",
+"isbn": "9781408110690",
+"type": "book",
+"publisher": "London : A & C Black Publishers Limited",
+"date": "2009",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/8462362",
+"title": "What is a designer : things, places, messages",
+"creator": "Potter, Norman, 1923-1995",
+"isbn": [
+"0907259162",
+"9780907259169"
+],
+"type": "book",
+"publisher": "London : Hyphen",
+"date": "2002",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/4573709",
+"title": "Our language",
+"creator": "Potter, Simeon",
+"isbn": "0140134948",
+"type": "book",
+"publisher": "London : Penguin",
+"date": "1990",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/11069738",
+"title": "An inquiry into some passages in Dr. Johnson's Lives of the poets: particularly his observations on lyric poetry, and the odes of Gray. By R. Potter [Elektronisk resurs]",
+"creator": "Potter, R. 1721-1804.",
+"type": "E-book",
+"publisher": "London : printed for J. Dodsley",
+"date": "1783",
+"language": "eng",
+"relation": "An inquiry into some passages in Dr. Johnson's Lives of the poets: particularly his observations on lyric poetry, and the odes of Gray. By R. Potter",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T002862&tiPG=1&dd=0&dc=flc&docNum=CW114248398&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T002862&tiPG=1&dd=0&dc=flc&docNum=CW114248398&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/11119870",
+"title": "A discourse of church-government [Elektronisk resurs]: wherein the rights of the Church, and the supremacy of Christian princes, are vindicated and adjusted. By John Potter",
+"creator": "Potter, John, 1673 or 4-1747.",
+"type": "E-book",
+"publisher": "London : printed for Timothy Childe; Robert Knaplock; and Richard Wilkin",
+"date": "1711",
+"language": "eng",
+"relation": "A discourse of church-government",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T086037&tiPG=1&dd=0&dc=flc&docNum=CW123195366&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=stockuni", ["Fulltext"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T086037&tiPG=1&dd=0&dc=flc&docNum=CW123195366&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF&locID=uppsala", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/5055239",
+"title": "The tango lesson",
+"creator": "Potter, Sally",
+"isbn": "0571191665",
+"type": "book",
+"publisher": "London : Faber",
+"date": "1997",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10783201",
+"title": "VVant of charitie iustly charged, on all such Romanists, as dare (without truth or modesty) affirme, that Protestancie destroyeth salvation [Elektronisk resurs] In answer to a late popish pamphlet intituled Charity mistaken &c. By Christopher Potter D.D. chaplaine to his Maty in ordinarie, and provost of Queenes Colledge in Oxford",
+"creator": "Potter, Christopher, 1591-1646.",
+"type": "E-book",
+"publisher": "Oxford : Printed by the printers to the University, and are to be sold by Iohn Clarke under S. Peters Church in Corne-hill [, London]",
+"date": "1633",
+"language": "eng",
+"relation": "VVant of charitie iustly charged, on all such Romanists, as dare (without truth or modesty) affirme, that Protestancie destroyeth salvation",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15392", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15392", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15392", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15392", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/10787646",
+"title": "VVant of charitie iustly charged, on all such Romanists, as dare (without truth or modesty) affirme, that Protestancie destroyeth salvation [Elektronisk resurs] In answer to a late popish pamphlet intituled Charity mistaken &c. By Christopher Potter D.D. chaplaine to his Maty in ordinarie, and provost of Queenes Colledge in Oxford",
+"creator": "Potter, Christopher, 1591-1646.",
+"type": "E-book",
+"publisher": "Oxford : Printed by the printers to the University: for William Webb",
+"date": "1633",
+"language": "eng",
+"relation": "VVant of charitie iustly charged, on all such Romanists, as dare (without truth or modesty) affirme, that Protestancie destroyeth salvation",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:19845", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:19845", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:19845", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:19845", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/16789987",
+"title": "Moral tales. The shrubbery, and The triumph of beauty, by. T. Potter [Elektronisk resurs]",
+"creator": "Potter, T.",
+"type": "E-book",
+"publisher": "Manchester : [P]rinted and sold at the Office of G. Nicholson, 9, Spring-gardens. Sold also by T. Knott, 47, Lombard-street; and Champante & Whitrow, Jewry-Street, London",
+"date": "Anno 1797",
+"language": "eng",
+"urls": {
+"H": [
+["https://ezp.sub.su.se/login?url=http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&docType=ECCOArticles&bookId=1301601000&type=getFullCitation&tabID=T001&prodId=ECCO&docLevel=TEXT_GRAPHICS&version=1.0&source=library&userGroupName=stockuni", ["Fulltext"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/8429720",
+"title": "Collecting antique maps : an introduction to the history of cartography",
+"creator": "Potter, Jonathan",
+"isbn": "0951157760",
+"type": "book",
+"publisher": "London : Jonathan Potter Ltd",
+"date": "2001",
+"language": "eng"
+},
+{
+"identifier": "http://libris.kb.se/bib/10783183",
+"title": "The baronets buriall, or A funerall sermon preached at the solemnitie of that honourable baronet Sr Edvvard Seymours buriall. By Barnaby Potter Bachelor in Divinitie, fellow of Queenes College in Oxford, and preacher to the towne of Tottnes in Devon [Elektronisk resurs]",
+"creator": "Potter, Barnaby, 1577-1642.",
+"type": "E-book",
+"publisher": "Printed at Oxford : By Ioseph Barnes",
+"date": "1613",
+"language": "eng",
+"relation": "The baronets buriall, or A funerall sermon preached at the solemnitie of that honourable baronet Sr Edvvard Seymours buriall. By Barnaby Potter Bachelor in Divinitie, fellow of Queenes College in Oxford, and preacher to the towne of Tottnes in Devon",
+"urls": {
+"Gdig": [
+["http://ezproxy.ub.gu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15375", ["Tillgänglig för Göteborgs universitet / Online access for the University of Gothenburg"]]
+], 
+"H": [
+["https://ezp.sub.su.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15375", ["Fulltext"]]
+], 
+"Ldig": [
+["http://www.lub.lu.se/cgi-bin/ipchk/http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15375", ["Online access for Lund University"]]
+], 
+"Udig": [
+["http://ezproxy.its.uu.se/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_val_fmt=&rft_id=xri:eebo:image:15375", ["Tillgänglig för användare inom Uppsala universitet"]]
+]
+}
+},
+{
+"identifier": "http://libris.kb.se/bib/6400779",
+"title": "Overcoming job burnout : how to renew enthusiasm for work",
+"creator": "Potter, Beverly",
+"isbn": "1579510000",
+"type": "book",
+"publisher": "Berkeley, Ca. : Ronin Publishing",
+"date": "1998",
+"language": "eng"
 }
 ]

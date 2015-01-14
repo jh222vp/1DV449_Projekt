@@ -4,16 +4,19 @@
 
 function init()
 {
-    alert("hej");
+    /*Här utför vi en kontroll om användaren har tappat nätverksanslutning
+    Om så är fallet så alertas ett meddalnde ut som talar om att användaren är offline
+    och borde uppdatera sidan när anslutningen är tillbaka. Sökfunktionen inaktiveras samt knappen.
+    Tabellen med info från APIerna tas bort då den inte innehåller något*/
+
     if(navigator.onLine == false)
     {
-        alert("offline");
-        bootbox.alert("Tyvärr gick det inte att förhandsgranska boken på grund av olika anledningar." +
-        " Troligtvis för att den inte finns hos Google Books.  Bättre lycka vid nästa bok!");
+        bootbox.alert("Det verkar som om du är offline! Några eller alla funktioner kan vara satt ur spel i applikationen,"+
+        " ladda om hemsidan (F5) för att kontrollera nätverksanslutning");
+        $(".table").remove();
+        document.getElementById('searchQuery').disabled = true;
+        document.getElementById("myBtn").disabled = true;
     }
 }
 
-window.addEventListener('load', function(){
-    alert("loaded");
-});
-window.onload = init;
+window.onload = init();
