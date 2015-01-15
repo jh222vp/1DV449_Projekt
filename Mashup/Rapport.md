@@ -5,9 +5,7 @@ Jonas Holte, jh222vp
 I mitt projekt under kursen Webbteknik 2 så har jag valt att arbeta med två APIer från Libris och Google.
 Dessa har varit XSearch från Libris som är en nationell söktjänst med information om titlar på svenska bibliotek samt
 Google Books API som är en tjänst där man bland annat kan förhandsgranska böcker. Jag har valt att döpa min applikation
-till BookSearch.
-
-Jag har valt att slå ihop dessa två, så man kan söka efter böcker som finns på biblioteket med XSearch, för att sedan
+till BookSearch. Jag har valt att slå ihop dessa två, så man kan söka efter böcker som finns på biblioteket med XSearch, för att sedan
 kunna förhandskgranska (om möjligt) boken via Google Books. Vad jag vet så finns det ingen liknande tjänst som tillämpar
 denna funktionalitet.
 
@@ -32,8 +30,8 @@ Klickar användaren på kundvagnsikonen så skickas man istället till Adlibris.
 som jag nämnde tidigare. Ett uppslag görs och användaren kan eventuellt - om möjligt - köpa boken.
 
 ###Säkerhet och prestandaoptimering
-Säkerhetsmässigt så har jag försökt att ta bort farliga tecken vid min sökfunktion genom att använda stripe_tags.
-Detta dels för att det inte ska gå att presentera något farligt på min hemsida. Men också för att skona Libris samt Google
+Säkerhetsmässigt så har jag försökt att ta bort farliga tecken vid min sökfunktion genom att använda stripe_tags vid sökinput
+från användaren. Detta dels för att det inte ska gå att presentera något farligt på min hemsida. Men också för att skona Libris samt Google
 mot farligheter. Prestandamässigt så har jag bland annat minifierade scriptfiler och en Manifestfil som ser till att cacha
 statiska filer så det ska gå att ladda filerna något fortare vid besök på hemsidan.
 
@@ -41,14 +39,18 @@ statiska filer så det ska gå att ladda filerna något fortare vid besök på h
 ###Offline-first
 Jag har min manifestfil som ser till att cacha statiska filer och script så jag bl.a kan hålla koll på om nätverksanslutningen
 skulle gå ned för användaren. Skulle nätverket gå ned så varnas användaren om det och lämplig åtgärd rekomenderas.
-Eftersom att Google Books inte tillåtet cachning av deras filer och material så kunde jag inte spara ned detta. Skulle 
-nätverket gå ned när användaren t.ex sitter på tåget eller i en bilkö i en tunnel så går det fortfarande bra att bläddra
+Eftersom att Google Books inte tillåtet cachning av deras filer och material så kunde jag inte spara ned något material från
+detta APIet. Skulle nätverket gå ned när användaren t.ex sitter på tåget eller i en bilkö i en tunnel så går det fortfarande bra att bläddra
 bland sina tidigare resultat i tabellen. 
 
 ###Egen reflektion kring projektet
 Projektet har varit en utmaning, det har varit strul fram och tillbaka mellan den lokala utvecklingsmiljön där en sak fungerade
 men som sedan visade sig inte fungerade upp mot internet. Så en hel del omskrivning av kod har det blivit. Fick lägga 
 en hel del tid på att luska ut varför bootstrap-tables inte kunde läsa den JSON fil som jag fick från ett av APIerna men tillslut
-få ordning på det.
+få ordning på det. Det har varit roligt och lärorikt att jobba med två APIer och ta reda på hur man kan hantera dessa två tillsammans.
+Jag skulle vilja ha så att man kan få färger i tabellen som talat om vilka böcker som går att förhandsgranska ifrån GoogleBooks och
+vilka som inte går.
 
 ###Risker med din applikation
+En risk är att GoogleBooks är beroende av att Libris XSearch fungerar, eftersom att om Libris skulle gå ned så kan man inte
+söka efter olika böcker och därefter inte heller har någon nytta av GoogleBooks api. 
