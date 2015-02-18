@@ -1,0 +1,47 @@
+body
+{
+    background-image: url("../img/bg.png")
+}
+
+#searchBackground
+{
+    background-image: url('../img/bi.png');
+    border-radius: 5px;
+}
+
+#viewerCanvas
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+#map-canvas
+{
+    height: 500px;
+}
+
+#fbLogin
+{
+    margin-bottom:5px;
+}
+
+#SelectList
+{
+    margin-bottom: 80px;
+}
+
+.alert
+{
+    width: 100%;
+}
+
+.container
+{
+    margin-top: 40px;
+}
+
+.table
+{
+    background-color: #f9f9f9;
+}
